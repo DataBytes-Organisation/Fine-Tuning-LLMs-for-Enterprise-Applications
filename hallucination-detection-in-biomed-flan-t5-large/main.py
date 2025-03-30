@@ -1,24 +1,19 @@
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import transformers
+from model import load_model_and_tokenizer
+from generate_response import generate_response
 
 # Suppress logging
 transformers.logging.set_verbosity_error()
 
-# Load the model and tokenizer
+# Load model and tokenizer
 model_name = "google/flan-t5-large"
-model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+model, tokenizer = load_model_and_tokenizer(model_name)
 
 # Define input text
-input_text = "I drank alcohol during covid. What medicine should I take and explain why?"
+input_text = "Is aspirin recommended for reducing high blood pressure during pregnancy?"
 
-# Tokenize the input text
-inputs = tokenizer(input_text, return_tensors="pt")
+# Generate response
+response = generate_response(model, tokenizer, input_text)
 
-# Generate a response 
-outputs = model.generate(inputs["input_ids"], max_length=50)
-
-# Decode the output tokens to get the response text
-response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-
+# Print response
 print(response)
