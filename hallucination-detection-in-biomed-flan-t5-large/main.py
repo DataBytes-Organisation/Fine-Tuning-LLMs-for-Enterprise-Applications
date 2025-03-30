@@ -2,7 +2,7 @@ import transformers
 from model import get_default_model_tokenizer, load_model_from_file
 from generate_response import generate_response
 from data_processing import load_and_tokenize_data
-from trainer import train_model, evaluate_model
+from trainer import train_model, evaluate_model, train_model_lora
 from utils import save_model_and_tokenizer
 
 # Suppress logging
@@ -32,8 +32,7 @@ def retrain_model():
     train_encodings, train_labels = load_and_tokenize_data("./data/ori_pqal.json", tokenizer)
     
     # Train the model
-    train_model(model, train_encodings, train_labels)
-
+    train_model_lora(model, train_encodings, train_labels, 5)
     # Evaluate the model - train data used as we do randomization any way
     evaluate_model(model, train_encodings, train_labels)
 
