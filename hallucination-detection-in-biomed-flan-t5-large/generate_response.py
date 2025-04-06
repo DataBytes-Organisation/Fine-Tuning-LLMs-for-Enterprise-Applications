@@ -1,4 +1,13 @@
-def generate_response(model, tokenizer, input_text, max_length=100, temperature=0.3):
+def generate_response(model, tokenizer, input_text, max_length=50):    
+    inputs = tokenizer(input_text, return_tensors="pt")
+    outputs = model.generate(
+      inputs["input_ids"],
+      max_length=max_length
+    )
+    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return response
+
+def generate_parameterized_response(model, tokenizer, input_text, max_length=100, temperature=0.3):
 
     prompt = f"""
       Answer the following medical question using evidence-based clinical guidelines from trusted sources like PubMed, FDA, ACOG, WHO, etc. Provide relevant recommendations from these sources and explain the reasoning behind the answer. Include any conditions, risks, or precautions, and clearly state if further consultation is needed. If no evidence is available, explain the limitations of the available data.
