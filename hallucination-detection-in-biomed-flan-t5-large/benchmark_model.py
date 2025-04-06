@@ -1,6 +1,7 @@
 from model import get_default_model_tokenizer
 import json
 from tqdm import tqdm
+## TODO: Use huggingface evaluate metrics instead but this works as well
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from nltk.translate.meteor_score import meteor_score
 import evaluate
