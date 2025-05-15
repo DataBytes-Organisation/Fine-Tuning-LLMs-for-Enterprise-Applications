@@ -1,0 +1,9 @@
+{
+    "eval_loss": NaN,
+    "eval_model_preparation_time": 0.0125,
+    "eval_accuracy": 0.0,
+    "eval_f1": 0.0,
+    "eval_runtime": 203.9153,
+    "eval_samples_per_second": 0.971,
+    "eval_steps_per_second": 0.971
+}
