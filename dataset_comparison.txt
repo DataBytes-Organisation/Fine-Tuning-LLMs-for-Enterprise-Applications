@@ -1,0 +1,54 @@
+# Dataset Comparison for Medical Misinformation Detection
+
+## Dataset Sizes
+HealthFact: 12251 records, 5 columns
+SciFact: 1711 records, 3 columns
+COVID-19 Fake News: 10700 records, 3 columns
+
+## Label Mapping
+For unified training, we need to map the different label schemes:
+
+HealthFact labels:
+- 'false'
+- 'MISLEADING'
+- 'true'
+
+SciFact labels:
+- 'Misleading'
+- 'False'
+- 'True'
+
+COVID-19 Fake News labels:
+- 'real'
+- 'fake'
+- 'nan'
+
+Proposed unified label mapping:
+- TRUE: HealthFact 'true', SciFact 'SUPPORTS', COVID-19 'real'
+- FALSE: HealthFact 'false', SciFact 'REFUTES', COVID-19 'fake'
+- MISLEADING: HealthFact 'misleading', SciFact ''
+
+## Common Features
+Common columns across all datasets:
+- label
+
+## Differences
+Unique columns in HealthFact:
+- explanation
+- Unnamed: 0
+- claim_id
+
+Unique columns in SciFact:
+- evidence_text
+
+Unique columns in COVID-19 Fake News:
+- id
+- tweet
+
+## Preprocessing Requirements
+1. Standardize label formats across all datasets
+2. Create a unified data format with common fields
+3. Balance classes to prevent model bias
+4. Split data appropriately for training, validation, and testing
+5. Tokenize text using Falcon tokenizer
+6. Handle missing values appropriately
