@@ -73,6 +73,19 @@ This makes the solution usable by healthcare professionals, researchers, or the 
 - 🧠 Google Colab Pro+ (A100 GPU)
 
 ---
+## 📥 Download Datasets and Fine-Tuned Models
+
+Due to GitHub's file size limitations, the full datasets and fine-tuned QLoRA adapters are hosted externally.
+
+You can download everything from the following Google Drive link:
+
+🔗 **[Download Here](https://drive.google.com/drive/folders/1wsAWBgsPEPYm68uiXL0rtxNqGQCiuAVy?usp=drive_link)**
+
+The folder contains:
+- ✅ Cleaned and formatted HealthFact datasets (train/dev/test)
+- ✅ Benchmarking results before and after fine-tuning
+- ✅ Fine-tuned QLoRA adapters (Version 1 and Version 2)
+
 
 ## 🚀 Future Work
 
