@@ -46,7 +46,7 @@ We used the **HealthFact dataset**, which contains labeled medical claims catego
   - Target modules expanded to: `["q_proj", "v_proj", "k_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]`
 
 **Improved Accuracy:**  
-Final test accuracy: **~82%**
+Final test accuracy: **~77%**
 
 ---
 
