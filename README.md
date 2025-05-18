@@ -35,25 +35,30 @@ This is how i access by using access token.
 
 Model  
 For model id i have given name as per in hugging face   
-![][image3]
+![image](https://github.com/user-attachments/assets/049eb329-00ef-4030-9e52-f9190356e438)
+
 
 To make my Colab session more memory-efficient, I applied 4-bit quantization using `BitsAndBytesConfig` with NF4 quantization, float16 computation, and enabled double quantization for optimal performance.  
    
-![][image4]  
+![image](https://github.com/user-attachments/assets/abd1892b-f4fc-43fd-8a21-5accdcbb84b4)
+
 Then loaded our model with this quantization.  
 This technique is applied every time when model is used in our project.  
-![][image5]
+![image](https://github.com/user-attachments/assets/4c6dfcc5-22aa-449e-a000-7f55ca3c7b3c)
+
 
 **Dataset**  
 **Finetuning and RAG knowledge**   
 I have used MedQuAD (Medical Question Answering Dataset)  
-![][image6]
+![image](https://github.com/user-attachments/assets/aabcea69-d00a-48e6-b6cf-068be91e9339)
+
 
 This dataset is converted into json format for using.
 
 **Benchmarking dataset**  
 This is dataset is created and verified by medical professional. This dataset is use to evaluate model performance.   
-![][image7]
+![image](https://github.com/user-attachments/assets/ea2f2c46-6cb7-4434-9603-5baf96966838)
+
 
 # Part 1
 
@@ -62,17 +67,22 @@ This is dataset is created and verified by medical professional. This dataset is
 For hyperparameter tunning grid Search is because it systematically tests all combinations of specified parameters to find the best model performance using a chosen evaluation metric and easy to implement in colab aslo.  
 Due to lack of GPU resources, I couldn't tune all hyperparameters at once. Instead, I tuned them sequentially—first optimizing **temperature**, then **top\_p**, followed by **top\_k** values.
 
-![][image8]  
-![][image9]
+![image](https://github.com/user-attachments/assets/c498e5ea-5fd1-4a68-b3da-2c7be62bd6a7)
+
+
 
 After all best tuned model has following paramnter  
-![][image10]
+![image](https://github.com/user-attachments/assets/c32119a6-c55b-4ad4-b35a-7f75cbce0d3a)
 
+![image](https://github.com/user-attachments/assets/ddf778a6-ffea-4639-be35-6e7ebc39e52a)
 This is what before and after Hyperparamter tuning of model for same prompt. We can clearly observe the improvement in the model.  
-![][image11]
+
+
+![image](https://github.com/user-attachments/assets/184c0850-2dd7-43ef-aa78-b4acc9c5ae60)
 
 This is evaluation matrices calculated by using benchmarking dataset   
-![][image12]
+![image](https://github.com/user-attachments/assets/56b4a921-1acd-47ba-a518-5a91c0b352ec)
+
 
 There was no significant improvement in the score, possibly due to two main reasons:
 
@@ -94,14 +104,16 @@ There are many options available for fine-tuning large language models, but I ch
 
 Lora configuration 
 
-![][image13]
+![image](https://github.com/user-attachments/assets/5ef71b6a-a1cd-4abb-9ebd-00fb9ef551da)
+
 
 In the comment of  I have mention that I used lora for different setup thats gives me not good result and this one best parameter which show improvement in the model performance.
 
 In Llma 2 7B model, all params are  6,742,609,920 but by using LoRA  trainable parameters are 4,194,304. 
 
 This is training setup for fine tuning  
-![][image14]  
+![image](https://github.com/user-attachments/assets/5fa8bb30-72d0-4cd5-b021-969be1538f44)
+  
 I used the latest TrainingArguments with settings optimized for low VRAM, such as a small batch size(1), gradient accumulation, 8-bit optimizer, and fp16 for faster and memory-efficient training—ideal for limited GPU resources.  
 Tokennizer and model is as mention above formate. 
 
@@ -109,12 +121,15 @@ After this to evaluate our fine tuned model i have used same matrices and same b
 
 This one 1st one with r=8 and Lora alpha=16  
 For this only 1k example is used from 16k example from our dataset  
-![][image15]  
+![image](https://github.com/user-attachments/assets/594802d9-3af1-4996-8078-e67cce348bea)
+
 After this lora configuration is as shown   
-![][image16]  
+![image](https://github.com/user-attachments/assets/09751a36-6369-4198-a71d-9d0e3b191fc6)
+
 Below we can cleary observe in the improvement of performance of the model. But still not good enough. 
 
-![][image17]
+![image](https://github.com/user-attachments/assets/34f85c91-485e-406c-9896-1e29fdbd9902)
+
 
 We're still not seeing significant improvement, mainly due to:
 
@@ -134,20 +149,23 @@ We're still not seeing significant improvement, mainly due to:
 
 * **Generated sentence embeddings using `sentence-transformers/all-MiniLM-L6-v2`**  
     This lightweight embedding model balances performance and speed, making it ideal for resource-constrained environments Colab.  
-  ![][image18]
+ ![image](https://github.com/user-attachments/assets/b27d4e74-8727-4027-8859-1766b0aa4c7a)
+
 
 * **Stored embeddings in a FAISS vector database**  
    FAISS enables fast and memory-efficient similarity search, which is crucial for real-time RAG retrieval.
 
 * **Created the `MedicalRAG` class to encapsulate the full RAG workflow**  
-   Wrapping the pipeline in a class makes it reusable, maintainable, and easy to integrate into applications.![][image19]
+   Wrapping the pipeline in a class makes it reusable, maintainable, and easy to integrate into applications.
+  ![image](https://github.com/user-attachments/assets/c1c5467a-f67b-45bb-9425-7b15c7329716)
 
 * **Implemented logic to load/ create the vector store inside the class**  
     Ensures robustness—automatically builds the vector store if it’s missing, preventing errors on first-time use.
 
 * **Configured a retriever using the FAISS store (`as_retriever`)**  
    This provides an abstraction for document retrieval, allowing easy tuning (like `k=3` top matches) and integration with the generation step.  
-  ![][image20]
+  ![image](https://github.com/user-attachments/assets/29a7212d-4713-498d-8159-a37b00b4b745)
+
 
 * **Loaded the LLaMA 2 7B model with LoRA adapter using 4-bit quantization**  
    LoRA fine-tuning allows efficient adaptation to medical QA without retraining the whole model. 4-bit quantization reduces GPU memory usage significantly. Base model as described above.
@@ -160,7 +178,8 @@ We're still not seeing significant improvement, mainly due to:
 
   This is what output from RAGED model  
     
-  ![][image21]
+ ![image](https://github.com/user-attachments/assets/de03eaa4-ba98-4003-9f93-3babb98764a1)
+
 
 *Query: answer this in short: when can I use panadol?*  
 *Answer: Answer: Panadol is an analgesic and antipyretic medicine. It contains paracetamol as its main ingredient. Panadol can be used for the relief of pain and fever. However, it should not be used in children under 12 years of age. It should also not be used in pregnant women. Panadol can be used to relieve pain associated with headaches, muscle aches, toothaches, backaches, menstrual cramps and arthritis. Panadol can also be used to reduce fever, although it is not as effective as aspirin. Panadol is also used to relieve pain associated with the common cold and flu. Panadol is available in various strengths. The 500 mg strength is usually recommended for pain relief and the 1000 mg strength is usually recommended for fever reduction. Panadol should be taken as directed. If you take more than the recommended dose, you may experience nausea, vomiting, diarrhea, stomach pain, and liver damage. If you experience any of these symptoms, seek medical attention immediately.*
@@ -178,30 +197,35 @@ This is one the best answer.
 As mention same benchmarking dataset is used for detection of hallucination.  
 Then fact\_check\_hallucination() is implemented to detect hallucination
 
-![][image22]
+![image](https://github.com/user-attachments/assets/e0c7b288-0fce-4f63-b286-feee3ac28184)
+
 
 * Extract Medical Facts:  
   * Uses extract\_medical\_facts() to parse both generated\_answer and expected\_answer into discrete facts.
 
 This function used to extract facts   
-![][image23]
+![image](https://github.com/user-attachments/assets/9e1d1041-7417-4894-8747-b03a9c8a78b7)
+
 
 * Check for Issues:  
   * Contradictions: Compares generated facts against reference facts using contradicts().  
   * Unsupported Claims: Flags facts in the generated answer that lack support in the reference (using supports()).
 
-  ![][image24]
+![image](https://github.com/user-attachments/assets/f3d2079b-69f8-4b2b-8e74-8641cc85ffa3)
+
 
 * Score Hallucinations:  
   * Scoring Formula:  
     (2 \* num\_contradictions \+ num\_unsupported) / (2 \* total\_generated\_facts)  
   * Contradictions are weighted more heavily (2x) than unsupported claims.  
-    ![][image25]  
+    ![image](https://github.com/user-attachments/assets/151c09b3-03f0-49c8-9d06-1c7c4b5ba19a)
+ 
 * Assign Risk Level:  
   * High: Score \> 0.5 OR any contradictions.  
   * Medium: Score \> 0.2.  
   * Low: Otherwise.
 
 This is final result   
-![][image26]
+![image](https://github.com/user-attachments/assets/50787f0e-ef82-45e8-a810-0f18f2a4b0c5)
+
 
