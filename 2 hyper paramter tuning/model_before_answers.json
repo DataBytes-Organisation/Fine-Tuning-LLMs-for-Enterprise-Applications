@@ -1,0 +1,832 @@
+[
+    {
+        "question": "What are common causes of headaches?",
+        "expected_answer": "Common causes include stress, dehydration, poor posture, lack of sleep, and visual strain.",
+        "generated_answer": "What are common causes of headaches?\nThere are many causes of headaches, but some of the more common ones include:\nCluster headaches: These headaches occur in groups and typically affect one side of the head. They are often associated with other symptoms, such as"
+    },
+    {
+        "question": "How can you differentiate between a tension headache and a migraine?",
+        "expected_answer": "Tension headaches usually cause mild to moderate diffuse pain around the head. Migraines are often more severe, with pulsating pain on one side of the head, and can include nausea and light sensitivity.",
+        "generated_answer": "How can you differentiate between a tension headache and a migraine?\nHow can you differentiate between a tension headache and a migraine? What are the causes of tension headaches? What are the causes of migraines?\nA tension headache is a mild to moderate pain"
+    },
+    {
+        "question": "What home remedies are effective for relieving headaches?",
+        "expected_answer": "Effective remedies include hydration, rest, applying a cold or warm compress to the head, and practicing stress-reduction techniques such as meditation or gentle stretching.",
+        "generated_answer": "What home remedies are effective for relieving headaches?\nWhat are the best home remedies for headaches?\nWhat foods can cause headaches?\nWhat is the best home remedy for headache?\nHow do I stop getting headaches?\nWhat is the best home rem"
+    },
+    {
+        "question": "What are typical causes of lower back pain?",
+        "expected_answer": "Common causes include muscle or ligament strain, poor posture, heavy lifting, and underlying medical conditions like arthritis or disk disease.",
+        "generated_answer": "What are typical causes of lower back pain?\nDr. Mark Schroeder answered\nPain: The most common cause of back pain is muscle strain, often from lifting or twisting incorrectly. This is often accompanied by muscle spasm and can be treated with heat,"
+    },
+    {
+        "question": "Describe simple stretches to alleviate upper back pain.",
+        "expected_answer": "Simple stretches include the shoulder blade squeeze, cat-cow stretch, and doorway pectoral stretch, all of which can help loosen tight muscles and improve posture.",
+        "generated_answer": "Describe simple stretches to alleviate upper back pain.\nDefine and identify the five major muscle groups of the upper back.\nExplain the importance of core strength in the prevention of upper back pain.\nExplain the importance of proper posture in the prevention of upper back pain"
+    },
+    {
+        "question": "What over-the-counter medications can help relieve muscle aches?",
+        "expected_answer": "NSAIDs (e.g., ibuprofen, aspirin) and acetaminophen can be used to reduce pain and inflammation associated with muscle aches.",
+        "generated_answer": "What over-the-counter medications can help relieve muscle aches?\nWhat helps muscle pain?\nWhat is the best medicine for muscle pain?\nHow do I stop my muscles from hurting?\nWhat can I take for muscle pain and inflammation?\nHow do you calm down"
+    },
+    {
+        "question": "What are the symptoms of the common cold?",
+        "expected_answer": "Symptoms include a runny or stuffy nose, sore throat, sneezing, coughing, and sometimes a mild fever.",
+        "generated_answer": "What are the symptoms of the common cold?\nSymptoms of the common cold may include:\na stuffy or runny nose\na sore throat, which may be dry or get a lot of mucus\na cough, which may be dry or produce ph"
+    },
+    {
+        "question": "How does influenza differ from the common cold?",
+        "expected_answer": "Influenza symptoms are more severe and include high fever, severe muscle aches, fatigue, and a more intense cough.",
+        "generated_answer": "How does influenza differ from the common cold?\nHow is influenza diagnosed?\nHow is influenza treated?\nCan influenza be prevented?\nInfluenza is a highly contagious virus that causes respiratory illnesses, including pneumonia, in people"
+    },
+    {
+        "question": "What are effective prevention strategies for the flu?",
+        "expected_answer": "Getting an annual flu vaccine, practicing good hand hygiene, avoiding close contact with sick individuals, and maintaining a healthy lifestyle are effective strategies.",
+        "generated_answer": "What are effective prevention strategies for the flu?\nWhat is the best way to prevent getting the flu?\nHow can I protect myself from the flu?\nWhat are the best ways to prevent the flu?\nHow do you prevent the flu?\nHow do you prevent getting the flu?"
+    },
+    {
+        "question": "What are common causes of indigestion?",
+        "expected_answer": "Causes include eating too much or too quickly, fatty or spicy foods, stress, alcohol, and caffeine.",
+        "generated_answer": "What are common causes of indigestion?\nWhat are the symptoms of indigestion?\nWhat are the causes of indigestion?\nIndigestion, also known as dyspepsia, is a term used to describe a group of symptoms that occur together,"
+    },
+    {
+        "question": "How can one manage symptoms of acid reflux at home?",
+        "expected_answer": "Management techniques include eating smaller meals, avoiding lying down after eating, eliminating spicy and fatty foods, and avoiding caffeine and alcohol.",
+        "generated_answer": "How can one manage symptoms of acid reflux at home?\nHow can one manage symptoms of acid reflux at home? Acid reflux is a condition in which stomach acid comes up into the esophagus, or swallows back up into the esophagus"
+    },
+    {
+        "question": "What are signs that you should see a doctor for stomach pain?",
+        "expected_answer": "Signs include severe pain, pain that lasts several days, accompanying fever, difficulty breathing, vomiting, and signs of dehydration.",
+        "generated_answer": "What are signs that you should see a doctor for stomach pain?\nWhat does a hernia feel like?\nIs it normal to have stomach pain for a month?\nWhy does my stomach hurt when I walk?\nHow do you know if you have a hernia in your"
+    },
+    {
+        "question": "What are common triggers for eczema?",
+        "expected_answer": "Triggers include dry skin, irritants like soaps and detergents, allergens, stress, and weather changes.",
+        "generated_answer": "What are common triggers for eczema?\nThere are many things that can trigger or worsen eczema. They include:\nHaving a family history of eczema\nCertain foods or food additives, such as dairy products, soy, whe"
+    },
+    {
+        "question": "How can you treat mild sunburn at home?",
+        "expected_answer": "Treatments include cool baths or showers, moisturizing lotions, drinking plenty of fluids, and avoiding further sun exposure.",
+        "generated_answer": "How can you treat mild sunburn at home?\nHow do you know if a sunburn is mild or severe?\nHow long does it take to heal a sunburn?\nHow do you know if you have a sunburn?\nHow do you treat sunburn fast?\n"
+    },
+    {
+        "question": "What are the signs of skin infection?",
+        "expected_answer": "Signs include swelling, warmth, redness, pain, pus, and fever.",
+        "generated_answer": "What are the signs of skin infection?\nThere are different types of skin infections, including bacterial, fungal, viral, and parasitic infections. The signs and symptoms of a skin infection depend on the cause and the area of the"
+    },
+    {
+        "question": "What can cause sudden dizziness?",
+        "expected_answer": "Sudden dizziness can be caused by low blood pressure, dehydration, medication side effects, or inner ear disorders.",
+        "generated_answer": "What can cause sudden dizziness?\nDizziness and vertigo are often caused by benign (non-serious) conditions. However, they can also be caused by serious conditions that require prompt medical attention. The most common causes of dizziness and vertigo are:"
+    },
+    {
+        "question": "What are effective treatments for seasonal allergies?",
+        "expected_answer": "Treatments include antihistamines, nasal corticosteroids, and avoiding known allergens.",
+        "generated_answer": "What are effective treatments for seasonal allergies?\nA: The most effective treatments for seasonal allergies are allergy shots and oral antihistamines.\nAllergy shots, also called immunotherapy, are given by a health care professional and"
+    },
+    {
+        "question": "How can one prevent dehydration?",
+        "expected_answer": "Preventing dehydration involves drinking sufficient fluids throughout the day, especially water, and more so in hot weather or during physical activity.",
+        "generated_answer": "How can one prevent dehydration?\nDrink lots of water. Avoid alcohol and caffeine.\nHow can dehydration be prevented?\nHow can dehydration be prevented? Drink plenty of water. Avoid alco"
+    },
+    {
+        "question": "What should you do if you suspect food poisoning?",
+        "expected_answer": "It's important to stay hydrated, rest, and avoid solid foods initially. If symptoms persist or worsen, seek medical attention.",
+        "generated_answer": "What should you do if you suspect food poisoning?\nWhen you think you have food poisoning, call your doctor or a local emergency room. You should also contact your local health department.\nHow long does food poisoning last?\nFood poisoning can last for several days. Most"
+    },
+    {
+        "question": "How can regular physical activity benefit your health?",
+        "expected_answer": "Regular physical activity improves cardiovascular health, strengthens muscles, helps control weight, and reduces the risk of chronic diseases like diabetes and hypertension.",
+        "generated_answer": "How can regular physical activity benefit your health?\nHow much physical activity is recommended for adults?\nHow much physical activity is recommended for children and young people?\nWhat types of physical activity are there?\nHow can I make physical activity part of my life?\nWhy is it important"
+    },
+    {
+        "question": "What are the signs and symptoms of anemia?",
+        "expected_answer": "Symptoms of anemia include fatigue, pale skin, shortness of breath, dizziness, and irregular heartbeats.",
+        "generated_answer": "What are the signs and symptoms of anemia?\nWhat are the causes of anemia?\nWhat are the risk factors for anemia?\nWhat are the complications of anemia?\nHow is anemia diagnosed?\nHow is anemia treated?\nWhat are the treatments"
+    },
+    {
+        "question": "What are the benefits of getting enough sleep?",
+        "expected_answer": "Adequate sleep improves brain function, emotional well-being, physical health, and daytime performance.",
+        "generated_answer": "What are the benefits of getting enough sleep?\nSleep deprivation is a serious public health issue.\nAccording to the National Sleep Foundation, 30% of adults get less than the recommended 7 hours of sleep per night.\nSleep deprivation can"
+    },
+    {
+        "question": "How can you prevent high blood pressure?",
+        "expected_answer": "Prevention methods include maintaining a healthy weight, regular physical activity, a balanced diet low in salt and high in fruits and vegetables, and limiting alcohol intake.",
+        "generated_answer": "How can you prevent high blood pressure?\nIf you have high blood pressure, you need to treat it with medication to lower your blood pressure.\nHowever, if you don\u2019t have high blood pressure, you can still do things to prevent it.\nThere are many things you"
+    },
+    {
+        "question": "What should you do in case of a minor burn?",
+        "expected_answer": "Cool the burn under cool (not cold) running water for 10-15 minutes or apply a clean, cool, wet cloth. Cover the burn with a sterile, non-adhesive bandage or cloth.",
+        "generated_answer": "What should you do in case of a minor burn?\nYou should immediately wash the affected area with plenty of water.\nYou should then apply a cool compress to the affected area.\nYou should seek medical attention for minor burns, but also for severe burns.\nIf you have suffered"
+    },
+    {
+        "question": "What are common symptoms of asthma?",
+        "expected_answer": "Symptoms include wheezing, shortness of breath, chest tightness, and coughing, particularly at night or early in the morning.",
+        "generated_answer": "What are common symptoms of asthma?\nHow do you treat asthma?\nIs there a cure for asthma?\nHow long does asthma last?\nWhat is the best medicine for asthma?\nIs asthma a disability?\n"
+    },
+    {
+        "question": "How do you treat a bee sting?",
+        "expected_answer": "Remove the stinger, wash the area with soap and water, apply ice to reduce swelling, and take an antihistamine for itching or swelling if necessary.",
+        "generated_answer": "How do you treat a bee sting?\nWhat does it mean when a bee stings you?\nHow do you treat a bee sting on a dog?\nWhat is the fastest way to get rid of bee stings?\nWhat happens if a bee"
+    },
+    {
+        "question": "What dietary changes can help manage type 2 diabetes?",
+        "expected_answer": "Eating fiber-rich foods, balancing carb intake with activity levels, reducing sugar and refined carbohydrates, and monitoring portion sizes can help manage blood sugar levels.",
+        "generated_answer": "What dietary changes can help manage type 2 diabetes?\nWhat is the best diet to follow for type 2 diabetes?\nWhat is the best diet for diabetes type 2?\nWhat is the best diet for type 2 diabetes?\nIs the"
+    },
+    {
+        "question": "What are the early signs of dehydration?",
+        "expected_answer": "Early signs include thirst, darker urine, dry skin, fatigue, light-headedness, and dry mouth.",
+        "generated_answer": "What are the early signs of dehydration?\nWhat are the early signs of dehydration? What are the early signs of dehydration? Dehydration is the condition of having too little fluid in the body. Water is lost through urine, swe"
+    },
+    {
+        "question": "What is the best way to treat a headache without medication?",
+        "expected_answer": "Relaxation techniques, applying a heat pack or an ice pack to the neck or head, ensuring adequate hydration, and getting plenty of rest can help relieve a headache.",
+        "generated_answer": "What is the best way to treat a headache without medication?\nThere are many ways to treat a headache without medication. Some people find relief by applying heat to their forehead or taking a warm shower. Others find that a cold compress helps to relieve the pain. Some people also find"
+    },
+    {
+        "question": "What are the symptoms of a urinary tract infection (UTI)?",
+        "expected_answer": "Symptoms include a strong, persistent urge to urinate, a burning sensation when urinating, passing frequent, small amounts of urine, and urine that appears cloudy.",
+        "generated_answer": "What are the symptoms of a urinary tract infection (UTI)?\nWhat are the treatments for a urinary tract infection (UTI)?\nWhat are the complications of a urinary tract infection (UTI)?\nHow can I prevent a urinary tract infection (UTI)?\n"
+    },
+    {
+        "question": "How can you reduce the risk of developing osteoporosis?",
+        "expected_answer": "Increasing calcium and vitamin D intake, doing weight-bearing exercise, avoiding smoking and excessive alcohol, and getting regular bone density tests can help.",
+        "generated_answer": "How can you reduce the risk of developing osteoporosis?\nOsteoporosis is a condition that causes the bones to become fragile and more likely to break. Osteoporosis can affect both men and women, although it is more common in women.\nOsteoporosis"
+    },
+    {
+        "question": "What should you do if you suspect a concussion?",
+        "expected_answer": "Seek medical attention immediately, rest, and avoid activities that could worsen your condition, such as physical exertion and using digital screens.",
+        "generated_answer": "What should you do if you suspect a concussion?\nIf you suspect a concussion, you should take the following steps:\nGet medical attention immediately.\nKeep the person lying down and still.\nAvoid giving the person anything by mouth.\nIf vomiting occurs, the person"
+    },
+    {
+        "question": "What are the signs of depression?",
+        "expected_answer": "Signs include persistent sadness, loss of interest in activities, changes in appetite or weight, sleeping too much or too little, and feeling worthless.",
+        "generated_answer": "What are the signs of depression?\nDepression is a common mental health problem that affects people of all ages. It is characterized by persistent feelings of sadness, loss of interest or pleasure in activities, fatigue, difficulty concentrating, sleep disturbances, and app"
+    },
+    {
+        "question": "How do you treat poison ivy exposure?",
+        "expected_answer": "Wash the area with soap and water immediately, apply calamine lotion or hydrocortisone cream to soothe itching, and avoid scratching.",
+        "generated_answer": "How do you treat poison ivy exposure?\nHow long does poison ivy last?\nHow do you get rid of poison ivy rash?\nWhat does poison ivy look like?\nHow long does it take for poison ivy to go away?\nDoes vinegar"
+    },
+    {
+        "question": "What are effective ways to reduce stress?",
+        "expected_answer": "Effective methods include regular physical activity, maintaining social connections, practicing relaxation techniques like meditation, and seeking professional help if needed.",
+        "generated_answer": "What are effective ways to reduce stress?\nMany of us are under constant stress. We\u2019re stressed about work, finances, our children, and our relationships. We\u2019re also stressed about our health, our weight, and our appearance.\nStress is a normal"
+    },
+    {
+        "question": "What are the benefits of quitting smoking?",
+        "expected_answer": "Benefits include improved lung function, reduced risk of heart disease and cancer, improved circulation, and overall enhanced quality of life.",
+        "generated_answer": "What are the benefits of quitting smoking?\nWhat are the benefits of quitting smoking? It is one of the best decisions that you can make for your health. It is never too late to quit smoking. It will help you to breathe more easily and reduce your"
+    },
+    {
+        "question": "What should you do to treat jellyfish stings?",
+        "expected_answer": "Rinse the area with vinegar to neutralize the sting, soak the area in hot water to reduce pain and swelling, and avoid rubbing the area.",
+        "generated_answer": "What should you do to treat jellyfish stings?\nJellyfish stings can be painful, but are rarely fatal. In the worst cases, a person might need to be treated in a hospital, but the stings are usually less severe.\nYou can treat jellyfish stings"
+    },
+    {
+        "question": "How can you tell if someone is having a stroke?",
+        "expected_answer": "Look for signs such as facial drooping, arm weakness, and speech difficulties. If these signs are present, call emergency services immediately.",
+        "generated_answer": "How can you tell if someone is having a stroke?\nHow can you tell if someone is having a stroke? Here are 10 signs of a stroke:Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body.Sud"
+    },
+    {
+        "question": "What are good dietary sources of iron?",
+        "expected_answer": "Good sources include red meat, poultry, lentils, beans, leafy green vegetables, and iron-fortified cereals.",
+        "generated_answer": "What are good dietary sources of iron?\nHow can I prevent iron deficiency?\nHow can I prevent iron overload?\nIron is a mineral that is naturally present in many foods, added to some food products, and available as a dietary supplement"
+    },
+    {
+        "question": "What are the symptoms of food allergies?",
+        "expected_answer": "Symptoms can include hives, itching or swelling of the lips, face, or throat, stomach pain, nausea, or more severe symptoms like difficulty breathing or anaphylaxis.",
+        "generated_answer": "What are the symptoms of food allergies?\nFood allergy symptoms can vary from mild to severe.\nMild reactions: Itching in the mouth, hives, vomiting, diarrhea, stomach pain, and swelling of the lips"
+    },
+    {
+        "question": "What is the Pharmaceutical Benefits Scheme (PBS) in Australia?",
+        "expected_answer": "The PBS is a program by the Australian government that provides subsidized prescription drugs to residents, making medications more affordable.",
+        "generated_answer": "What is the Pharmaceutical Benefits Scheme (PBS) in Australia?\nThe Pharmaceutical Benefits Scheme (PBS) in Australia is a government-funded scheme that provides subsidised medicines to eligible Australians. The scheme was introduced in 1948 as"
+    },
+    {
+        "question": "What are some common over-the-counter pain relievers available in Australia?",
+        "expected_answer": "Common over-the-counter pain relievers include paracetamol, ibuprofen, and aspirin.",
+        "generated_answer": "What are some common over-the-counter pain relievers available in Australia?\nWhat are some common over-the-counter pain relievers available in Australia? Over-the-counter medications are available without a prescription and include acetaminophen, aspirin, and ibuprofen. These"
+    },
+    {
+        "question": "How do you safely dispose of expired medications in Australia?",
+        "expected_answer": "Expired medications can be returned to any pharmacy for safe disposal under the 'Return Unwanted Medicines' program in Australia.",
+        "generated_answer": "How do you safely dispose of expired medications in Australia?\nDo you have a medication that you no longer need or is expired?\nIf you have a medication that is no longer needed or has expired, you can dispose of it safely by returning it to a pharmacy.\n"
+    },
+    {
+        "question": "What should you know about antibiotic use in Australia?",
+        "expected_answer": "Antibiotics should only be used as prescribed by a healthcare provider to combat antibiotic resistance. They are not effective against viral infections like the common cold or flu.",
+        "generated_answer": "What should you know about antibiotic use in Australia?\nThe Australian Institute of Health and Welfare (AIHW) has released a report that provides an overview of the use of antibiotics in Australia.\nThe report is available at www.aihw.gov.au/"
+    },
+    {
+        "question": "What is the role of the Therapeutic Goods Administration (TGA) in Australia?",
+        "expected_answer": "The TGA regulates therapeutic goods including medicines and medical devices, ensuring they meet acceptable standards of manufacturing quality, safety, and efficacy.",
+        "generated_answer": "What is the role of the Therapeutic Goods Administration (TGA) in Australia?\nWhat is the role of the Therapeutic Goods Administration (TGA) in Australia? The TGA is an Australian Government agency responsible for regulating therapeutic goods in Australia. The TGA is responsible for"
+    },
+    {
+        "question": "How can you check if a medication is subsidized under the PBS?",
+        "expected_answer": "You can check if a medication is subsidized by searching the PBS website, which lists all the drugs covered under the scheme.",
+        "generated_answer": "How can you check if a medication is subsidized under the PBS?\nIf you are unsure whether a medicine is subsidized, you can check it on the PBS website at https://www.pbs.gov.au/ or call the PBS line on 1800 13"
+    },
+    {
+        "question": "What is required to get a prescription medication in Australia?",
+        "expected_answer": "A valid prescription from a licensed healthcare provider is required for prescription medications. The prescription must comply with Australian legal and medical guidelines.",
+        "generated_answer": "What is required to get a prescription medication in Australia?\nWhat is required to get a prescription medication in Australia? What is required to get a prescription medication in Australia?\nAs a pharmacy student, I was once asked what I wanted to do after I graduated.\nI"
+    },
+    {
+        "question": "What is a Schedule 8 drug, and how are they controlled in Australia?",
+        "expected_answer": "Schedule 8 drugs are controlled substances considered potentially addictive, such as opioids. Prescribing and dispensing of these drugs are strictly regulated for safety.",
+        "generated_answer": "What is a Schedule 8 drug, and how are they controlled in Australia?\nThe Australian government has a list of 800 controlled drugs that are known as Schedule 8.\nThese are drugs that are considered to have a high potential for abuse or dependence, and are subject to strict reg"
+    },
+    {
+        "question": "How does Australia manage the regulation of prescription opioids?",
+        "expected_answer": "Australia manages opioids through strict regulatory measures including prescription monitoring programs and guidelines for healthcare providers to minimize abuse and addiction risks.",
+        "generated_answer": "How does Australia manage the regulation of prescription opioids?\nA review of the evidence from 2000 to 2015\nEvidence Brief 10\nEvidence Briefs aim to provide a summary of the evidence to assist in the development of policy and"
+    },
+    {
+        "question": "What should you do if you experience side effects from a medication in Australia?",
+        "expected_answer": "Report any side effects to your healthcare provider and the Therapeutic Goods Administration (TGA) through their adverse event reporting system.",
+        "generated_answer": "What should you do if you experience side effects from a medication in Australia?\nWhat should you do if you experience side effects from a medication in Australia? The first thing you should do is to report it to your doctor. You can do this in person, over the phone, or by writing to them. Your doctor"
+    },
+    {
+        "question": "What should I take for a headache in Australia?",
+        "expected_answer": "For a general headache, over-the-counter medications like paracetamol or ibuprofen are commonly recommended. It's important to follow the dosage instructions on the package.",
+        "generated_answer": "What should I take for a headache in Australia?\nHow do I get rid of a headache in Australia?\nHow can I get rid of my headache without medicine?\nWhat is the best medicine for headache?\nWhat is the best painkiller for headache?\nWhat"
+    },
+    {
+        "question": "What medication is recommended for seasonal allergies in Australia?",
+        "expected_answer": "Antihistamines, such as loratadine or cetirizine, are commonly used to treat seasonal allergies and are available over the counter in Australia.",
+        "generated_answer": "What medication is recommended for seasonal allergies in Australia?\nWhat is the best allergy medicine for seasonal allergies?\nWhat is the best medicine for seasonal allergies?\nWhat is the best medicine for allergies in Australia?\nWhat medicine is best for allergies"
+    },
+    {
+        "question": "What should I do if I get a minor cut or abrasion?",
+        "expected_answer": "Clean the area with water and mild soap, apply an antiseptic, and cover with a sterile bandage. Over-the-counter antibiotic ointments can also be used to prevent infection.",
+        "generated_answer": "What should I do if I get a minor cut or abrasion?\nWhat should I do if I get a minor cut or abrasion? If you get a cut or abrasion that does not require stitches, apply pressure with a clean cloth or bandage for at least five minutes to control the"
+    },
+    {
+        "question": "What is the recommended treatment for sunburn in Australia?",
+        "expected_answer": "Apply aloe vera or a soothing lotion to the affected area. Stay hydrated and avoid further sun exposure. If the sunburn is severe, seek medical attention.",
+        "generated_answer": "What is the recommended treatment for sunburn in Australia?\nWhat is the best sunburn cream?\nHow long does it take for sunburn to go away?\nHow long does sunburn last on face?\nWhat does sunburn look like on face?\nDoes Aloe Vera help"
+    },
+    {
+        "question": "What should I take if I have indigestion?",
+        "expected_answer": "Over-the-counter antacids like Mylanta or Gaviscon can help relieve indigestion. Avoid spicy and fatty foods, and eat smaller, more frequent meals.",
+        "generated_answer": "What should I take if I have indigestion?\nWhat is the best medicine for indigestion?\nWhat is the best antacid for indigestion?\nWhat does indigestion feel like?\nDoes indigestion mean something is wrong?\nWhat causes indigestion every"
+    },
+    {
+        "question": "What is advised for the treatment of insect bites in Australia?",
+        "expected_answer": "Apply a cold pack to reduce swelling and consider using a topical antihistamine or corticosteroid cream to manage itching and irritation.",
+        "generated_answer": "What is advised for the treatment of insect bites in Australia?\nInsect bites are common in Australia and can be uncomfortable or even painful. It is important to be aware of the different types of insect bites and their symptoms.\nInsect bites are a common problem in"
+    },
+    {
+        "question": "What should I do if I suspect food poisoning?",
+        "expected_answer": "Stay hydrated and consider taking over-the-counter remedies like loperamide for severe diarrhea. If symptoms persist, seek medical attention.",
+        "generated_answer": "What should I do if I suspect food poisoning?\nFood poisoning is the term used to describe illness caused by eating contaminated food. It is usually caused by eating bacteria, viruses or parasites that can be found in foods. It can also"
+    },
+    {
+        "question": "What should be taken for motion sickness while traveling in Australia?",
+        "expected_answer": "Over-the-counter medications like meclizine or dimenhydrinate can help prevent and treat motion sickness. Take them before travel as directed.",
+        "generated_answer": "What should be taken for motion sickness while traveling in Australia?\nI've been using the SeaBands and they work very well for me. I also take Ginger Chews which helps a lot.\nThere are other medications like Dramamine that work well, but I don't"
+    },
+    {
+        "question": "What should I do for a sore throat?",
+        "expected_answer": "Gargling with warm salt water can help soothe a sore throat. Over-the-counter throat lozenges or sprays may also relieve symptoms.",
+        "generated_answer": "What should I do for a sore throat?\nIf you have a sore throat, you may be tempted to take over-the-counter pain relievers, such as acetaminophen or ibuprofen. While these medications may help to relieve the"
+    },
+    {
+        "question": "What should be done in case of an asthma attack without an inhaler?",
+        "expected_answer": "Try to stay calm, sit upright, and breathe slowly and deeply. If symptoms do not improve, seek emergency medical help immediately.",
+        "generated_answer": "What should be done in case of an asthma attack without an inhaler?\nWhen you are having an asthma attack, it is important that you follow the advice of your doctor, especially if you have been prescribed an inhaler. However, there are some general steps you can take to manage the attack."
+    },
+    {
+        "question": "What should I take for heartburn relief?",
+        "expected_answer": "Antacids, such as Tums or Rennie, can provide quick relief for heartburn. For frequent heartburn, medications like ranitidine or omeprazole may be recommended by a healthcare provider.",
+        "generated_answer": "What should I take for heartburn relief?\nIs there a safe way to relieve heartburn?\nHow do you get rid of heartburn fast?\nWhat is the best medicine for heartburn?\nCan I take Tums for heartburn?\nCan you take Tums for"
+    },
+    {
+        "question": "What should I take for a sinus infection?",
+        "expected_answer": "Decongestants like pseudoephedrine or nasal sprays such as oxymetazoline can help relieve sinus congestion. If symptoms persist, consult a healthcare provider as antibiotics may be necessary.",
+        "generated_answer": "What should I take for a sinus infection?\nWhat is the best medicine for sinusitis?\nHow long does it take for amoxicillin to work for sinus infection?\nDoes Amoxicillin help with sinus infections?\nWhat is the"
+    },
+    {
+        "question": "What should I do for a sprained ankle?",
+        "expected_answer": "Rest, ice, compress, and elevate the ankle. Over-the-counter pain relievers such as ibuprofen can reduce inflammation and pain.",
+        "generated_answer": "What should I do for a sprained ankle?\nHow long does an ankle sprain take to heal?\nHow long does ankle swelling last?\nWhat happens if you don\u2019t treat a sprained ankle?\nCan you walk on a sprained"
+    },
+    {
+        "question": "What is recommended for constipation relief?",
+        "expected_answer": "Over-the-counter fiber supplements like Metamucil or laxatives such as Dulcolax can be effective. Drinking plenty of water and increasing fiber intake can also help.",
+        "generated_answer": "What is recommended for constipation relief?\nHow do you stop constipation in elderly?\nHow do you relieve constipation in the elderly?\nWhat helps a person with constipation?\nWhat is the best laxative for elderly?\nHow"
+    },
+    {
+        "question": "What should I take for menstrual cramps?",
+        "expected_answer": "Nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen or naproxen can relieve pain and reduce inflammation.",
+        "generated_answer": "What should I take for menstrual cramps?\nHow do you stop period cramps fast?\nWhat can I take for period pain?\nHow do you get rid of cramps fast?\nWhat is the best medicine for period cramps?\nWhat is the best medicine for period pain"
+    },
+    {
+        "question": "What should I do if I have an allergic reaction to food?",
+        "expected_answer": "For mild reactions, antihistamines can reduce symptoms. For severe reactions, such as difficulty breathing, seek immediate medical help.",
+        "generated_answer": "What should I do if I have an allergic reaction to food?\nHow do I know if I am allergic to food?\nWhat should I do if I have an allergic reaction to food?How do I know if I am allergic to food?What should I do if I have"
+    },
+    {
+        "question": "What is advised for treating dandruff?",
+        "expected_answer": "Using medicated shampoos containing ketoconazole, selenium sulfide, or zinc pyrithione can effectively treat dandruff.",
+        "generated_answer": "What is advised for treating dandruff?\nDandruff is a common condition that affects the scalp. The condition is characterized by white flakes on the scalp, hair, and face. Dandruff can be caused by several factors, including dry skin,"
+    },
+    {
+        "question": "What should I take if I am feeling nauseous?",
+        "expected_answer": "Over-the-counter medications like meclizine or dimenhydrinate can help alleviate nausea.",
+        "generated_answer": "What should I take if I am feeling nauseous?\nI am feeling sick to my stomach. I have a headache and I feel like I am going to vomit. I have a fever. I have been vomiting and I am feeling nauseous. I have a head"
+    },
+    {
+        "question": "What should I do for a bee sting?",
+        "expected_answer": "Remove the stinger, wash the area with soap and water, apply ice, and take an antihistamine to reduce swelling and itching.",
+        "generated_answer": "What should I do for a bee sting?\nBee Sting Treatment. Bee stings can be painful, and for some people, they can be even more painful. If you\u2019ve been stung by a bee, wash the area with soap and"
+    },
+    {
+        "question": "What is recommended for treating a migraine?",
+        "expected_answer": "Over-the-counter medications such as ibuprofen or Excedrin Migraine can help. If migraines are severe or frequent, consult a healthcare provider.",
+        "generated_answer": "What is recommended for treating a migraine?\nI am a 37-year-old female with a history of migraine headaches since my early teens. I have tried all the medications and preventives, but they only work for a short period of time and then they"
+    },
+    {
+        "question": "What should I take for cold sores?",
+        "expected_answer": "Antiviral creams like acyclovir can help speed up healing time. Apply as soon as symptoms start.",
+        "generated_answer": "What should I take for cold sores?\nWhat can I take for a cold sore?\nWhat does the doctor do for a cold sore?\nHow long do cold sores last?\nWhat is the best medicine for cold sores?\nHow do I get rid of"
+    },
+    {
+        "question": "What should I do if I suspect a heat stroke?",
+        "expected_answer": "Move to a cooler place, apply cool cloths or take a cool bath, and drink plenty of fluids. Seek emergency medical attention if symptoms are severe.",
+        "generated_answer": "What should I do if I suspect a heat stroke?\nWhat should I do if I suspect a heat stroke? It is best to immediately get the person to a cool place and call for medical assistance.\nWhat should I do if I suspect a heat stroke? It is best to immediately get the person"
+    },
+    {
+        "question": "What should I take for acne treatment?",
+        "expected_answer": "Over-the-counter treatments like benzoyl peroxide or salicylic acid can be effective. For persistent acne, a dermatologist might prescribe stronger medications.",
+        "generated_answer": "What should I take for acne treatment?\nWhat are the best medications for acne?\nWhat is the best medicine for pimples?\nWhat medicine is best for acne?\nWhat is the best medication to treat acne?\nWhat is the best acne"
+    },
+    {
+        "question": "What should I do if I get a black eye?",
+        "expected_answer": "Apply a cold compress immediately to reduce swelling. If vision is affected or pain is severe, seek medical advice.",
+        "generated_answer": "What should I do if I get a black eye?\nHow long does a black eye last?\nWhat happens if you leave a black eye untreated?\nWhat should I do if I get a black eye? What happens if you leave a black eye untreated?\nWhat should I"
+    },
+    {
+        "question": "What is recommended for ear infections?",
+        "expected_answer": "Pain relievers like acetaminophen can alleviate pain. Many ear infections resolve on their own, but if symptoms persist, see a healthcare provider.",
+        "generated_answer": "What is recommended for ear infections?\nMy 3-year-old has had ear infections since he was 1-year-old. His doctor says it's because he's a child and he's in child care and he's in a no"
+    },
+    {
+        "question": "What should I do for chapped lips?",
+        "expected_answer": "Use a hydrating lip balm with SPF protection and avoid licking your lips.",
+        "generated_answer": "What should I do for chapped lips?\nWhat should I do for cracked lips?\nWhat causes chapped lips?\nHow do you know if your lips are chapped?\nHow do I stop chapped lips?\nHow do you treat cracked lips?\nCan you"
+    },
+    {
+        "question": "What should I take for hemorrhoids?",
+        "expected_answer": "Over-the-counter creams and suppositories containing hydrocortisone can provide relief. Also, fiber supplements can help prevent constipation, reducing strain.",
+        "generated_answer": "What should I take for hemorrhoids?\nHow do you shrink hemorrhoids fast?\nDo hemorrhoids go away on their own?\nHow long do hemorrhoids last?\nCan you die from hemorrhoids?\nHow do you shrink"
+    },
+    {
+        "question": "What should I do for frostbite?",
+        "expected_answer": "Warm the affected area slowly in warm water, do not rub, and wrap with clean cloth. Seek medical attention if the frostbite is severe.",
+        "generated_answer": "What should I do for frostbite?\nI think you should check the frostbite victim\u2019s pulse and breathing and if the frostbite victim\u2019s breathing and pulse is normal, then you should go to the nearest hospital to check the frost"
+    },
+    {
+        "question": "What should I take for a toothache?",
+        "expected_answer": "Pain relievers like ibuprofen can reduce pain. It's important to consult a dentist to identify and treat the underlying cause.",
+        "generated_answer": "What should I take for a toothache?\nHow do you get rid of a toothache at night?\nHow do I stop my tooth from hurting at night?\nHow do you get rid of a toothache in one night?\nWhat to do if a to"
+    },
+    {
+        "question": "What is recommended for treating athlete's foot?",
+        "expected_answer": "Antifungal creams or sprays can treat athlete's foot. Keep feet dry and clean, and change socks regularly.",
+        "generated_answer": "What is recommended for treating athlete's foot?\nWhat is recommended for treating athlete's foot?...\nQuestion - What is recommended for treating athlete's foot?\nAnswer - The most common symptom of athlete's foot is a rash. The most"
+    },
+    {
+        "question": "What should I do if I have difficulty sleeping?",
+        "expected_answer": "Avoid caffeine and screens before bedtime, maintain a regular sleep schedule, and consider using over-the-counter sleep aids like melatonin if necessary.",
+        "generated_answer": "What should I do if I have difficulty sleeping?\nIf you find it difficult to sleep, you may wish to try the following tips to help you relax and fall asleep.\nGet plenty of exercise during the day. Exercise will help you sleep better.\nGo to bed at the"
+    },
+    {
+        "question": "What should I take for anxiety?",
+        "expected_answer": "Mindfulness and relaxation techniques can help manage mild anxiety. For persistent or severe anxiety, consult a healthcare provider for potential medication or therapy options.",
+        "generated_answer": "What should I take for anxiety?\nWhat can you do for anxiety?\nCan you get anxiety from stress?\nIs there an anxiety pill?\nHow long does it take for anxiety to go away?\nHow do I calm down my anxiety?\n"
+    },
+    {
+        "question": "What should I do for a nosebleed?",
+        "expected_answer": "Sit upright and lean forward. Pinch your nose shut for 10 minutes. Avoid lying down or putting your head between your legs.",
+        "generated_answer": "What should I do for a nosebleed?\nHow do I stop a nosebleed from getting worse?\nCan you survive a nosebleed?\nHow do you stop a nosebleed at home?\nHow do I stop a nosebleed in one breath?\nIs"
+    },
+    {
+        "question": "What is recommended for preventing mosquito bites?",
+        "expected_answer": "Use insect repellent with DEET, cover exposed skin, and use mosquito nets if sleeping in areas with high mosquito activity.",
+        "generated_answer": "What is recommended for preventing mosquito bites?\nHow can I get rid of mosquitoes in my house?\nWhat can I do to prevent mosquito bites?\nHow can I prevent mosquito bites when traveling?\nWhat can I do to prevent mos"
+    },
+    {
+        "question": "What should I take for gas and bloating?",
+        "expected_answer": "Over-the-counter antacids or simethicone can relieve gas and bloating. Avoid foods that are known to cause gas.",
+        "generated_answer": "What should I take for gas and bloating?\nGas and bloating are common problems that can be caused by a number of factors, including diet, stress, and medications. Fortunately, there are a number of natural remedies that can help relieve these symptoms"
+    },
+    {
+        "question": "What should I do if I have swollen gums?",
+        "expected_answer": "Maintain good oral hygiene, use saltwater rinses, and avoid irritants like tobacco. See a dentist if swelling persists.",
+        "generated_answer": "What should I do if I have swollen gums?\nWhen should I worry about swollen gums?\nWhat is the best medicine for swollen gums?\nWhat is the best medicine for swollen gums and mouth?\nWhat are the symptoms of swollen"
+    },
+    {
+        "question": "What is recommended for preventing dehydration?",
+        "expected_answer": "Drink plenty of fluids, especially water, throughout the day. Increase fluid intake during hot weather or when physically active.",
+        "generated_answer": "What is recommended for preventing dehydration?\nHow much water should I drink in a day?\nWhat is the best drink to stay hydrated?\nIs water enough to stay hydrated?\nIs it bad to drink water all day?\nIs it bad to drink too"
+    },
+    {
+        "question": "What should I do if I experience burnout?",
+        "expected_answer": "Take breaks from work, engage in relaxing activities, seek support from friends or a professional, and consider a vacation to recharge.",
+        "generated_answer": "What should I do if I experience burnout?\nHow do you recover from burnout?\nHow do I know if I\u2019m burnt out?\nIs it OK to sleep 10 hours a day?\nHow do I know if I\u2019m emotionally exhausted?"
+    },
+    {
+        "question": "What should I take for a stiff neck?",
+        "expected_answer": "Apply heat or ice to the affected area. Over-the-counter pain relievers like ibuprofen can also help reduce pain and inflammation.",
+        "generated_answer": "What should I take for a stiff neck?\nWhat are the symptoms of a stiff neck?\nWhat does it mean when you wake up with a stiff neck?\nWhat causes a stiff neck?\nHow do you get rid of a stiff neck in the morning"
+    },
+    {
+        "question": "What is recommended for reducing stress?",
+        "expected_answer": "Regular physical activity, mindfulness or meditation, proper sleep, and time management strategies can effectively reduce stress.",
+        "generated_answer": "What is recommended for reducing stress?\nWhat are the symptoms of stress and anxiety?\nWhat is the best way to reduce stress?\nHow can I relax my mind and body?\nWhat is the best stress reliever?\nHow do I calm down my mind"
+    },
+    {
+        "question": "What type of medication is used for treating high blood pressure?",
+        "expected_answer": "Medications used for high blood pressure include ACE inhibitors, beta blockers, diuretics, and calcium channel blockers.",
+        "generated_answer": "What type of medication is used for treating high blood pressure?\nThe most commonly prescribed medication for hypertension is the angiotensin-converting enzyme (ACE) inhibitor.\nThe ACE inhibitor blocks the action of a substance that normally causes the"
+    },
+    {
+        "question": "What are common antiviral drugs used for the flu?",
+        "expected_answer": "Common antiviral drugs for the flu include oseltamivir, zanamivir, and baloxavir.",
+        "generated_answer": "What are common antiviral drugs used for the flu?\nAntiviral drugs are prescription medicines (pills, liquid or an inhaler) that fight against the flu virus in your body. Antiviral drugs are different from antibiotics, which fight against bacter"
+    },
+    {
+        "question": "What medication is recommended for type 2 diabetes?",
+        "expected_answer": "Medications for type 2 diabetes often include metformin, sulfonylureas, and DPP-4 inhibitors.",
+        "generated_answer": "What medication is recommended for type 2 diabetes?\nWhat medications are used to treat type 2 diabetes?\nWhat medications are used to treat diabetes?\nWhat medication is used to treat type 2 diabetes?\nWhat medication is used to treat"
+    },
+    {
+        "question": "What are the uses of corticosteroids?",
+        "expected_answer": "Corticosteroids are used to reduce inflammation in conditions like asthma, arthritis, and allergies.",
+        "generated_answer": "What are the uses of corticosteroids?\nCorticosteroids are synthetic drugs that are similar to cortisol, a naturally occurring hormone in the body. Corticosteroids are used to treat a wide range of medical conditions, including:\n"
+    },
+    {
+        "question": "What type of drug is used to treat anxiety disorders?",
+        "expected_answer": "Drugs used to treat anxiety disorders include benzodiazepines, SSRIs, and SNRIs.",
+        "generated_answer": "What type of drug is used to treat anxiety disorders?\nWhat are the side effects of antidepressants?\nWhich antidepressant is best for anxiety?\nWhat antidepressant is best for OCD?\nWhich antidepressants are best for anxiety?"
+    },
+    {
+        "question": "What are statins used for?",
+        "expected_answer": "Statins are used to lower cholesterol levels and reduce the risk of cardiovascular disease.",
+        "generated_answer": "What are statins used for?\nThey are used to lower cholesterol and prevent heart disease. Statins are prescribed to people with high cholesterol. They are also used in people who have had a heart attack or stroke, or who have a high risk"
+    },
+    {
+        "question": "What medications are available for migraine relief?",
+        "expected_answer": "Medications for migraine relief include triptans, ergotamines, and anti-nausea drugs.",
+        "generated_answer": "What medications are available for migraine relief?\nWhat medications are available for migraine relief? What medications are available for migraine relief?\nWhat medications are available for migraine relief?\nWhat medications are available for migraine relief? What medications are available for mig"
+    },
+    {
+        "question": "What is lithium used to treat?",
+        "expected_answer": "Lithium is a mood stabilizer commonly used to treat bipolar disorder.",
+        "generated_answer": "What is lithium used to treat?\nLithium is used to treat the symptoms of manic episodes of bipolar disorder.\nLithium is in a class of medications called antimanic agents. It works by restoring the balance of certain natural subst"
+    },
+    {
+        "question": "What are common treatments for ADHD?",
+        "expected_answer": "Common treatments for ADHD include stimulant medications like methylphenidate and amphetamines, as well as non-stimulant medications such as atomoxetine.",
+        "generated_answer": "What are common treatments for ADHD?\nHow do I know if I need to be treated for ADHD?\nHow do I find the best doctor for my ADHD?\nHow do I find a good psychiatrist?\nWhat are some tips for working with my psychiat"
+    },
+    {
+        "question": "What drugs are used in chemotherapy?",
+        "expected_answer": "Chemotherapy drugs include doxorubicin, cyclophosphamide, and methotrexate, among others.",
+        "generated_answer": "What drugs are used in chemotherapy?\nWhat are the types of chemotherapy?\nWhat are the side effects of chemotherapy?\nHow does chemotherapy work?\nHow is chemotherapy given?\nHow long does chemotherapy last?\nHow effective is"
+    },
+    {
+        "question": "What is the use of beta blockers?",
+        "expected_answer": "Beta blockers are used to manage abnormal heart rhythms, protect against heart attacks in high-risk patients, and treat high blood pressure.",
+        "generated_answer": "What is the use of beta blockers?\nBeta blockers are a type of medication that are commonly used to treat high blood pressure, heart disease and other conditions. They work by blocking the effects of adrenaline and other hormones in the body. This can help"
+    },
+    {
+        "question": "What medications treat ulcerative colitis?",
+        "expected_answer": "Medications for ulcerative colitis include aminosalicylates, corticosteroids, and immunosuppressants.",
+        "generated_answer": "What medications treat ulcerative colitis?\nUlcerative colitis (UC) is a chronic disease that can cause significant discomfort and even life-threatening complications. The good news is that medications can help manage the symptoms of UC,"
+    },
+    {
+        "question": "What are the main uses of antipsychotic medications?",
+        "expected_answer": "Antipsychotic medications are primarily used to manage psychosis, including schizophrenia and bipolar disorder manic episodes.",
+        "generated_answer": "What are the main uses of antipsychotic medications?\nWhat are the adverse effects of antipsychotic medications?\nWhat are the major side effects of antipsychotic medications?\nWhat is the risk of suicidal thoughts or behavior with antipsychotic medications?\n"
+    },
+    {
+        "question": "What are the uses of proton pump inhibitors?",
+        "expected_answer": "Proton pump inhibitors are used to treat conditions like GERD, stomach ulcers, and Zollinger-Ellison syndrome by reducing stomach acid production.",
+        "generated_answer": "What are the uses of proton pump inhibitors?\nWhat are the side effects of proton pump inhibitors?\nWhat are the precautions and contraindications of proton pump inhibitors?\nWhat are the adverse reactions of proton pump in"
+    },
+    {
+        "question": "What type of medication is used for asthma control?",
+        "expected_answer": "Medications for asthma control include inhaled corticosteroids, long-acting beta agonists, and leukotriene modifiers.",
+        "generated_answer": "What type of medication is used for asthma control?\nWhat is the best medicine for asthma control?\nHow long should you take an asthma controller medication?\nCan you control asthma without medication?\nWhat is the best controller medication for asthma?"
+    },
+    {
+        "question": "What are biologic drugs and what are they used for?",
+        "expected_answer": "Biologic drugs are used to treat various conditions, including autoimmune diseases, cancer, and diabetes. They work by targeting specific components of the immune system.",
+        "generated_answer": "What are biologic drugs and what are they used for?\nBiologic drugs are used to treat a variety of medical conditions, including arthritis, Crohn\u2019s disease, ulcerative colitis, and psoriasis. Biologics work by targeting specific proteins"
+    },
+    {
+        "question": "What medications help treat osteoporosis?",
+        "expected_answer": "Medications to treat osteoporosis include bisphosphonates, calcitonin, and denosumab.",
+        "generated_answer": "What medications help treat osteoporosis?\nHow does osteoporosis affect the body?\nWhat are the 4 types of osteoporosis?\nWhat is the best medicine for osteoporosis?\nHow do you know if you have osteop"
+    },
+    {
+        "question": "What are the common drugs used for treating epilepsy?",
+        "expected_answer": "Common drugs for treating epilepsy include valproate, carbamazepine, and levetiracetam.",
+        "generated_answer": "What are the common drugs used for treating epilepsy?\nWhat is the difference between partial epilepsy and general epilepsy?\nWhat is the first drug that is used for treating epilepsy?\nWhat are the common drugs used for treating epilepsy"
+    },
+    {
+        "question": "What is used to treat allergic reactions?",
+        "expected_answer": "For mild allergic reactions, antihistamines are commonly used, while severe reactions may require epinephrine.",
+        "generated_answer": "What is used to treat allergic reactions?\nWhat is the best medicine for allergic reaction?\nHow do you calm an allergic reaction?\nHow do you treat an allergic reaction at home?\nCan you treat an allergic reaction with Benadryl"
+    },
+    {
+        "question": "What medications are used to treat Parkinson's disease?",
+        "expected_answer": "Medications for Parkinson's disease include levodopa, dopamine agonists, and MAO-B inhibitors.",
+        "generated_answer": "What medications are used to treat Parkinson's disease?\nThe medications used to treat Parkinson's disease are called levodopa (L-dopa) and dopamine agonists. These medications are also used to treat other conditions, such as restless legs synd"
+    },
+    {
+        "question": "What type of drugs are used to treat anxiety and insomnia?",
+        "expected_answer": "Benzodiazepines are commonly used to treat both anxiety and insomnia due to their sedative properties.",
+        "generated_answer": "What type of drugs are used to treat anxiety and insomnia?\nHow do you get rid of anxiety and insomnia?\nIs there a sleeping pill for anxiety?\nWhat is the best medicine for anxiety?\nHow do I stop being anxious and anxious?\nWhat medication helps"
+    },
+    {
+        "question": "What is the use of anticoagulant medications?",
+        "expected_answer": "Anticoagulants, such as warfarin and heparin, are used to prevent and treat blood clots.",
+        "generated_answer": "What is the use of anticoagulant medications?\nAnticoagulant medications are used to treat and prevent blood clots. Blood clots can be harmful when they form in your arteries. They can reduce blood flow to your heart, brain, lungs, kidne"
+    },
+    {
+        "question": "What are antifungal medications used for?",
+        "expected_answer": "Antifungal medications are used to treat fungal infections, including athlete's foot, thrush, and ringworm.",
+        "generated_answer": "What are antifungal medications used for?\nHow long does it take for an antifungal to work?\nWhat happens if you don\u2019t treat a fungal infection?\nWhat are the most common fungal infections?\nWhat are the symptoms of a"
+    },
+    {
+        "question": "What are immunosuppressants used for?",
+        "expected_answer": "Immunosuppressants are used to prevent organ transplant rejection and to treat autoimmune diseases.",
+        "generated_answer": "What are immunosuppressants used for?\nWhat medications are used to treat lupus?\nHow do you treat a lupus flare?\nWhat is the most common treatment for lupus?\nWhat are the long term effects of lupus?\nWhat"
+    },
+    {
+        "question": "What drugs are used for treating tuberculosis?",
+        "expected_answer": "Drugs used for treating tuberculosis include isoniazid, rifampin, ethambutol, and pyrazinamide.",
+        "generated_answer": "What drugs are used for treating tuberculosis?\nTuberculosis is a chronic infectious disease caused by Mycobacterium tuberculosis, which is transmitted from person to person by droplets. The disease is characterized by the formation of tubercles"
+    },
+    {
+        "question": "What is the role of antiretroviral drugs?",
+        "expected_answer": "Antiretroviral drugs are used to manage HIV infection, preventing the virus from multiplying and reducing the amount of virus in the body.",
+        "generated_answer": "What is the role of antiretroviral drugs?\nAIDS is a disease caused by the human immunodeficiency virus (HIV). HIV is transmitted through contact with infected blood, semen, vaginal fluids, or breast milk. AIDS is"
+    },
+    {
+        "question": "What medications are used to treat hyperthyroidism?",
+        "expected_answer": "Medications for hyperthyroidism include methimazole and propylthiouracil, which help reduce thyroid hormone production.",
+        "generated_answer": "What medications are used to treat hyperthyroidism?\nHyperthyroidism is treated with antithyroid drugs, such as propylthiouracil and methimazole, radioiodine, or surgery. Your healthcare provider will work with you to"
+    },
+    {
+        "question": "What are the main medications used for heart failure?",
+        "expected_answer": "Medications for heart failure include ACE inhibitors, diuretics, beta blockers, and digoxin.",
+        "generated_answer": "What are the main medications used for heart failure?\nWhat is the best drug for heart failure?\nWhat is the most commonly used drug for heart failure?\nWhat are the best medications for heart failure?\nWhat is the best drug for heart failure and high blood pressure?\nWhich"
+    },
+    {
+        "question": "What medications are prescribed for GERD (gastroesophageal reflux disease)?",
+        "expected_answer": "Medications for GERD include proton pump inhibitors, H2 receptor blockers, and antacids.",
+        "generated_answer": "What medications are prescribed for GERD (gastroesophageal reflux disease)?\nGastroesophageal reflux disease (GERD) is a digestive disorder that causes symptoms such as heartburn, chest pain, and trouble swallowing. It is caused by a weakening of the"
+    },
+    {
+        "question": "What are the treatments for chronic kidney disease?",
+        "expected_answer": "Treatments for chronic kidney disease may include blood pressure medications, diuretics, and, in some cases, medications to lower cholesterol.",
+        "generated_answer": "What are the treatments for chronic kidney disease?\nHow can I prevent chronic kidney disease?\nWhat are the risk factors for chronic kidney disease?\nWhat is the outcome for chronic kidney disease?\nWhat are the symptoms of chronic kidney disease?\n"
+    },
+    {
+        "question": "What are effective ways to manage high cholesterol?",
+        "expected_answer": "Effective ways include dietary changes such as reducing saturated fats and trans fats, increasing intake of omega-3 fatty acids, and incorporating more fiber-rich foods. Regular exercise and maintaining a healthy weight also help.",
+        "generated_answer": "What are effective ways to manage high cholesterol?\nWhat are the common side effects of statins?\nWhat are the most common side effects of statins?\nWhat are the most common side effects of statins?\nWhat are the most common side effects of statins?\nWhat are"
+    },
+    {
+        "question": "How can you naturally lower blood sugar levels?",
+        "expected_answer": "Natural ways to lower blood sugar include exercising regularly, managing carbohydrate intake, increasing fiber consumption, staying hydrated, and implementing portion control.",
+        "generated_answer": "How can you naturally lower blood sugar levels?\nThere are a number of things that you can do to lower your blood sugar levels naturally.\nSome of the most effective things that you can do include:\nEating a healthy diet: A healthy diet that is low in"
+    },
+    {
+        "question": "What are the signs of vitamin deficiency?",
+        "expected_answer": "Signs can include fatigue, dizziness, pale or yellowish skin, irregular heartbeats, weight loss, numbness or tingling in the extremities, muscle weakness, and mental confusion.",
+        "generated_answer": "What are the signs of vitamin deficiency?\nAsked by: Dr. Renee O'Connell DVM\nHow do you test for vitamin deficiency?\nHow do you test for vitamin deficiency? Blood tests are commonly used to identify vitamin"
+    },
+    {
+        "question": "How can regular exercise benefit mental health?",
+        "expected_answer": "Regular exercise can reduce symptoms of depression and anxiety, help manage stress, enhance mood, improve self-esteem, and increase brain sensitivity for serotonin and norepinephrine.",
+        "generated_answer": "How can regular exercise benefit mental health?\nWhat are the benefits of exercise on mental health?\nWhat are the benefits of physical activity on mental health?\nHow does exercise improve your mental health?\nHow does exercise affect your mental health?\nHow does physical activity affect mental health?"
+    },
+    {
+        "question": "What are the symptoms of seasonal affective disorder (SAD)?",
+        "expected_answer": "Symptoms include persistent low mood, loss of pleasure or interest in everyday activities, irritability, feelings of despair, guilt and worthlessness, sleeping for longer than normal, and craving carbohydrates.",
+        "generated_answer": "What are the symptoms of seasonal affective disorder (SAD)?\nWhat are the symptoms of seasonal affective disorder (SAD)?\nSeasonal affective disorder (SAD) is a type of depression that occurs at the same time each year, usually in the fall and winter"
+    },
+    {
+        "question": "What home treatments are effective for reducing arthritis pain?",
+        "expected_answer": "Effective home treatments include applying heat or cold, engaging in regular physical activity, practicing yoga or Tai Chi, and using topical treatments such as capsaicin cream.",
+        "generated_answer": "What home treatments are effective for reducing arthritis pain?\nHow long does it take to get relief from arthritis?\nHow long does it take for anti-inflammatory drugs to work for arthritis?\nCan you get rid of arthritis without medic"
+    },
+    {
+        "question": "How can you improve your digestive health naturally?",
+        "expected_answer": "Natural ways to improve digestive health include eating a diet rich in fiber, staying hydrated, limiting high-fat foods, adding probiotics, and managing stress effectively.",
+        "generated_answer": "How can you improve your digestive health naturally?\nHow to improve digestion naturally\nWhat is the best natural remedy for a bloated stomach?\nWhat are the best natural remedies for gas and bloating?\nWhat is the best natural remedy for constipation"
+    },
+    {
+        "question": "What are signs of dehydration in children?",
+        "expected_answer": "Signs include no wet diapers for 3 hours, dry mouth and tongue, crying without tears, high fever, unusually sleepy or drowsy, and irritability.",
+        "generated_answer": "What are signs of dehydration in children?\nWhat are the signs of dehydration in a child?\nWhat are the signs of dehydration in a child?\nWhat are the symptoms of dehydration in children?\nWhat are the sympt"
+    },
+    {
+        "question": "What should you do to prevent Lyme disease?",
+        "expected_answer": "To prevent Lyme disease, avoid wooded and bushy areas with high grass, use insect repellent, perform thorough tick checks after being outdoors, and consider treating clothing and gear with permethrin.",
+        "generated_answer": "What should you do to prevent Lyme disease?\nHow can I protect myself from Lyme disease?\nHow do you prevent Lyme disease in the yard?\nHow can I prevent Lyme disease naturally?\nHow can I prevent Lyme disease in my yard?\nWhat are the sympt"
+    },
+    {
+        "question": "How does sleep affect overall health?",
+        "expected_answer": "Adequate sleep is crucial for brain function, emotional well-being, physical health, daytime performance, and safety. Sleep helps repair your heart and blood vessels and balance the hormones that make you feel hungry or full.",
+        "generated_answer": "How does sleep affect overall health?\nSleep is a vital function that affects your physical and mental health, and is essential for your overall well-being.\nNot getting enough sleep can lead to a number of problems, including:\n-Decreased cognitive performance"
+    },
+    {
+        "question": "What are the best foods to eat for heart health?",
+        "expected_answer": "Foods that promote heart health include leafy green vegetables, whole grains, berries, avocados, fatty fish, walnuts, beans, and dark chocolate.",
+        "generated_answer": "What are the best foods to eat for heart health?\nWhat are the best foods to eat for heart health? The best foods to eat for heart health are oatmeal, blueberries, salmon, tuna, avocados, nuts, seeds, leafy"
+    },
+    {
+        "question": "How can you manage stress during pregnancy?",
+        "expected_answer": "Managing stress during pregnancy can be achieved through regular exercise, proper sleep, prenatal yoga, meditation, and support from friends, family, or a professional therapist.",
+        "generated_answer": "How can you manage stress during pregnancy?\nYou can manage stress during pregnancy by learning to recognize when your stress levels are increasing and finding ways to cope with them.\nIt\u2019s normal to experience stress during pregnancy. In fact, you may feel more anxious than"
+    },
+    {
+        "question": "What are early signs of Parkinson\u2019s disease?",
+        "expected_answer": "Early signs include tremors, slowed movement (bradykinesia), rigid muscles, impaired posture and balance, loss of automatic movements, speech changes, and writing changes.",
+        "generated_answer": "What are early signs of Parkinson\u2019s disease?\nWhat are the early signs of Parkinson\u2019s disease?\nParkinson\u2019s disease is a progressive disorder that affects movement. The disease gets worse over time. The earliest symptoms are mild and occur on one side"
+    },
+    {
+        "question": "How can you prevent eye strain when using computers?",
+        "expected_answer": "Preventing eye strain involves adjusting the lighting, taking frequent breaks using the 20-20-20 rule (every 20 minutes, look at something 20 feet away for 20 seconds), ensuring your computer screen is at eye level, and using blue light filters.",
+        "generated_answer": "How can you prevent eye strain when using computers?\nComputer vision syndrome, also known as digital eye strain, is a group of eye and vision-related problems that results from prolonged computer, tablet, e-reader and cell phone use. Many individuals experience eye strain or"
+    },
+    {
+        "question": "What natural remedies help soothe sore muscles?",
+        "expected_answer": "Natural remedies for sore muscles include Epsom salt baths, massage, heat therapy, rest, stretching, and hydration.",
+        "generated_answer": "What natural remedies help soothe sore muscles?\nSore muscles are a common problem for many people, especially those who engage in physical activities such as exercise or sports. There are several natural remedies that can help soothe sore muscles and reduce pain and inflammation"
+    },
+    {
+        "question": "What are the symptoms of thyroid dysfunction?",
+        "expected_answer": "Symptoms can vary depending on whether the thyroid is overactive or underactive. Common symptoms include fatigue, weight changes, mood swings, changes in body temperature sensitivity, and changes in heart rate.",
+        "generated_answer": "What are the symptoms of thyroid dysfunction?\nWhat are the symptoms of hyperthyroidism?\nWhat are the symptoms of hypothyroidism?\nHow is thyroid dysfunction diagnosed?\nWhat are the treatment options for thyroid dysfunction?\nWhat"
+    },
+    {
+        "question": "How can you improve bone density?",
+        "expected_answer": "Improving bone density can be achieved by engaging in weight-bearing exercises, consuming adequate amounts of calcium and vitamin D, avoiding smoking and excessive alcohol consumption, and possibly medication under medical advice.",
+        "generated_answer": "How can you improve bone density?\nHow can you improve bone density? Here are five ways to build bone strength and density. Eat a healthy diet. Avoid smoking and excessive alcohol consumption. Get enough calcium and vitamin D. Eng"
+    },
+    {
+        "question": "What are signs that you need to visit an optometrist?",
+        "expected_answer": "Signs include persistent headaches, squinting, difficulty seeing at night, blurry vision, eye strain or fatigue, and seeing flashes of light or sudden changes in vision.",
+        "generated_answer": "What are signs that you need to visit an optometrist?\nMany people take their eyesight for granted and don\u2019t see the importance of having regular eye examinations.\nWhile it\u2019s true that your eyesight will likely stay good throughout your life, it\u2019s important to know that"
+    },
+    {
+        "question": "How can you protect your skin from sun damage?",
+        "expected_answer": "Protect your skin by using sunscreen with an SPF of at least 30, wearing protective clothing, seeking shade during the peak sun hours, and avoiding tanning beds.",
+        "generated_answer": "How can you protect your skin from sun damage?\nIf you are planning a day at the beach this summer, be sure to wear sunscreen to protect your skin from sun damage.\nIf you are planning a day at the beach this summer, be sure to wear sunscreen to protect your skin"
+    },
+    {
+        "question": "What are the best practices for dental hygiene?",
+        "expected_answer": "Best practices include brushing teeth twice a day with fluoride toothpaste, flossing daily, using mouthwash, avoiding tobacco, limiting sugary snacks and drinks, and regular dental check-ups.",
+        "generated_answer": "What are the best practices for dental hygiene?\nWhat are the best practices for dental hygiene? This is a question that many people ask themselves. Dental hygiene is an important part of overall health, and it\u2019s essential to take care of your teeth and gums"
+    },
+    {
+        "question": "What are effective strategies for quitting smoking?",
+        "expected_answer": "Effective strategies include nicotine replacement therapy, prescription medications, behavioral therapy, support groups, setting a quit date, and avoiding smoking triggers.",
+        "generated_answer": "What are effective strategies for quitting smoking?\nHow can I quit smoking for good?\nCan you stop smoking cold turkey?\nWhat is the most effective method for quitting smoking?\nHow can I quit smoking in 1 week?\nCan you quit sm"
+    },
+    {
+        "question": "How can mindfulness meditation improve your health?",
+        "expected_answer": "Mindfulness meditation can reduce stress, lower blood pressure, reduce chronic pain, improve sleep, and enhance mental health by fostering better awareness and less emotional reactivity.",
+        "generated_answer": "How can mindfulness meditation improve your health?\nMeditation is a practice that is growing in popularity as more people learn about the benefits it can have on their mental and physical health.\nThere are many different types of meditation, but one of the most popular is mindfulness med"
+    },
+    {
+        "question": "What are the benefits of probiotics?",
+        "expected_answer": "Probiotics can improve digestive health, reduce depression and anxiety, promote heart health, and may enhance immune function.",
+        "generated_answer": "What are the benefits of probiotics? What are the disadvantages of probiotics? What are the side effects of probiotics? What are the risks of probiotics? What are the warnings of probiotics? What are the questions to ask your doctor about prob"
+    },
+    {
+        "question": "How do you recognize the signs of heat exhaustion?",
+        "expected_answer": "Signs include heavy sweating, weakness, cold, pale, and clammy skin, a fast but weak pulse, nausea or vomiting, and fainting.",
+        "generated_answer": "How do you recognize the signs of heat exhaustion?\nThe following signs and symptoms of heat exhaustion may occur:\nCool, moist, pale, and clammy skin\nRapid pulse (100 to 108 beats per minute)\nHe"
+    },
+    {
+        "question": "What should you do if you have an allergic reaction?",
+        "expected_answer": "For mild reactions, antihistamines can help relieve symptoms. For severe reactions, such as difficulty breathing or anaphylaxis, administer epinephrine if available and seek emergency medical care immediately.",
+        "generated_answer": "What should you do if you have an allergic reaction?\nWhat should you do if you have an allergic reaction? In a severe allergic reaction, such as anaphylaxis, you must go to the nearest emergency department. If you have a severe allergic reaction,"
+    },
+    {
+        "question": "How can you manage lower cholesterol without medication?",
+        "expected_answer": "Managing cholesterol without medication can involve dietary changes like increasing fiber and reducing fats, regular physical activity, and smoking cessation.",
+        "generated_answer": "How can you manage lower cholesterol without medication?\nHow do you naturally lower cholesterol in the body?\nHow can I lower my cholesterol fast?\nCan a person with high cholesterol live a normal life?\nCan you reverse high cholesterol"
+    },
+    {
+        "question": "What type of medication is used to treat rheumatoid arthritis?",
+        "expected_answer": "Medications used to treat rheumatoid arthritis include disease-modifying antirheumatic drugs (DMARDs), biologic response modifiers, and corticosteroids.",
+        "generated_answer": "What type of medication is used to treat rheumatoid arthritis?\nRheumatoid arthritis is a chronic autoimmune disease that causes pain, stiffness, swelling, and damage to the joints. Medications are used to treat rheumatoid arthrit"
+    },
+    {
+        "question": "What are common medications used for treating anxiety disorders?",
+        "expected_answer": "Common medications for treating anxiety disorders include selective serotonin reuptake inhibitors (SSRIs), serotonin-norepinephrine reuptake inhibitors (SNRIs), and benzodiazepines.",
+        "generated_answer": "What are common medications used for treating anxiety disorders?\nWhat are common medications used for treating anxiety disorders? Treatment of anxiety disorders includes psychotherapy, medications, or a combination of both. Psychotherapy may be the treatment of choice for some anxiety"
+    },
+    {
+        "question": "What type of drug is commonly prescribed for heartburn and acid reflux?",
+        "expected_answer": "Proton pump inhibitors (PPIs) and H2 receptor blockers are commonly prescribed for heartburn and acid reflux to reduce stomach acid production.",
+        "generated_answer": "What type of drug is commonly prescribed for heartburn and acid reflux?\nHow long can you take PPIs for acid reflux?\nWhich is better Omeprazole or Lansoprazole?\nIs omeprazole better than lansoprazole?\nCan you"
+    },
+    {
+        "question": "What medications are used for managing chronic pain?",
+        "expected_answer": "Medications for managing chronic pain include nonsteroidal anti-inflammatory drugs (NSAIDs), acetaminophen, opioid pain relievers, and adjuvant therapies like antidepressants and anticonvulsants.",
+        "generated_answer": "What medications are used for managing chronic pain?\nWhat medications are used for managing chronic pain? -\nThere are many medications used to treat chronic pain. The first line of treatment is usually a non-steroidal anti-inflammatory drug (NSA"
+    },
+    {
+        "question": "What is metformin used for?",
+        "expected_answer": "Metformin is primarily used to treat type 2 diabetes; it helps control blood sugar levels by improving the way the body handles insulin.",
+        "generated_answer": "What is metformin used for?\nWhat is the cost of metformin?\nHow much is metformin without insurance?\nHow much does metformin cost at Walmart?\nIs metformin an antibiotic?\nWhat is the difference between"
+    },
+    {
+        "question": "What drugs are commonly used to treat osteoarthritis?",
+        "expected_answer": "Common treatments for osteoarthritis include NSAIDs, acetaminophen, and topical pain relievers like capsaicin and lidocaine.",
+        "generated_answer": "What drugs are commonly used to treat osteoarthritis?\nWhat drugs are commonly used to treat osteoarthritis? What drugs are commonly used to treat osteoarthritis? Osteoarthritis is a common condition that affects the joints. It can"
+    },
+    {
+        "question": "What is the role of antiretroviral therapy in HIV treatment?",
+        "expected_answer": "Antiretroviral therapy (ART) is used to treat HIV by reducing the amount of virus in the blood to undetectable levels, which helps prevent disease progression and transmission.",
+        "generated_answer": "What is the role of antiretroviral therapy in HIV treatment?\nWhat are the risks and benefits of antiretroviral therapy?\nWhat are the side effects of antiretroviral therapy?\nWhat are the different types of antiretroviral therapy?"
+    },
+    {
+        "question": "What medications are used to treat high cholesterol?",
+        "expected_answer": "Medications used to treat high cholesterol include statins, bile acid sequestrants, cholesterol absorption inhibitors, and fibrates.",
+        "generated_answer": "What medications are used to treat high cholesterol?\nHow do you lower your cholesterol in 2 weeks?\nHow do you know if you have high cholesterol?\nWhat is the best exercise for high cholesterol?\nIs walking good for high chol"
+    },
+    {
+        "question": "What are common treatments for insomnia?",
+        "expected_answer": "Common treatments for insomnia include behavioral therapies, as well as medications like benzodiazepines, non-benzodiazepine sleep aids, and melatonin receptor agonists.",
+        "generated_answer": "What are common treatments for insomnia?\nWhat is the best medication for insomnia?\nWhat vitamins help with insomnia?\nHow can I get rid of insomnia?\nWhat is the best supplement for sleep?\nDoes magnesium help"
+    },
+    {
+        "question": "What medications are available for treating allergic rhinitis?",
+        "expected_answer": "Treatments for allergic rhinitis include antihistamines, nasal corticosteroids, decongestants, and leukotriene receptor antagonists.",
+        "generated_answer": "What medications are available for treating allergic rhinitis?\nWhat medications are available for treating allergic rhinitis?\nIf you are having allergy symptoms, you may have allergic rhinitis. This is a condition in which your immune system reacts to all"
+    },
+    {
+        "question": "What drugs are used to treat bipolar disorder?",
+        "expected_answer": "Drugs used to treat bipolar disorder include mood stabilizers like lithium and valproate, antipsychotics, and, occasionally, antidepressants.",
+        "generated_answer": "What drugs are used to treat bipolar disorder?\nWhat medications are used to treat bipolar disorder?\nMedications are usually used to treat bipolar disorder. There are several different medications that are used to treat bipolar disorder. Your doctor will choose"
+    },
+    {
+        "question": "What type of medications are used for preventing malaria?",
+        "expected_answer": "Medications for preventing malaria include chloroquine, doxycycline, mefloquine, and atovaquone-proguanil.",
+        "generated_answer": "What type of medications are used for preventing malaria?\nWhat are the two types of medications for malaria?\nWhat is the best medication for malaria?\nWhat is the best medicine for malaria?\nWhat medication is used for malaria?\nWhat are the two main"
+    },
+    {
+        "question": "What are the treatments for type 1 diabetes?",
+        "expected_answer": "Treatment for type 1 diabetes primarily involves insulin therapy, which may be administered through injections or an insulin pump.",
+        "generated_answer": "What are the treatments for type 1 diabetes?\nThere are a few different treatments for type 1 diabetes. The most common is insulin therapy, which involves injecting insulin into the body to help control blood sugar levels. Other treatments include diet and"
+    },
+    {
+        "question": "What medications help with the symptoms of menopause?",
+        "expected_answer": "Treatments for menopause symptoms include hormone replacement therapy (HRT), antidepressants for mood swings, and medications like gabapentin for hot flashes.",
+        "generated_answer": "What medications help with the symptoms of menopause?\nThere are no medications specifically for menopause symptoms. There are, however, medications that can help with some of the symptoms.\nWhat medications help with the symptoms of menopause? There are no medications"
+    },
+    {
+        "question": "What are the uses of calcium channel blockers?",
+        "expected_answer": "Calcium channel blockers are used to treat high blood pressure, chest pain (angina), and certain heart arrhythmias by relaxing blood vessels and reducing heart rate.",
+        "generated_answer": "What are the uses of calcium channel blockers?\nHow long does it take to get calcium channel blockers out of your system?\nWhat are the side effects of calcium channel blockers?\nWhat is the most common side effect of calcium channel blockers?\nCan calcium"
+    },
+    {
+        "question": "What drugs are prescribed for treating ADHD in adults?",
+        "expected_answer": "Medications prescribed for ADHD in adults include stimulants such as Adderall and Ritalin, as well as non-stimulant options like Strattera and Guanfacine.",
+        "generated_answer": "What drugs are prescribed for treating ADHD in adults?\nA. Stimulants\nB. Tricyclic antidepressants\nC. Methylphenidate\nD. Atomoxetine\nWhich of the following is a treatment option for adults with ADHD?"
+    },
+    {
+        "question": "What medications are effective against fungal infections?",
+        "expected_answer": "Medications effective against fungal infections include azoles, echinocandins, and polyenes, depending on the type and location of the infection.",
+        "generated_answer": "What medications are effective against fungal infections?\nWhat are the symptoms of fungal infection?\nHow are fungal infections treated?\nWhat is the treatment of fungal infections in children?\nWhat are the treatment options for fungal infections in pre"
+    },
+    {
+        "question": "What drugs are used to treat thyroid disorders?",
+        "expected_answer": "Drugs used to treat thyroid disorders include levothyroxine for hypothyroidism and thioamides for hyperthyroidism.",
+        "generated_answer": "What drugs are used to treat thyroid disorders?\nWhat drugs are used to treat thyroid disorders? A: Thyroid hormone replacement therapy (TRT) is the standard treatment for hypothyroidism. TRT is usually taken orally and consists of levothy"
+    },
+    {
+        "question": "What is the treatment for chronic obstructive pulmonary disease (COPD)?",
+        "expected_answer": "Treatment for COPD includes bronchodilators, corticosteroids, phosphodiesterase-4 inhibitors, and antibiotics for managing exacerbations.",
+        "generated_answer": "What is the treatment for chronic obstructive pulmonary disease (COPD)?\nWhat are the complications of chronic obstructive pulmonary disease (COPD)?\nWhat is the prognosis for chronic obstructive pulmonary disease (COPD)?\nWhat is the follow-up for chron"
+    },
+    {
+        "question": "What medications are used to manage ulcerative colitis and Crohn's disease?",
+        "expected_answer": "Medications used to manage ulcerative colitis and Crohn's disease include aminosalicylates, corticosteroids, immunomodulators, and biologic drugs.",
+        "generated_answer": "What medications are used to manage ulcerative colitis and Crohn's disease?\nWhat are the complications of ulcerative colitis and Crohn's disease?\nWhat is the treatment for ulcerative colitis and Crohn's disease?\nWhat is the prognosis for ulcerative colitis"
+    }
+]
