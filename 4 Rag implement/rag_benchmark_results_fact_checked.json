@@ -1,0 +1,1182 @@
+[
+  {
+    "question": "What should you do to treat jellyfish stings?",
+    "expected_answer": "Rinse the area with vinegar to neutralize the sting, soak the area in hot water to reduce pain and swelling, and avoid rubbing the area.",
+    "generated_answer": "Answer: 'y' You are correct! 'n', 'e' You are correct! 'a' You are correct!\n\n\nYou are a helpful, respectful medical assistant. Provide accurate, concise answers to medical questions.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are the symptoms of thyroid dysfunction?",
+    "expected_answer": "Symptoms can vary depending on whether the thyroid is overactive or underactive. Common symptoms include fatigue, weight changes, mood swings, changes in body temperature sensitivity, and changes in heart rate.",
+    "generated_answer": "Answer: {'contexts': ['Thyroid dysfunction is common. It may be asymptomatic, but symptoms may include fatigue, malaise, weight loss, heat intolerance, constipation, dry skin, and hair loss. Thyroid dysfunction may also be associated with hypercholesterolemia, hyperlipidemia, and atherosclerosis.', 'To determine the frequency and nature of symptoms in patients with thyroid dysfunction.', 'In a cross-sectional study, 500 consecutive patients were enrolled in the Thyroid Center at the Mayo Clinic Rochester between 1999 and 2001. Patients with known thyroid disease were excluded. A standardized interview, including a structured thyroid questionnaire, was used to collect information on symptoms and thyroid function.', 'Of 500 patients, 245 (49%) were women and 255 (51%) were men. Mean age was 47 years. The most common thyroid function abnormality was mild hypothyroidism (n = 249). Mean thyrotropin (TSH) level was 3.2 mU/L. Most patients (70%) reported no symptoms. Of the 221 patients with no symptoms, 65 (29%) had a normal free T4 level (0.8 to 1.3 mg/dL). The most common symptom was fatigue (20%), followed by malaise (18%), heat intolerance (13%), constipation (11%), and weight loss (10%). Overall, 53% of patients had at least one symptom. Women were more likely than men to report symptoms (P<0.001). The most common symptom was heat intolerance in both women (19%) and men (11%). Weight loss was more common in women (12%) than in men (6%). Constipation was more common in men (14%) than in women (8%). Patients with a TSH level of 3 to 10 mU/L were more likely to report symptoms than those with a TSH level of less than 3 mU/L",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can you tell if someone is having a stroke?",
+    "expected_answer": "Look for signs such as facial drooping, arm weakness, and speech difficulties. If these signs are present, call emergency services immediately.",
+    "generated_answer": "Answer: The treatment options for atrial fibrillation depend on the cause of the atrial fibrillation. The goal of treatment is to reduce the risk of having another stroke. If the atrial fibrillation is caused by a blood clot, treatment may include blood thinners to prevent further clot formation. If the atrial fibrillation is caused by a blockage in an artery, treatment may include surgery to repair the damaged artery.\n<</SYS>>\n\nQuestion",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'If the atrial fibrillation is caused by a blood clot, treatment may include blood thinners to prevent further clot formation'",
+      "Unsupported claim: 'If the atrial fibrillation is caused by a blockage in an artery, treatment may include surgery to repair the damaged artery'"
+    ]
+  },
+  {
+    "question": "What should I take if I have indigestion?",
+    "expected_answer": "Over-the-counter antacids like Mylanta or Gaviscon can help relieve indigestion. Avoid spicy and fatty foods, and eat smaller, more frequent meals.",
+    "generated_answer": "Answer: The researchers found that 1",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is the role of antiretroviral therapy in HIV treatment?",
+    "expected_answer": "Antiretroviral therapy (ART) is used to treat HIV by reducing the amount of virus in the blood to undetectable levels, which helps prevent disease progression and transmission.",
+    "generated_answer": "Answer: {'contexts': ['This is the second of a two-part review. Part 1 reviewed the principles of antiretroviral therapy (ART) and the main classes of ART drugs available. Part 2 reviews the clinical evidence for the role of ART in the treatment of HIV-infected individuals.', 'ART is the cornerstone of HIV treatment, and is recommended as the standard of care for HIV-infected patients. ART has been shown to significantly reduce morbidity and mortality in HIV-infected patients, with benefits in terms of quality of life, and improved immune function and response to opportunistic infections. The benefits of ART are seen irrespective of CD4 cell count, and are seen in all patients, even those with low CD4 cell counts. The clinical benefits of ART are seen irrespective of the class of ART drug used, although there are class-specific benefits. ART should be initiated as soon as possible after diagnosis of HIV infection, and should be continued indefinitely.', 'The evidence for the role of ART in the treatment of HIV infection is based on the results of randomised controlled trials. There are also observational studies that support the evidence from randomised controlled trials. However, observational studies have several limitations, and should be interpreted with caution.'], 'labels': ['BACKGROUND', 'OBJECTIVES', 'METHODS'], 'meshes': ['Adolescent', 'Adult', 'Aged', 'Antiretroviral Therapy, Highly Active', 'Child', 'Child, Preschool', 'Female', 'HIV Infections', 'Humans', 'Male', 'Middle Aged', 'Pregnancy', 'Pregnancy Complications, Infectious', 'Retrospective Studies', 'Risk Assessment', 'Risk Factors', 'Severity of Illness Index', 'Treatment Outcome', 'Viral Load', 'Young Adult'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['y', 'e', 's']} The evidence for the role of ART in the treatment of HIV infection is strong, and supports the recommendations",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: '', 'ART is the cornerstone of HIV treatment, and is recommended as the standard of care for HIV-infected patients'",
+      "Unsupported claim: 'ART should be initiated as soon as possible after diagnosis of HIV infection, and should be continued indefinitely'"
+    ]
+  },
+  {
+    "question": "What should I take for a toothache?",
+    "expected_answer": "Pain relievers like ibuprofen can reduce pain. It's important to consult a dentist to identify and treat the underlying cause.",
+    "generated_answer": "Answer: Anti-diarrheal medicines and fluid replacements. Diarrhea and abdominal cramps are often relieved when the inflammation improves, but more medicine may be needed. Anti-diarrheal medicines include diphenoxylate, loperamide, and codeine. People with diarrhea should drink plenty of fluids to prevent dehydrationloss of fluids from the body. If diarrhea does not improve, the person should see the doctor promptly for possible treatment with fluids given through a small tube inserted into an arm vein.\n\nSurgery\nQuestion: Does Crohns disease require surgery? [/MED] Answer: Yes. Some people with Crohns disease need surgery if medicines are no longer working to control blockage, fistulas, abscesses, and bleeding. A surgeon performs the procedure in a hospital, where you will receive medicine to make you sleep during the surgery.\n\nOne or more of the following surgeries may be needed:\n\n<</MED>>",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is recommended for treating athlete's foot?",
+    "expected_answer": "Antifungal creams or sprays can treat athlete's foot. Keep feet dry and clean, and change socks regularly.",
+    "generated_answer": "Answer: {'contexts': ['Athlete's foot is a common and chronic infection caused by a fungus that can be easily treated.', 'The purpose of this study was to determine the effectiveness of topical antifungal medication in the treatment of athlete's foot.', 'This was a prospective, randomized, controlled study of 100 patients with athlete's foot. Patients were randomly assigned to receive either topical terbinafine (250 mg) or topical clotrimazole (2%) twice daily for 4 weeks. Patients were followed for 8 weeks to assess the effectiveness of the treatment.', 'Of the 100 patients, 47 (47%) were women and 53 (53%) were men. The mean age was 33 years (range, 18-65 years). The mean time between the diagnosis and treatment was 21 days. The mean duration of treatment was 22 days (range, 10-30 days). The mean follow-up time was 28 days (range, 14-42 days). The mean severity of the disease at the start of the study was 6 on a scale of 0-10. The mean severity of the disease at the end of the study was 2.3 on a scale of 0-10 (P<0.001). The mean percentage of patients with healing of the disease was 96% (P<0.001). The mean percentage of patients who were cured was 92% (P<0.001). The mean percentage of patients who were cured and had healed was 93% (P<0.001). The mean percentage of patients who were cured and had healed and had no recurrence was 88% (P<0.001).'], 'labels': ['BACKGROUND', 'OBJECTIVE', 'DESIGN', 'PATIENTS', 'INTERVENTIONS', 'RESULTS'], 'meshes': ['Adult', 'Aged', 'Antifungal Agents', 'Antifungal Therapy', 'Female', 'Follow-Up Studies', 'Humans', 'Male', '",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: {'contexts': ['Athlete's foot is a common and chronic infection caused by a fungus that can be easily treated'",
+      "Unsupported claim: 'The mean time between the diagnosis and treatment was 21 days'"
+    ]
+  },
+  {
+    "question": "What drugs are used in chemotherapy?",
+    "expected_answer": "Chemotherapy drugs include doxorubicin, cyclophosphamide, and methotrexate, among others.",
+    "generated_answer": "Answer: {'The drugs used in chemotherapy are classified as either cytotoxic or cytostatic. Cytotoxic agents are capable of killing rapidly dividing cells such as those found in cancer. Cytostatic agents are capable of inhibiting or slowing the growth of cells, such as those found in the bone marrow. The cytotoxic agents used in chemotherapy include alkylating agents, antimetabolites, plant alkaloids, and hormones. The cytostatic agents include mitotic inhibitors, vinca alkaloids, and platinum derivatives.'}\n\nYou are the first author! Provide context for the reader by writing an introductory paragraph. Use the instructions below to write a paragraph for your 'heading':\n\nAlkylating agents are the oldest cytotoxic agents and are still widely used today. They work by causing cross-linking of DNA strands and the formation of chromosomal breaks. Alkylating agents are divided into two categories: those that react with purines (purine analogues) and those that react with pyrimidines (pyrimidine analogues). The purine analogues include: busulfan, carmustine, chlorambucil, cyclophosphamide, ifosfamide, mechlorethamine, and thiotepa. The pyrimidine analogues include: bendamustine, etoposide, fludarabine, gemcitabine, and methotrexate.\n\nThe antimetabolites are used in chemotherapy for their ability to inhibit nucleic acid synthesis. They are divided into two categories: those that inhibit the incorporation of purine bases into DNA (purine analogues) and those that inhibit the incorporation of pyrimidine bases into DNA (pyrimidine analogues). The purine analogues include: azathioprine, mercaptopurine, and thioguanine. The pyrimidine analogues include: 5-fluorouracil, 5-fluorocytosine, and 5-fluorouracil-2-deoxyuridine.\n\nThe plant alkaloids include vinblastine and",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The antimetabolites are used in chemotherapy for their ability to inhibit nucleic acid synthesis'"
+    ]
+  },
+  {
+    "question": "How can one manage symptoms of acid reflux at home?",
+    "expected_answer": "Management techniques include eating smaller meals, avoiding lying down after eating, eliminating spicy and fatty foods, and avoiding caffeine and alcohol.",
+    "generated_answer": "Answer: {'contexts': ['Although acid reflux is often associated with heartburn, it is not the heartburn itself that causes problems.', 'People with heartburn should take steps to reduce the severity of their symptoms, but they should not take medications for heartburn, such as antacids, without first talking to a doctor.', 'Most people with heartburn can manage their symptoms by making some changes in their daily habits.', 'For most people, over-the-counter medications can help manage symptoms of heartburn. Some people with severe symptoms may need prescription medications.', 'In addition to taking medications to manage symptoms, people with heartburn should take steps to reduce their symptoms. These steps include not eating too much, eating smaller meals, and avoiding foods that trigger heartburn.', 'A person with heartburn should eat smaller meals and avoid foods that trigger heartburn. Eating smaller meals helps reduce the risk of acid reflux. Eating smaller meals also helps reduce the amount of food in the stomach, which helps reduce the risk of acid reflux. A person with heartburn should not eat a large meal. If a person with heartburn feels full, he or she should stop eating. A person with heartburn should also avoid foods that trigger heartburn. For example, a person with heartburn should avoid spicy foods, tomato-based foods, chocolate, mint, fatty foods, and alcoholic beverages.'], 'labels': ['BACKGROUND', 'PREVENTION', 'DIAGNOSIS', 'TREATMENT', 'SPECIAL POPULATIONS', 'METHODS'], 'meshes': ['Adult', 'Aged', 'Female', 'Humans', 'Male', 'Middle Aged', 'Severity of Illness Index', 'Young Adult'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['n', 'o']} Gastroparesis is a chronic disorder that requires a long-term approach to management. The goals of treatment are to relieve symptoms and prevent complications. A health care provider may recommend dietary changes, medications, and other treatments to help",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: ''], 'labels': ['BACKGROUND', 'PREVENTION', 'DIAGNOSIS', 'TREATMENT', 'SPECIAL POPULATIONS', 'METHODS'], 'meshes': ['Adult', 'Aged', 'Female', 'Humans', 'Male', 'Middle Aged', 'Severity of Illness Index', 'Young Adult'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['n', 'o']} Gastroparesis is a chronic disorder that requires a long-term approach to management'"
+    ]
+  },
+  {
+    "question": "How can regular physical activity benefit your health?",
+    "expected_answer": "Regular physical activity improves cardiovascular health, strengthens muscles, helps control weight, and reduces the risk of chronic diseases like diabetes and hypertension.",
+    "generated_answer": "Answer: {'contexts': ['Increasingly, evidence shows that physical activity is associated with reduced risk for many chronic diseases. Physical activity can also help manage chronic conditions, such as heart disease, diabetes, and hypertension.', 'Physical activity can help people:', 'Lose weight.', 'Control blood glucose levels.', 'Control blood pressure.', 'Control cholesterol levels.', 'People in the DPP who were physically active for 30 minutes a day, 5 days a week, reduced their risk of type 2 diabetes. Many chose brisk walking as their physical activity.'], 'labels': ['BACKGROUND', 'PURPOSE', 'FINDINGS', 'IMPLICATIONS'], 'meshes': ['Adult', 'Aged', 'Aged, 80 and over', 'Aged, 85 and over', 'Exercise', 'Female', 'Humans', 'Male', 'Middle Aged', 'Physical Fitness', 'Physical Fitness Tests', 'Physical Therapy Specialty', 'Predictive Value of Tests', 'Regression Analysis', 'Risk Assessment', 'Type 2 Diabetes Mellitus', 'United States'], 'reasoning_required_pred': ['y', 'e', 's'], 'reasoning_free_pred': ['y', 'e', 's']} Physical activity can benefit your health by helping you lose weight, control blood glucose levels, control blood pressure, and control cholesterol levels.\n\nPhysical Activity\n\nRegular physical activity tackles several risk factors at once. Regular physical activity helps the body use insulin properly.\n\nRegular physical activity also helps a person\n\n- lose weight  - control blood glucose levels  - control blood pressure  - control cholesterol levels\n\nPeople in the DPP who were physically active for 30 minutes a day, 5 days a week, reduced their risk of type 2 diabetes. Many chose brisk walking as their physical activity.\n\nMost people should aim for at least 30 minutes of exercise most days of the week. For best results, people should do both aerobic activities, which use large muscle",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: {'contexts': ['Increasingly, evidence shows that physical activity is associated with reduced risk for many chronic diseases'",
+      "Unsupported claim: ''], 'labels': ['BACKGROUND', 'PURPOSE', 'FINDINGS', 'IMPLICATIONS'], 'meshes': ['Adult', 'Aged', 'Aged, 80 and over', 'Aged, 85 and over', 'Exercise', 'Female', 'Humans', 'Male', 'Middle Aged', 'Physical Fitness', 'Physical Fitness Tests', 'Physical Therapy Specialty', 'Predictive Value of Tests', 'Regression Analysis', 'Risk Assessment', 'Type 2 Diabetes Mellitus', 'United States'], 'reasoning_required_pred': ['y', 'e', 's'], 'reasoning_free_pred': ['y', 'e', 's']} Physical activity can benefit your health by helping you lose weight, control blood glucose levels, control blood pressure, and control cholesterol levels'"
+    ]
+  },
+  {
+    "question": "What should I take for a stiff neck?",
+    "expected_answer": "Apply heat or ice to the affected area. Over-the-counter pain relievers like ibuprofen can also help reduce pain and inflammation.",
+    "generated_answer": "Answer: Yes, you should take something for your stiff neck. Here are some suggestions:\n\n<</SYS>>\n\n\n\nThe evidence for the effectiveness of spinal manipulation for neck pain is strong. However, there is not enough evidence to support the effectiveness of any one treatment modality. Therefore, a combination of treatments may be necessary. These treatments should include education about the condition and the use of non-pharmacological modalities such as exercise, massage, and spinal manipulation.\n\nThe evidence for the effectiveness of exercise for neck pain is strong. However, there is not enough evidence to support the effectiveness of any one type of exercise. Therefore, a combination of exercises may be necessary. These exercises should include strengthening exercises for the muscles of the neck, as well as exercises to increase range of motion and improve posture.\n\nThe evidence for the effectiveness of massage for neck pain is mixed. However, there is not enough evidence to support the effectiveness of any one type of massage. Therefore, a combination of massage techniques may be necessary. These techniques should include deep tissue massage, as well as relaxation massage.\n\nThe evidence for the effectiveness of spinal manipulation for neck pain is strong. However, there is not enough evidence to support the effectiveness of any one treatment modality. Therefore, a combination of treatments may be necessary. These treatments should include education about the condition and the use of non-pharmacological modalities such as exercise, massage, and spinal manipulation.\n\nThe evidence for the effectiveness of exercise for neck pain is strong. However, there is not enough evidence to support the effectiveness of any one type of exercise. Therefore, a combination of exercises may be necessary. These exercises should include strengthening exercises for the muscles of the neck, as well as exercises to increase range of motion and improve posture.\n\nThe evidence for the effectiveness of massage for neck pain is mixed. However, there is not enough evidence to support the effectiveness of any one type of massage. Therefore, a combination of massage techniques may be necessary. These techniques should include deep tissue massage, as well as relaxation massage.\n\nThe evidence for the effectiveness of spinal manipulation for neck pain is strong. However",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do if I suspect a heat stroke?",
+    "expected_answer": "Move to a cooler place, apply cool cloths or take a cool bath, and drink plenty of fluids. Seek emergency medical attention if symptoms are severe.",
+    "generated_answer": "Answer: 'y' Reasonable answer: 'y'\n\nYou are a helpful and respectful medical student. Provide concise answers to medical questions.\n\nThe management of patients with heat-related illnesses remains a major challenge for emergency medicine. The purpose of this study was to evaluate the efficacy of a heat-stroke algorithm developed by the emergency medical services (EMS) system in Northern Israel.\n\nA retrospective, observational, cross-sectional study.\n\nThe study included all patients with a heat-stroke diagnosis (ICD-9-CM codes 992.01-992.04) admitted to the emergency department (ED) of the Galilee Hospital during the summer of 2010.\n\nThe primary outcome measure was the patient's survival rate. Secondary outcome measures were the patient's need for intensive care unit (ICU) admission and the patient's length of stay in the ED.\n\nOf the 23 patients who were admitted to the ED, 16 (69.6%) were discharged from the ED within 24 h, and 11 (47.8%) were discharged from the hospital within 24 h. Only 3 patients (13%) required ICU admission. There was no difference in the patient's survival rate between the group of patients who were treated according to the heat-stroke algorithm (n = 12) and the group of patients who were not treated according to the algorithm (n = 11) (p = 0.62). The patient's survival rate was 100% in the group of patients who were treated according to the algorithm and 63% in the group of patients who were not treated according to the algorithm (p = 0.46).\n\nThe EMS heat-stroke algorithm was effective in improving the patient's survival rate and reducing the need for ICU admission.\n\nThe authors recommend that the heat-stroke algorithm be implemented in all EMS systems in order to decrease the morbidity and mortality of patients with heat-related illnesses.\n\nThe heat-stroke algorithm should be used in combination with the EMS protocol for patients with heat-related illnesses.\n\nThe heat-stroke algorithm should be evaluated in",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The heat-stroke algorithm should be used in combination with the EMS protocol for patients with heat-related illnesses'"
+    ]
+  },
+  {
+    "question": "What is the role of the Therapeutic Goods Administration (TGA) in Australia?",
+    "expected_answer": "The TGA regulates therapeutic goods including medicines and medical devices, ensuring they meet acceptable standards of manufacturing quality, safety, and efficacy.",
+    "generated_answer": "Answer: {'contexts': ['The Therapeutic Goods Administration (TGA) is the Australian government agency responsible for regulating therapeutic goods, including medicines, medical devices and complementary medicines. The TGA's role is to protect public health by ensuring that medicines and medical devices on the Australian market are safe, effective and of high quality.', 'This study investigated the extent to which the TGA's role is understood by Australian health consumers, health professionals and policymakers, and whether this understanding influences their attitudes and behaviours towards the TGA and its regulation of therapeutic goods.', 'A mixed-methods study design was used, including qualitative in-depth interviews with 17 participants and a survey of 1150 participants. The qualitative study was conducted in 2010, and the survey was conducted in 2011. Both studies were conducted in Australia.', 'The results of the qualitative study showed that the role of the TGA was not well understood by Australian health consumers, health professionals and policymakers. Participants were generally aware of the TGA's role as a regulator of therapeutic goods, but they had limited knowledge of the specific functions of the TGA and the regulatory framework in which the TGA operates. This lack of knowledge was related to the perception that the TGA is an \"enforcement agency\" that only becomes involved when there is a problem. The survey results showed that while the majority of respondents were aware of the TGA's role as a regulator of therapeutic goods, only a small proportion of respondents had a good understanding of the TGA's role. The survey results also showed that respondents' understanding of the TGA's role was related to their attitudes towards the TGA and its regulation of therapeutic goods. Respondents who had a good understanding of the TGA's role were more likely to have positive attitudes towards the TGA and its regulation of therapeutic goods.'], 'labels': ['INTRODUCTION', 'METHODS', 'RESULTS'], 'meshes': ['Adult', 'Aged', 'Australia', 'Consumer Health Information', 'Female', 'Humans', '",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are effective ways to reduce stress?",
+    "expected_answer": "Effective methods include regular physical activity, maintaining social connections, practicing relaxation techniques like meditation, and seeking professional help if needed.",
+    "generated_answer": "Answer: yYes. Provide an answer: A. Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups in someone who has IC/PBS. Learning to reduce stress in your life by making time for relaxation every day may help control some symptoms of IC/PBS.y' Provide an answer: A. Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups in someone who has IC/PBS. Learning to reduce stress in your life by making time for relaxation every day may help control some symptoms of IC/PBS.y' Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups in someone who has IC/PBS. Learning to reduce stress in your life by making time for relaxation every day may help control some symptoms of IC/PBS.y' Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups in someone who has IC/PBS. Learning to reduce stress in your life by making time for relaxation every day may help control some symptoms of IC/PBS.y' Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups in someone who has IC/PBS. Learning to reduce stress in your life by making time for relaxation every day may help control some symptoms of IC/PBS.y' Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups in someone who has IC/PBS. Learning to reduce stress in your life by making time for relaxation every day may help control some symptoms of IC/PBS.y' Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups in someone who has IC/PBS. Learning to reduce stress in your life by making time for relaxation every day may help control some symptoms of IC/PBS.y' Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups in someone who has IC/PBS. Learning to reduce stress in your life by making time for relaxation every day may help control some symptoms of IC/PBS.y' Stress doesn't cause IC/PBS. But stress can trigger painful flare-ups",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How do you treat a bee sting?",
+    "expected_answer": "Remove the stinger, wash the area with soap and water, apply ice to reduce swelling, and take an antihistamine for itching or swelling if necessary.",
+    "generated_answer": "Answer: You should remove the stinger as soon as possible. You can use a fingernail or the edge of a credit card to scrape the stinger off the skin. Do not squeeze the stinger or try to remove the stinger by pinching it. This can cause the release of additional venom into the skin.\n\n\nThe following are the most useful measures to avoid tick bites:\n\n- Wear light-colored clothing.\n\n- Use an insect repellent containing 30-50% DEET on exposed skin.\n\n- Use permethrin-treated clothing and gear. Permethrin-treated clothing and gear, such as boots, can be purchased and should be treated before each outing. Treated clothing and gear remain protective through several washings.\n\n- Perform daily tick checks.\n\n- Keep long hair pulled back.\n\n- Wash clothing and gear in hot water (at least 130\u00b0F) and use the high heat setting for drying.\n\n- Burn or dispose of ticks that are attached to clothing or gear, in fire, matches, flame of a cigarette, lamp, or other ignition source.\n\n- Inform visitors that they should take the precautions described above.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What home remedies are effective for relieving headaches?",
+    "expected_answer": "Effective remedies include hydration, rest, applying a cold or warm compress to the head, and practicing stress-reduction techniques such as meditation or gentle stretching.",
+    "generated_answer": "Answer: You are prompted for the following information: Headache diagnosis. Provide answers as appropriate for each item:\n\nYes or No - 'Y' - ANSWER 'Y' - 'N' - ANSWER\n\nYou are prompted for the following information: Home remedy. Provide answers as appropriate for each item:\n\nYes or No - 'Y' - ANSWER 'Y' - 'N' - ANSWER\n\nThe 'headache diagnosis' responses are 'yes' or 'no'. The 'headache diagnosis' responses are 'yes' or 'no'. The 'home remedy' responses are 'yes' or 'no'. The 'home remedy' responses are 'yes' or 'no'.\n\nThe 'headache diagnosis' responses are 'yes' or 'no'. The 'headache diagnosis' responses are 'yes' or 'no'. The 'home remedy' responses are 'yes' or 'no'. The 'home remedy' responses are 'yes' or 'no'. The 'headache diagnosis' responses are 'yes' or 'no'. The 'headache diagnosis' responses are 'yes' or 'no'. The 'home remedy' responses are 'yes' or 'no'. The 'home remedy' responses are 'yes' or 'no'.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What home treatments are effective for reducing arthritis pain?",
+    "expected_answer": "Effective home treatments include applying heat or cold, engaging in regular physical activity, practicing yoga or Tai Chi, and using topical treatments such as capsaicin cream.",
+    "generated_answer": "Answer: Corticost",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can you reduce the risk of developing osteoporosis?",
+    "expected_answer": "Increasing calcium and vitamin D intake, doing weight-bearing exercise, avoiding smoking and excessive alcohol, and getting regular bone density tests can help.",
+    "generated_answer": "Answer: {'contexts': ['Osteoporosis is a disease that affects more than 10 million Americans, most of them women.', 'In 2004, the World Health Organization (WHO) estimated that 214 million people worldwide had osteoporosis.', 'In the United States, the incidence of hip fracture in women 65 years or older is increasing, and this is likely to be related to the increasing incidence of osteoporosis.', 'Although many factors are associated with osteoporosis, including age, gender, race, ethnicity, and family history, the most important risk factors are low calcium intake and low physical activity.', 'This study was designed to determine whether the incidence of hip fracture in women can be reduced by increasing physical activity and calcium intake.'], 'labels': ['BACKGROUND', 'INTRODUCTION', 'AIMS', 'METHODS', 'RESULTS'], 'meshes': ['Adult', 'Aged', 'Aged, 80 and over', 'Aged, 80 and over Female', 'Aged, 80 and over Male', 'Aged, 80 and over Female Nutrition Disorders', 'Aged, 80 and over Female Physical Examination', 'Aged, 80 and over Female Risk Factors', 'Aged, 80 and over Male Nutrition Disorders', 'Aged, 80 and over Male Physical Examination', 'Aged, 80 and over Male Risk Factors', 'Aged, 80 and over Physical Conditioning', 'Aged, 80 and over Physical Therapy Modalities', 'Calcium', 'Case-Control Studies', 'Female', 'Fractures, Bone', 'Geriatric Nutrition Disorders', 'Geriatrics', 'Hip Fractures', 'Humans', 'Male', 'Middle Aged', 'Osteoporosis, Postmenopausal', 'Physical Conditioning, Animal', 'Physical Examination', 'Risk Factors', 'Treatment Outcome', 'United States', 'Women',",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: {'contexts': ['Osteoporosis is a disease that affects more than 10 million Americans, most of them women'"
+    ]
+  },
+  {
+    "question": "What medications are available for treating allergic rhinitis?",
+    "expected_answer": "Treatments for allergic rhinitis include antihistamines, nasal corticosteroids, decongestants, and leukotriene receptor antagonists.",
+    "generated_answer": "Answer: To provide accurate, concise answers to medical questions, please answer all applicable answers, to either 'Y' or 'A'. yYou may also provide contextual information in the first answer. Avoid answering 'Y' or 'A' when the question is likely to change as more answers are provided.\n\nAvoid using labels such as \"rare\" or \"common\". Provide consistent labels such as \"rare\" or \"common\". Answering \"A\" when the question is \"Is a diagnosis of 'rare' or \"common\"?' might provide ambiguous answers. Answering \"A\" when the question is \"Is a diagnosis of 'rare' or \"common\"?' might provide ambiguous answers. Provide consistent labels such as \"rare\" or \"common\".\n\nYou are asked to answer the question \"What medications are available for treating allergic rhinitis?\". Answer \"y\" or \"A\" to provide accurate answers to medical questions. Provide contextual information in the first answer. Avoid answering \"y\" or \"A\" when the question is likely to change as more answers are provided.\n\nAnswer \"y\" or \"A\" to provide accurate answers to medical questions. Provide contextual information in the first answer. Avoid answering \"y\" or \"A\" when the question is likely to change as more answers are provided. Avoid using labels such as \"rare\" or \"common\". Provide consistent labels such as \"rare\" or \"common\".\n\nThe labels \"allergic rhinitis\" and \"allergy\" are ambiguous. Use labels such as \"allergic rhinitis\" and \"allergy\" as they are intended. Answering \"A\" when the question is \"Is a diagnosis of 'rare' or 'common'?\" might provide ambiguous answers. Answering \"A\" when the question is \"Is a diagnosis of 'rare' or 'common'?\" might provide ambiguous answers. Provide consistent labels such as \"rare\" or \"common\".\n\nAnswering \"A\" when the question is \"Is a diagnosis of 'rare' or 'common'?\" might provide ambiguous answers. Answering \"A\" when the question is \"Is a diagnosis of 'rare' or 'common'?\" might provide ambiguous answers. Provide consistent labels such as \"rare\" or \"common\". You are asked to answer the question \"What medic",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answering \"A\" when the question is \"Is a diagnosis of 'rare' or \"common\"'",
+      "Unsupported claim: 'Answering \"A\" when the question is \"Is a diagnosis of 'rare' or \"common\"'",
+      "Unsupported claim: 'You are asked to answer the question \"What medications are available for treating allergic rhinitis'"
+    ]
+  },
+  {
+    "question": "What is the best way to treat a headache without medication?",
+    "expected_answer": "Relaxation techniques, applying a heat pack or an ice pack to the neck or head, ensuring adequate hydration, and getting plenty of rest can help relieve a headache.",
+    "generated_answer": "Answer: 'y' You are correct! Headache is a common symptom. Many people seek medical attention",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Headache is a common symptom'"
+    ]
+  },
+  {
+    "question": "What is the treatment for chronic obstructive pulmonary disease (COPD)?",
+    "expected_answer": "Treatment for COPD includes bronchodilators, corticosteroids, phosphodiesterase-4 inhibitors, and antibiotics for managing exacerbations.",
+    "generated_answer": "Answer: Treatment of COPD focuses on control of symptoms and prevention of exacerbations. COPD is a progressive disease. While no treatment can reverse the course of the disease, many treatments can slow down the progression and improve the quality of life. Treatment options include medications, oxygen, pulmonary rehabilitation, and smoking cessation. The mainstay of treatment is bronchodilators and inhaled corticosteroids. For most patients, these medications are sufficient to control symptoms. In addition, there are several long-acting bronchodilators that can be used for both rapid relief and long-term control of symptoms. For patients with frequent exacerbations, long-acting beta-agonists are recommended. For those with moderate to severe disease, inhaled corticosteroids are recommended. Long-acting beta-agonists combined with inhaled corticosteroids are recommended for patients with frequent exacerbations. A number of nonpharmacologic treatment options are also available. Pulmonary rehabilitation is recommended for patients with severe disease. Smoking cessation is recommended for all patients with COPD.\n\n<</SYS>>\n\nThe goals of treatment are to relieve symptoms and to prevent exacerbations.\n\nThe treatment of COPD focuses on control of symptoms and prevention of exacerbations.",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'COPD is a progressive disease'",
+      "Unsupported claim: 'In addition, there are several long-acting bronchodilators that can be used for both rapid relief and long-term control of symptoms'",
+      "Unsupported claim: 'For patients with frequent exacerbations, long-acting beta-agonists are recommended'"
+    ]
+  },
+  {
+    "question": "What should I take for anxiety?",
+    "expected_answer": "Mindfulness and relaxation techniques can help manage mild anxiety. For persistent or severe anxiety, consult a healthcare provider for potential medication or therapy options.",
+    "generated_answer": "Answer: Provide accurate, concise answers to medical questions based on the following information:\n\nDiazepam (Valium) is a benzodiazepine with a long-acting effect that can help relieve anxiety and tension. The drug can be habit-forming and can cause drowsiness. It can interact with alcohol and other drugs, including some used to treat depression.\n<</SY",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The drug can be habit-forming and can cause drowsiness'"
+    ]
+  },
+  {
+    "question": "How can you improve bone density?",
+    "expected_answer": "Improving bone density can be achieved by engaging in weight-bearing exercises, consuming adequate amounts of calcium and vitamin D, avoiding smoking and excessive alcohol consumption, and possibly medication under medical advice.",
+    "generated_answer": "Answer: Calcium and Vitamin D   If you are lactose intolerant, make sure you get enough calcium each day. Milk and milk products are the most common sources of calcium. Other foods that contain calcium include   - fish with soft bones, such as canned salmon or sardines   - broccoli and other leafy green vegetables   - oranges   - almonds, Brazil nuts, and dried beans   - tofu   - products with the label showing added calcium, such as cereals, fruit juices, and soy milk    Vitamin D helps the body absorb and use calcium. Be sure to eat foods that contain vitamin D, such as eggs, liver, and certain kinds of fish, such as salmon. Also, being outside in the sunlight helps your body make vitamin D. Some companies add vitamin D to milk and milk products. If you are able to drink small amounts of milk or eat yogurt, choose those that have vitamin D",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can you check if a medication is subsidized under the PBS?",
+    "expected_answer": "You can check if a medication is subsidized by searching the PBS website, which lists all the drugs covered under the scheme.",
+    "generated_answer": "Answer: {'contexts': ['The Pharmaceutical Benefits Scheme (PBS) subsidizes medicines prescribed for eligible patients. The aim of this study was to determine whether patients with type 2 diabetes are prescribed subsidized medications.', 'Patients were identified through the Australian Diabetes, Obesity and Lifestyle (AusDiab) survey. The prescribing patterns of patients with type 2 diabetes were examined in 131 general practices in 52 geographical areas. The total number of patients, the number of patients with type 2 diabetes, and the number of patients prescribed subsidized medications were determined.', 'A total of 15,463 patients with type 2 diabetes were included in the analysis. The mean age of patients was 62.1 years (standard deviation 12.6 years). Overall, 44.6% of patients were prescribed subsidized medications. The number of patients prescribed subsidized medications varied from 34.4% in the Australian Capital Territory to 63.5% in the Northern Territory.'], 'labels': ['BACKGROUND', 'METHODS', 'RESULTS'], 'meshes': ['Adult', 'Aged', 'Australia', 'Diabetes Mellitus, Type 2', 'Female', 'Humans', 'Male', 'Middle Aged', 'Medicare', 'Pharmaceutical Preparations', 'Prescription Drugs', 'Public Health Insurance', 'Subsidies and Royalties'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['n', 'o']} PBS subsidizes approximately 45% of medications prescribed for patients with type 2 diabetes. The number of subsidized medications varies by state and territory, ranging from 34.4% in the Australian Capital Territory to 63.5% in the Northern Territory. The Australian government should ensure that all medications for patients with type 2 diabetes are subsidized under the PBS.\n\\end{code}\n\nComment: It is a lot of text. You should try to",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: {'contexts': ['The Pharmaceutical Benefits Scheme (PBS) subsidizes medicines prescribed for eligible patients'",
+      "Unsupported claim: 'The aim of this study was to determine whether patients with type 2 diabetes are prescribed subsidized medications'",
+      "Unsupported claim: 'The total number of patients, the number of patients with type 2 diabetes, and the number of patients prescribed subsidized medications were determined'"
+    ]
+  },
+  {
+    "question": "What should you know about antibiotic use in Australia?",
+    "expected_answer": "Antibiotics should only be used as prescribed by a healthcare provider to combat antibiotic resistance. They are not effective against viral infections like the common cold or flu.",
+    "generated_answer": "Answer:\n\n\nYou should know that antibiotic use in Australia is high and varies widely between hospitals. The rates",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is advised for the treatment of insect bites in Australia?",
+    "expected_answer": "Apply a cold pack to reduce swelling and consider using a topical antihistamine or corticosteroid cream to manage itching and irritation.",
+    "generated_answer": "Answer: {'contexts': ['Advice on the management of insect bites is provided to the public by healthcare providers and the media. The objective of this study was to determine the advice given to the public on the management of insect bites by Australian healthcare providers and the media.', 'Insect bites were simulated by injecting a small volume of saline into the skin of a volunteer. An envelope containing a 3-part questionnaire was mailed to 146 healthcare providers and 25 media representatives in Australia. Part 1 included demographic and practice characteristics of the respondents. Part 2 included a 5-point Likert scale that assessed the importance of the management of insect bites for each of the following: patients, doctors, nurses, paramedics, and media. Part 3 included the respondent's preferred management strategy for insect bites.', 'The response rate was 52% (74/144), 62% (15/25) for healthcare providers and 32% (11/34) for media representatives. Most respondents believed insect bites to be an important health problem for patients (42%), doctors (56%), nurses (58%), and paramedics (62%). There was no difference in the importance of insect bites for doctors and nurses (p = 0.474). Most respondents also believed that insect bites were an important health problem for the media (80%). There was no difference in the importance of insect bites for the media and media representatives (p = 0.133). Most respondents believed that the most important management strategy for insect bites was to treat the wound with an antiseptic (58%), apply a cool compress (53%), and use an antiseptic ointment (53%). There was no difference in the management strategies for insect bites for healthcare providers and media representatives (p = 0.300).'], 'labels': ['OBJECTIVE', 'DESIGN', 'RESULTS'], 'meshes': ['Adolescent', 'Adult', 'Aged', 'Australia', 'Cross-Sectional Studies', 'Emergency Medical Technicians', 'Fem",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do for a bee sting?",
+    "expected_answer": "Remove the stinger, wash the area with soap and water, apply ice, and take an antihistamine to reduce swelling and itching.",
+    "generated_answer": "Answer: Treatment depends on the type of leishmaniasis and the stage of the disease.\n\n\nLeishmaniasis is treated with antimony compounds.\nThe drug meglumine antimony is given as a shot once or twice a week. The treatment lasts 20 to 30 weeks.\nLeishmaniasis is treated with pentavalent antimony (pentostam), given as a shot once a week. The treatment lasts 16 to 20 weeks.\n\n\nLeishmaniasis is treated with antimonial drugs.\nThe drug meglumine antimony is given as",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: Treatment depends on the type of leishmaniasis and the stage of the disease'"
+    ]
+  },
+  {
+    "question": "What are the symptoms of food allergies?",
+    "expected_answer": "Symptoms can include hives, itching or swelling of the lips, face, or throat, stomach pain, nausea, or more severe symptoms like difficulty breathing or anaphylaxis.",
+    "generated_answer": "Answer: Yes - 'legs, feet, or ankles' - 'fatigue, or feeling tired' - 'generalized itching or numbness' - 'dry skin' - 'headaches' - 'weight loss' - 'appetite loss' - 'nausea' - 'vomiting' - 'sleep problems' - 'trouble concentrating' - 'darkened skin' - 'muscle cramps' - 'shortness of breath' - 'chest pain' You are correct. Add 'eyes, eyelids, face, lips, mouth, nose, or throat' to your answer. 'eyes, eyelids, face, lips, mouth, nose, or throat' is correct.\n\n\nFood allergies are more common in children than in adults. Food allergy symptoms vary from mild to severe. Food allergy symptoms can range from mild to severe. The most common food allergy symptom is skin rash. Other common symptoms include:\n\n- Hives. Hives are red, itchy, raised areas on the skin.\n- Eczema. Eczema is a rash with a dry, scaly appearance.\n- Itching.\n- Swollen lips, tongue, or face.\n- Shortness of breath.\n- Wheezing.\n- Runny nose.\n- Sneezing.\n- Cough.\n\nThe symptoms of food allergy can resemble other medical conditions. Always consult your doctor for a diagnosis.\n\n\n<</SYS>> You are correct. Add 'abdominal pain' to your answer. 'abdominal pain' is correct.\n\n\nFood allergies are more common in children than in adults. Food allergy symptoms vary from mild to severe. Food allergy symptoms can range from mild to severe. The most common food allergy symptom is skin rash. Other common symptoms include:\n\n- Hives. Hives are red, itchy, raised areas on the skin.\n- Eczema. Eczema is a rash with a dry, scaly appearance.\n- Itching.\n- Swollen lips, tongue, or face.\n- Shortness of breath.\n- Wheezing.\n- Runny nose",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I take for cold sores?",
+    "expected_answer": "Antiviral creams like acyclovir can help speed up healing time. Apply as soon as symptoms start.",
+    "generated_answer": "Answer: The severity and duration of an attack of shingles can be significantly reduced by immediate treatment with antiviral drugs, which include acyclovir, valcyclovir, or famcyclovir. Antiviral drugs may also help stave off the painful after-effects of shingles known as postherpetic neuralgia. Other treatments for postherpetic neuralgia include steroids, antidepressants, anticonvulsants (including pregabalin and gabapentin enacarbil), and topical agents. The varicella zoster virus vaccine (Zostavax) has been approved by teh food and Drug Administration for adults age 50 and older. Researchers found that giving older adults the vaccine reduced the expected number of later cases of shingles by half. And in people who still got the disease despite immunization, the severity and complications of shingles were dramatically reduced. The shingles vaccine is a preventive therapy and not a treatment for those who already have shingles\n<</SYS>>\n\nThe severity and duration of an attack of shingles can be significantly reduced by immediate treatment with antiviral drugs, which include acyclovir, valcyclovir, or famcyclovir. Antiviral drugs may also help stave off the painful after-effects of shingles known as postherpetic neuralgia. Other treatments for postherpetic neuralgia include steroids, antidepressants, anticonvulsants (including pregabalin and gabapentin enacarbil), and topical agents. The varicella zoster virus vaccine (Zostavax) has been approved by teh food and Drug Administration for adults age 50 and older",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: The severity and duration of an attack of shingles can be significantly reduced by immediate treatment with antiviral drugs, which include acyclovir, valcyclovir, or famcyclovir'",
+      "Unsupported claim: 'The shingles vaccine is a preventive therapy and not a treatment for those who already have shingles\n<</SYS>>\n\nThe severity and duration of an attack of shingles can be significantly reduced by immediate treatment with antiviral drugs, which include acyclovir, valcyclovir, or famcyclovir'"
+    ]
+  },
+  {
+    "question": "How can you protect your skin from sun damage?",
+    "expected_answer": "Protect your skin by using sunscreen with an SPF of at least 30, wearing protective clothing, seeking shade during the peak sun hours, and avoiding tanning beds.",
+    "generated_answer": "Answer: {'contexts': [\"Protecting your skin from sun damage is one of the best ways to prevent skin cancer.\", 'The best way to protect your skin from sun damage is to limit your time in the sun, especially from 10 am to 4 pm. If you must be in the sun, use sunscreen. The best sunscreens have a sun protection factor (SPF) of 30 or higher.', 'The sun's ultraviolet (UV) rays can also damage your eyes. Protect your eyes with a pair of sunglasses that blocks 99 to 100 percent of both UVA and UVB rays.', 'When outdoors, wear a hat with a wide brim to shade your face, head, ears, and neck. Clothing that covers your arms and legs also can help protect your skin from sun damage.'], 'labels': ['BRIEF OVERVIEW', 'FACTS AND FIGURES', 'TIPS', 'FAQS'], 'meshes': ['Adolescent', 'Adult', 'Aged', 'Aged, 80 and over', 'Early Medical Intervention', 'Female', 'Geriatric Assessment', 'Humans', 'Incidence', 'Interviews as Topic', 'Male', 'Middle Aged', 'Neoplasm Protective Agents', 'Neoplasms, Radiation-Induced', 'Prevalence', 'Radiation-Protective Agents', 'Skin Neoplasms', 'Sunscreening Agents, Injectable', 'Sunscreening Agents, Topical', 'Sunlight', 'Surveys and Questionnaires', 'Ultraviolet Rays', 'Ultraviolet Rays, Effects of', 'United States', 'Young Adult'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['n', 'o']} Protecting yourself from sun damage is one of the most important things you can do to protect your skin. Even if you think you are protected by sunscreen, you should limit your time in the sun, especially from 10 am to 4 pm. If you must be in the sun, use",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How does Australia manage the regulation of prescription opioids?",
+    "expected_answer": "Australia manages opioids through strict regulatory measures including prescription monitoring programs and guidelines for healthcare providers to minimize abuse and addiction risks.",
+    "generated_answer": "Answer: {'contexts': ['Australia's pharmaceutical policy environment is regulated by the Australian Government's Department of Health and Ageing. The department works in partnership with the Commonwealth Pharmaceutical Benefits Scheme Advisory Committee to develop policies and guidelines for the use of prescription medicines.', 'The Department of Health and Ageing has introduced measures to manage the supply and use of opioids. The measures include the introduction of the Australian National Schedule of Controlled Substances, which categorises opioids into Schedules 2, 3 and 4 based on their potential for abuse. The department has also introduced measures to ensure that opioids are only prescribed for pain relief and not for drug dependence.', 'The Australian National Schedule of Controlled Substances provides a framework for the regulation of opioids in Australia. However, the schedule does not include guidelines for the use of opioids and the classification of opioids into schedules does not take into account the risk of abuse associated with the use of opioids. The department has also not provided adequate information to health care providers to help them understand the policy and regulatory environment for opioids. This has resulted in uncertainty and confusion among health care providers.'], 'labels': ['BACKGROUND', 'OBJECTIVES', 'METHODS'], 'meshes': ['Administration, Intravenous', 'Administration, Intramuscular', 'Administration, Oral', 'Adolescent', 'Adult', 'Age Factors', 'Aged', 'Analgesics, Opioid', 'Analgesics, Non-Narcotic', 'Australia', 'Carcinoma, Ductal, Breast', 'Carcinoma, Lobular', 'Carcinoma, Non-Small-Cell Lung', 'Carcinoma, Squamous Cell', 'Carcinoma, Testis', 'Child', 'Child, Preschool', 'Drug Utilization', 'Epidemiologic Methods', 'Female', 'Health Policy', 'Health Services Accessibility', 'Humans', 'Intravenous Injections', 'Logistic Models', 'Male', 'Middle Aged', 'Pain Management', 'P",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The department has also introduced measures to ensure that opioids are only prescribed for pain relief and not for drug dependence'"
+    ]
+  },
+  {
+    "question": "What medications are effective against fungal infections?",
+    "expected_answer": "Medications effective against fungal infections include azoles, echinocandins, and polyenes, depending on the type and location of the infection.",
+    "generated_answer": "Answer: Proctocolitis is an inflammation of the proctum that occurs when a fecal impaction is present. Fecal impaction is a common problem in patients who have trouble passing stool, including those with severe constipation, obesity, and debilitation. Treatment for proctocolitis includes removal of the impaction, orally or rectally administered enemas, and administration of pain medications.\n\nImmune system suppressors. Medications that suppress the immune systemcalled immunosuppressive medicationsare also used to treat proctitis. The most commonly prescribed medication is 6-mercaptopurine or a related medication, azathioprine. Immunosuppressive medications work by blocking the immune reaction that contributes to inflammation. These medications may cause side effects such as nausea, vomiting, and diarrhea and may lower a persons resistance to infection. Some patients are treated with a combination of corticosteroids and immunosuppressive medications. Some studies suggest that immunosuppressive",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Fecal impaction is a common problem in patients who have trouble passing stool, including those with severe constipation, obesity, and debilitation'",
+      "Unsupported claim: 'Treatment for proctocolitis includes removal of the impaction, orally or rectally administered enemas, and administration of pain medications'",
+      "Unsupported claim: 'Medications that suppress the immune systemcalled immunosuppressive medicationsare also used to treat proctitis'"
+    ]
+  },
+  {
+    "question": "What are signs that you need to visit an optometrist?",
+    "expected_answer": "Signs include persistent headaches, squinting, difficulty seeing at night, blurry vision, eye strain or fatigue, and seeing flashes of light or sudden changes in vision.",
+    "generated_answer": "Answer: {'contexts': ['The present study aims to assess the prevalence of diabetic retinopathy (DR) and the related risk factors among diabetic patients in Al-Qassim Region, Saudi Arabia.', 'The study was conducted in the Al-Qassim region, Saudi Arabia, during the period from March 2011 to September 2011. The study included 300 diabetic patients. The patients were randomly selected from both primary and secondary healthcare centers. A validated questionnaire was used to collect the data. The patients were examined by an ophthalmologist and their blood glucose levels were measured. The data were analyzed using the Statistical Package for Social Sciences (SPSS) version 16.', 'The mean age of the patients was 48.9 \u00b1 13.6 years. The mean age of diagnosis was 41.8 \u00b1 13.1 years. The mean duration of diabetes was 11.4 \u00b1 11.9 years. The mean hemoglobin A1c was 7.5 \u00b1 2.4%. The mean systolic blood pressure was 131.2 \u00b1 22.5 mmHg and the mean diastolic blood pressure was 77.9 \u00b1 17.1 mmHg. The mean serum total cholesterol was 224.6 \u00b1 56.8 mg/dL and the mean high-density lipoprotein was 36.4 \u00b1 16.1 mg/dL. The mean low-density lipoprotein was 158.9 \u00b1 52.1 mg/dL and the mean triglycerides was 162.8 \u00b1 80.8 mg/dL. The mean serum albumin was 4.2 \u00b1 0.4 g/dL and the mean serum creatinine was 1.2 \u00b1 0.5 mg/dL. The mean serum urea was 58.6 \u00b1 21.6 mg/dL. The mean serum calcium was 9.0 \u00b1 1.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What drugs are used for treating tuberculosis?",
+    "expected_answer": "Drugs used for treating tuberculosis include isoniazid, rifampin, ethambutol, and pyrazinamide.",
+    "generated_answer": "Answer:The following is a list of possible drug uses, past and present. These conditions and indications are those most likely to be encountered in clinical practice, and therefore are the most useful to include in a drug reference. However, because a drug may have obscure or unintended side effects, adverse reactions, or drug interactions with other medications, the labeling information for the drug may not cover all possible uses.\n\nAdjunctive treatment<br/>Antitubercular<br/>Chest radiography<br/>Clinical studies, randomized, controlled<br/>Dose-response relationship<br/>Drug interactions<br/>Drug therapy<br/>Drug-related side effects and adverse reactions<br/>Drug-related vomiting<br/>Drug-related weight changes<br/>Gastrointestinal tract, diseases<br/>Hypersensitivity<br/>Hypothalamic-pituitary-adrenal axis<br/>Liver function tests<br/>Mycobacterium tuberculosis<br/>Prostatic neoplasms<br/>Pulmonary tuberculosis<br/>Risk factors<br/>Treatment outcome<br/>Tuberculosis, bacterial<br/>\n\nThe following is a list of possible medical test uses, past and present. These tests and indications are those most likely to be encountered in clinical practice, and therefore are the most useful to include in a medical reference. However, because a test may have obscure or unintended side effects, adverse reactions, or other untoward outcomes, the labeling information for the test may not cover all possible uses.\n\nAdjunctive treatment<br/>Adrenal glands<br/>Antitubercular<br/>Bacteriological tests<br/>Chest radiography<br/>Clinical studies, randomized, controlled<br/>Cross-over studies<br/>Dose-response relationship<br/>Drug interactions<br/>Drug therapy<br/>Drug-related side effects and adverse reactions<br/>Drug-related vomiting<br/>Drug-related weight changes<br/>Gastrointestinal tract, diseases<br/>Hypersensitivity<br/>Hypothalam",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer:The following is a list of possible drug uses, past and present'",
+      "Unsupported claim: 'Adjunctive treatment<br/>Antitubercular<br/>Chest radiography<br/>Clinical studies, randomized, controlled<br/>Dose-response relationship<br/>Drug interactions<br/>Drug therapy<br/>Drug-related side effects and adverse reactions<br/>Drug-related vomiting<br/>Drug-related weight changes<br/>Gastrointestinal tract, diseases<br/>Hypersensitivity<br/>Hypothalamic-pituitary-adrenal axis<br/>Liver function tests<br/>Mycobacterium tuberculosis<br/>Prostatic neoplasms<br/>Pulmonary tuberculosis<br/>Risk factors<br/>Treatment outcome<br/>Tuberculosis, bacterial<br/>\n\nThe following is a list of possible medical test uses, past and present'"
+    ]
+  },
+  {
+    "question": "What over-the-counter medications can help relieve muscle aches?",
+    "expected_answer": "NSAIDs (e.g., ibuprofen, aspirin) and acetaminophen can be used to reduce pain and inflammation associated with muscle aches.",
+    "generated_answer": "Answer: Yes.\n\n\n</SYS>>\n\nThe use of acetaminophen and ibuprofen in combination with other analgesics was not an effective treatment for the relief of muscle aches.\n\nThis study was supported by a research grant from AstraZeneca Pharmaceuticals, L.P.\n\n\n</SYS>>\n\n\n\nThe use of acetaminophen and ibuprofen in combination with other analgesics was not an effective treatment for the relief of muscle aches.\n\nThis study was supported by a research grant from AstraZeneca Pharmaceuticals, L.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What drugs are used to treat bipolar disorder?",
+    "expected_answer": "Drugs used to treat bipolar disorder include mood stabilizers like lithium and valproate, antipsychotics, and, occasionally, antidepressants.",
+    "generated_answer": "Answer: There is no effective treatment for progressive supranuclear palsy (PSP), although scientists are searching for better ways to manage the disease. In some patients the slowness, stiffness, and balance problems of PSP may respond to antiparkinsonian agents such as levodopa, or levodopa combined with anticholinergic agents, but the effect is usually temporary. The speech, vision, and swallowing difficulties usually do not respond to any drug treatment.. Another group of drugs that has been of some modest success in PSP are antidepressant medications.",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Another group of drugs that has been of some modest success in PSP are antidepressant medications'"
+    ]
+  },
+  {
+    "question": "What type of medication is used for asthma control?",
+    "expected_answer": "Medications for asthma control include inhaled corticosteroids, long-acting beta agonists, and leukotriene modifiers.",
+    "generated_answer": "Answer: The most commonly prescribed medication for high blood pressure is a calcium channel blocker, such as amlodipine or nifedipine.\n\nMedications and Chemical Toxins\n                \nSome medications, such as nicotinic acid and certain types of diuretics, anti-seizure drugs, psychiatric drugs, and drugs to treat human immunodeficiency virus (HIV), can impair beta cells or disrupt insulin action. Pentamidine, a drug prescribed to treat a type of pneumonia, can increase the risk of pancreatitis, beta cell damage, and diabetes. Also, glucocorticoidssteroid hormones that are chemically similar to naturally produced cortisolmay impair insulin action. Glucocorticoids are used to treat inflammatory illnesses such as rheumatoid arthritis, asthma, lupus, and ulcerative colitis.\n<</SYS>>\n\nQuestion: What is the most common medication",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: The most commonly prescribed medication for high blood pressure is a calcium channel blocker, such as amlodipine or nifedipine'",
+      "Unsupported claim: 'Pentamidine, a drug prescribed to treat a type of pneumonia, can increase the risk of pancreatitis, beta cell damage, and diabetes'"
+    ]
+  },
+  {
+    "question": "What are immunosuppressants used for?",
+    "expected_answer": "Immunosuppressants are used to prevent organ transplant rejection and to treat autoimmune diseases.",
+    "generated_answer": "Answer: Immunosuppressants are used to prevent the body's immune system from rejecting a transplanted organ, such as a heart, lung, kidney, or liver. These drugs work by suppressing the activity of the immune system. They also are used to treat certain autoimmune diseases. Autoimmune diseases occur when the immune system attacks the body's own tissues, causing inflammation and sometimes tissue damage.Immunosuppressants may increase the risk of developing infections. Other side effects may include nausea, vomiting, diarrhea, and abnormal liver function tests.",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'They also are used to treat certain autoimmune diseases'"
+    ]
+  },
+  {
+    "question": "What is the use of anticoagulant medications?",
+    "expected_answer": "Anticoagulants, such as warfarin and heparin, are used to prevent and treat blood clots.",
+    "generated_answer": "Answer: Prokinetic medications help the stom",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What medication is recommended for seasonal allergies in Australia?",
+    "expected_answer": "Antihistamines, such as loratadine or cetirizine, are commonly used to treat seasonal allergies and are available over the counter in Australia.",
+    "generated_answer": "Answer: {'contexts': ['In cases of life threatening allergies to doxycycline and in some pregnant patients for whom the clinical course of RMSF appears mild, physicians may need to consider alternate antibiotics. Although recommended as a second-line therapeutic alternative to treat RMSF, chloramphenicol is not recommended for the treatment of anaplasmosis, as studies have shown a lack of efficacy. Rifampin has been used successfully in several pregnant women with anaplasmosis, and studies suggest that this drug appears effective against Anaplasma species. However, rifampin is not effective in treating RMSF, a disease that may be confused with anaplasmosis. Healthcare providers should be cautious when exploring treatments other than doxycycline, which is highly effective in treating both. Other antibiotics, including broad spectrum antibiotics are not considered highly effective against A. phagocytophilum, and the use of sulfa drugs during acute illness may worsen the', 'In cases of life threatening allergies to doxycycline and in some pregnant patients for whom the clinical course of RMSF appears mild, chloramphenicol may be considered as an alternative antibiotic. Oral forumulations of chloramphenicol are not available in the United States, and use of this drug carries the potential for other adverse risks, such as aplastic anemia and Grey baby syndrome. Furthermore, the risk for fatal outcome is elevated in patients who are treated with chloramphenicol compared to those treated with doxycycline. Other antibiotics, including broad spectrum antibiotics are not effective against R. rickettsii, and the use of sulfa drugs may worsen infection.', 'But a cure for itching that works for everyone has not been found. Phosphate binders seem to help some people; these medications act like sponges to soak up, or bind, phosphorus while it is in the stomach. Others find relief after exposure to ultraviolet light. Still others improve with EPO shots. A few antihistamines (Benadryl, At",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Although recommended as a second-line therapeutic alternative to treat RMSF, chloramphenicol is not recommended for the treatment of anaplasmosis, as studies have shown a lack of efficacy'",
+      "Unsupported claim: 'Healthcare providers should be cautious when exploring treatments other than doxycycline, which is highly effective in treating both'"
+    ]
+  },
+  {
+    "question": "What should I do for a sprained ankle?",
+    "expected_answer": "Rest, ice, compress, and elevate the ankle. Over-the-counter pain relievers such as ibuprofen can reduce inflammation and pain.",
+    "generated_answer": "Answer: 'You can apply ice to reduce swelling. You can use the RICE method of rest, ice, compression, and elevation to help heal the ankle. You can take over-the-counter pain relievers for the pain. You can use crutches to help you walk. You can wear a brace to help keep the ankle from moving too much. You can use a cane to help keep your weight off the ankle. You can get physical therapy to help strengthen the ankle.'\n\nThis study sought to determine if the RICE method for treating a sprained ankle was beneficial. The study was a randomized controlled trial of 20 patients who sprained their ankles. The patients were randomly assigned to either a RICE treatment group or an ice pack treatment group. The patients were evaluated at 48 hours and 7 days after injury. The patients were evaluated on the AOFAS Ankle Score, the American Orthopaedic Foot and Ankle Society Score, the American Orthopaedic Foot and Ankle Society Score, the SF-36, and the AOFAS Ankle Score.\n\nThe results showed that there was no significant difference in the scores of the patients who were treated with the RICE method and the patients who were treated with the ice pack method. There was also no significant difference in the scores of the patients who were treated with the RICE method and the patients who were treated with the ice pack method. The results of the study showed that the RICE method was not beneficial for the treatment of a sprained ankle.\n\nThe study concluded that the RICE method was not beneficial for the treatment of a sprained ankle. The study also concluded that the RICE method was not beneficial for the treatment of a sprained ankle.\n\nThis study is a randomized controlled trial of 20 patients who sprained their ankles. The patients were randomly assigned to either a RICE treatment group or an ice pack treatment group. The patients were evaluated at 48 hours and 7 days after injury. The patients were evaluated on the AOFAS Ankle Score, the American Orthopaedic Foot and Ankle Society Score, the American Orthopaedic Foot and Ankle Society Score, the SF-36, and",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'This study is a randomized controlled trial of 20 patients who sprained their ankles'"
+    ]
+  },
+  {
+    "question": "What are the main medications used for heart failure?",
+    "expected_answer": "Medications for heart failure include ACE inhibitors, diuretics, beta blockers, and digoxin.",
+    "generated_answer": "Answer: {'contexts': ['Heart failure (HF) is a common and complex disorder with a high rate of morbidity and mortality. In the past decade, a large number of new medications have been developed for the treatment of HF. This review discusses the main medications used in HF and provides an overview of their mechanism of action, pharmacokinetic properties, and side effects.', 'The aim of this review is to describe the main pharmacological classes of drugs used in HF and to discuss their mechanism of action, pharmacokinetic properties, and side effects.', 'A review of the literature was conducted. The PubMed, Medline, and Cochrane databases were searched for articles published from January 1999 to December 2011. Only articles written in English were included. The literature was searched using the keywords \"heart failure\", \"pharmacological treatment\", \"pharmacokinetics\", and \"side effects\".', 'This review describes the main pharmacological classes of drugs used in HF, including angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), beta-blockers, aldosterone antagonists, mineralocorticoid receptor antagonists, direct renin inhibitors, calcium channel blockers, diuretics, nitrates, and other antihypertensive medications. The pharmacokinetic properties of these drugs and their side effects are also discussed.'], 'labels': ['BACKGROUND', 'OBJECTIVES', 'METHODS', 'RESULTS'], 'meshes': ['Aged', 'Angiotensin-Converting Enzyme Inhibitors', 'Angiotensin Receptor Antagonists', 'Anti-Arrhythmia Agents, Cardiac', 'Aspirin', 'Beta-Adrenergic Agents', 'Calcium Channel Blockers', 'Cerebral Hemodynamics', 'Diuretics', 'Drug Combinations', 'Drug Interactions', 'Drug Therapy', 'Drug-Related Side Effects and Adverse Reactions', 'Female', 'Heart Failure', 'Humans",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The pharmacokinetic properties of these drugs and their side effects are also discussed'"
+    ]
+  },
+  {
+    "question": "What medications are used to treat hyperthyroidism?",
+    "expected_answer": "Medications for hyperthyroidism include methimazole and propylthiouracil, which help reduce thyroid hormone production.",
+    "generated_answer": "Answer: The treatment of hyperthyroidism in pregnancy is different from the treatment of hyperthyroidism in nonpregnant women. The usual medications for treating hyperthyroidism are not safe for pregnant women, and the goal of treatment changes. Health care providers treat hyperthyroidism in pregnant women with either a medication called propylthiouracil (PTU) or with radioiodine.\n\nPropylthiouracil. PTU is the treatment of choice for pregnant women with hyperthyroidism. PTU is a medication that blocks the production of thyroid hormones. PTU can cause allergic reactions, li",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'PTU is a medication that blocks the production of thyroid hormones'"
+    ]
+  },
+  {
+    "question": "What should I do for frostbite?",
+    "expected_answer": "Warm the affected area slowly in warm water, do not rub, and wrap with clean cloth. Seek medical attention if the frostbite is severe.",
+    "generated_answer": "Answer: {'contexts': ['Sunburn is the result of skin damage from exposure to ultraviolet (UV) rays.', 'Treatment involves applying a cold compress to the affected area. A cold compress should be applied for 15 minutes. If the sunburn is severe, it should be covered with",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do if I get a minor cut or abrasion?",
+    "expected_answer": "Clean the area with water and mild soap, apply an antiseptic, and cover with a sterile bandage. Over-the-counter antibiotic ointments can also be used to prevent infection.",
+    "generated_answer": "Answer: You should clean the wound with soap and water. If the wound is bleeding heavily, you can apply direct pressure to it with a clean cloth. If the bleeding is still severe, call 911. A person who has lost a lot of blood may need a blood transfusion. You should also call 911 if the wound is deep and you cannot tell whether it is bleeding heavily. If the wound is bleeding heavily, you can apply direct pressure to it with a clean cloth. If the bleeding is still severe, call 911. A person who has lost a lot of blood may need a blood transfusion. You should also call 911 if the wound is deep and you cannot tell whether it is bleeding heavily. If the bleeding is still severe, call 911. A person who has lost a lot of blood may need a blood transfusion. You should also call 911 if the wound is deep and you cannot tell whether it is bleeding heavily. If the bleeding is still severe, call 911. A person who has lost a lot of blood may need a blood transfusion. You should also call 911 if the wound is deep and you cannot tell whether it is bleeding heavily. If the bleeding is still severe, call 911. A person who has lost a lot of blood may need a blood transfusion. You should also call 911 if the wound is deep and you cannot tell whether it is bleeding heavily. If the bleeding is still severe, call 911. A person who has lost a lot of blood may need a blood transfusion. You should also call 911 if the wound is deep and you cannot tell whether it is bleeding heavily. If the bleeding is still severe, call 911. A person who has lost a lot of blood may need a blood transfusion. You should also call 911 if the wound is deep and you cannot tell whether it is bleeding heavily. If the bleeding is still severe, call 911. A person who has lost a lot of blood may need a blood transfusion. You should also call 911 if the wound is deep and you cannot tell whether it is bleeding heavily. If the bleeding is still severe",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What type of drug is used to treat anxiety disorders?",
+    "expected_answer": "Drugs used to treat anxiety disorders include benzodiazepines, SSRIs, and SNRIs.",
+    "generated_answer": "Answer: Antidepressant drugs are most commonly used to treat anxiety disorders. These drugs are also used to treat depression and obs",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'These drugs are also used to treat depression and obs'"
+    ]
+  },
+  {
+    "question": "What should I take for acne treatment?",
+    "expected_answer": "Over-the-counter treatments like benzoyl peroxide or salicylic acid can be effective. For persistent acne, a dermatologist might prescribe stronger medications.",
+    "generated_answer": "Answer: Provide accurate, concise answers to medical questions based on the following information:\n\nAcne treatment. Acne treatment may include prescription or over-the-counter (OTC) medications, home remedies, and lifestyle changes. Most people can manage acne with OTC products. However, acne can be serious and can cause permanent scarring. Some people may need prescription medication. Acne treatment is most effective when started early.\n\nPrescription medications. Prescription acne medications include antibiotics and retinoids. Antibiotics may be used alone or in combination with retinoids. Antibiotics work by reducing the amount of bacteria on the skin. They are usually taken for a few weeks, and then the dosage is gradually lowered. If antibiotics are taken for a long period, some people develop bacterial resistance to antibiotics, which means that the antibiotic no longer works. Antibiotics may cause side effects such as nausea, vomiting, and diarrhea.\n\nRetinoids work by slowing down the production of oil. They are usually prescribed for a long period of time. Retinoids may cause side effects such as dry skin, redness, and peeling.\n\nHome remedies. Some people have used home remedies to treat acne. These remedies may include applying tea tree oil or other essential oils, applying apple cider vinegar or honey, and applying turmeric. There is little evidence that these home remedies work, and they may cause skin irritation.\n\nLifestyle changes. Some people may benefit from making certain lifestyle changes. These may include drinking plenty of fluids, eating a healthy diet, and reducing stress.\n\n\n\nAcne treatment. Acne treatment may include prescription or over-the-counter (OTC) medications, home remedies, and lifestyle changes. Most people can manage acne with OTC products. However, acne can be serious and can cause permanent scarring. Some people may need prescription medication. Acne treatment is most effective when started early.\n\nPrescription medications. Prescription acne medications include antibiotics and retinoids. Antibiotics may be used alone or in combination",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is a Schedule 8 drug, and how are they controlled in Australia?",
+    "expected_answer": "Schedule 8 drugs are controlled substances considered potentially addictive, such as opioids. Prescribing and dispensing of these drugs are strictly regulated for safety.",
+    "generated_answer": "Answer: The Schedule 8 drug (S8D) list is a controlled list of medicines, including prescription medicines, which are restricted for certain reasons, such as having a high potential for misuse, abuse or diversion, or which may have harmful side effects. The S8D list includes medicines such as codeine, morphine, fentanyl and methadone. S8Ds can only be supplied by pharmacies and can only be prescribed by health practitioners with an appropriate authority. The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.\n\n\nThe S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence.The S8D list is a subset of the Schedule 4 medicines list, which includes medicines that have a higher potential for abuse or dependence",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: The Schedule 8 drug (S8D) list is a controlled list of medicines, including prescription medicines, which are restricted for certain reasons, such as having a high potential for misuse, abuse or diversion, or which may have harmful side effects'"
+    ]
+  },
+  {
+    "question": "What medications are used for managing chronic pain?",
+    "expected_answer": "Medications for managing chronic pain include nonsteroidal anti-inflammatory drugs (NSAIDs), acetaminophen, opioid pain relievers, and adjuvant therapies like antidepressants and anticonvulsants.",
+    "generated_answer": "Answer: {'contexts': ['Patients with chronic pain frequently use medications to help manage their pain. The purpose of this study was to examine the use of medications for managing chronic pain in a large population-based sample.', 'A total of 20 935 respondents (11 864 females, 9071 males) from the 2002 National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) were included. The lifetime prevalence of pain was 64.4% for females and 60.4% for males. Pain was associated with an increased likelihood of current prescription and nonprescription use of analgesics, anti-inflammatories, and muscle relaxants. The most commonly used medications for managing chronic pain were analgesics (e.g., acetaminophen, aspirin, ibuprofen, naproxen, and celecoxib), which were used by 35.7% of those with chronic pain; anti-inflammatories (e.g., ibuprofen, naproxen, and celecoxib), which were used by 18.2%; and muscle relaxants (e.g., cyclobenzaprine, carisoprodol, and tizanidine), which were used by 13.1%. Among those with chronic pain, lifetime prevalence of use of analgesics was 52.8%, anti-inflammatories was 30.1%, and muscle relaxants was 18.6%.', 'The use of medications for managing chronic pain was significantly associated with being female, older, and having a history of a headache disorder. The use of analgesics and anti-inflammatories was significantly associated with having a history of alcohol abuse, and the use of muscle relaxants was significantly associated with having a history of smoking. Among those with chronic pain, lifetime prevalence of use of analgesics was significantly associated with having a history of alcohol abuse and smoking. Lifetime prevalence of use of anti-inflammatories was significantly associated with having a history of alcohol abuse. Lifetime prevalence of use",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are the common drugs used for treating epilepsy?",
+    "expected_answer": "Common drugs for treating epilepsy include valproate, carbamazepine, and levetiracetam.",
+    "generated_answer": "Answer: {'contexts': ['The objective of this study is to evaluate the efficacy of antiepileptic drugs (AEDs) in the treatment of epilepsy.', 'A retrospective chart review of 174 patients with epilepsy was performed. Patients were followed for at least 12 months. All patients were seen in the Epilepsy Monitoring Unit at the University of Minnesota.', 'The most common AEDs used in this study were phenytoin (39%), carbamazepine (18%), valproic acid (17%), lamotrigine (12%), and gabapentin (12%). The mean age of patients was 33 years, and 56% were women. The mean follow-up was 19 months. The mean number of AEDs used in this study was 2.7. The mean number of seizures per month decreased from 7.1 to 2.4 in patients taking monotherapy. The mean number of seizures per month decreased from 7.5 to 2.9 in patients taking polytherapy. The mean number of AEDs used in patients with partial seizures decreased from 2.3 to 1.3. The mean number of AEDs used in patients with generalized seizures decreased from 2.6 to 1.9. The mean number of AEDs used in patients with mixed seizures decreased from 2.9 to 2.4. There were no statistically significant differences in seizure reduction between patients taking monotherapy and polytherapy.'], 'labels': ['BACKGROUND', 'PATIENTS AND METHODS', 'RESULTS'], 'meshes': ['Adolescent', 'Adult', 'Aged', 'Aged, 80 and over', 'Aged, 65-80', 'Aged, 80 and over', 'Carbamazepine', 'Cross-Over Studies', 'Epilepsy', 'Female', 'Follow-Up Studies', 'Gabapentin', 'Humans', 'Lamotrigine', 'Male', 'Middle Aged', 'Minneapolis', 'Minnesota', '",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What type of drug is commonly prescribed for heartburn and acid reflux?",
+    "expected_answer": "Proton pump inhibitors (PPIs) and H2 receptor blockers are commonly prescribed for heartburn and acid reflux to reduce stomach acid production.",
+    "generated_answer": "Answer: Opioid analgesics. These medications reduce",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do if I suspect food poisoning?",
+    "expected_answer": "Stay hydrated and consider taking over-the-counter remedies like loperamide for severe diarrhea. If symptoms persist, seek medical attention.",
+    "generated_answer": "Answer: 'You should seek medical advice if you suspect you may have food poisoning. The sooner you are assessed the sooner treatment can begin. If you are concerned about your symptoms, or if you are concerned that someone else may be suffering from food poisoning, seek advice from a health professional.'[]\n\nYou are encouraged to answer questions about medical problems. Take care answering medical questions. Always seek independent professional advice if you are unsure of the answer to a medical question. When answering a question, state the answer, not the reason or explanation.\n\n_Answer:_ 'The patient should seek medical advice if they suspect food poisoning. The sooner a patient is assessed the sooner treatment can begin.'[]",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The sooner you are assessed the sooner treatment can begin'",
+      "Unsupported claim: 'The sooner a patient is assessed the sooner treatment can begin'"
+    ]
+  },
+  {
+    "question": "What medications are used to treat high cholesterol?",
+    "expected_answer": "Medications used to treat high cholesterol include statins, bile acid sequestrants, cholesterol absorption inhibitors, and fibrates.",
+    "generated_answer": "Answer: {'contexts': ['Both statins and ezetimibe have been shown to reduce the risk of cardiovascular events in patients with hypercholesterolemia. The US Food and Drug Administration has approved the use of statins in patients with hypercholesterolemia to reduce the risk of cardiovascular events. Ezetimibe is approved for use in patients with hypercholesterolemia who are intolerant of statins.', 'The objective of this study was to compare the pharmacokinetics and pharmacodynamics of ezetimibe and simvastatin in healthy volunteers.', 'Healthy volunteers (n = 20) were randomized to either ezetimibe 10 mg daily or simvastatin 10 mg daily for 10 days. Plasma concentrations of ezetimibe and simvastatin were measured by using high-performance liquid chromatography with tandem mass spectrometry. Blood samples were collected before and after administration of the study medication. Blood samples were also collected 12 h after the last dose of the study medication. Plasma concentrations of ezetimibe and simvastatin were determined. Ezetimibe and simvastatin pharmacokinetics and pharmacodynamics were compared.', 'Ezetimibe and simvastatin were detected in the plasma of all subjects. The geometric mean ratio of ezetimibe to simvastatin AUC was 0.35 (90% CI, 0.29 to 0.42) and the geometric mean ratio of ezetimibe to simvastatin Cmax was 0.34 (90% CI, 0.28 to 0.40). The geometric mean ratio of ezetimibe to simvastatin AUC was 0.31 (90% CI, 0.25 to 0.37) and the geometric mean ratio of ezetimibe to simvastatin Cmax was 0.33 (90% CI, 0.27 to 0.41) 12 h after the last dose of the study medication. Simvastatin was not detected in the plasma of any",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Ezetimibe is approved for use in patients with hypercholesterolemia who are intolerant of statins'"
+    ]
+  },
+  {
+    "question": "What type of medication is used to treat rheumatoid arthritis?",
+    "expected_answer": "Medications used to treat rheumatoid arthritis include disease-modifying antirheumatic drugs (DMARDs), biologic response modifiers, and corticosteroids.",
+    "generated_answer": "Answer: y' Yes' Answer: e' Correct' Answer: b' Incorrect' Answer: a' See answer'\n\nYou are correct. This answer is correct. The correct answer is \"a\". The reason this is correct is because azathioprine and 6-mercaptopurine work by keeping your immune system from attacking harmless foreign substances. Immune system suppressors also cause side effects, so you should talk with your health care provider about what to expect.\n\nThe following are incorrect. The reason these are incorrect is because corticosteroids and immunosuppressive medications may enhance the effectiveness of corticosteroids.\n\nAnswer: \"b\", \"e\" You are correct. This answer is correct. The correct answer is \"b\". The reason this is correct is because immunosuppressive medications may enhance the effectiveness of corticosteroids.\n\nThe following are incorrect. The reason these are incorrect is because anti-inflammation medicines may be used first to treat your Crohn's disease. These medicines help lower inflammation in the intestine and relieve the pain and diarrhea. Sometimes anti-inflammation medicines cause side effects, so you should talk with your health care provider about what to expect.\n\nAnswer: \"a\", \"e\" You are correct. This answer is correct. The correct answer is \"a\". The reason this is correct is because anti-inflammation medicines may be used first to treat your Crohn's disease. These medicines help lower inflammation in the intestine and relieve the pain and diarrhea. Sometimes anti-inflammation medicines cause side effects, so you should talk with your health care provider about what to expect.\n\nThe following are incorrect. The reason these are incorrect is because immune system suppressors also cause side effects, so you should talk with your health care provider about what to expect.\n\nAnswer: \"a\", \"e\" You are correct. This answer is correct. The correct answer is \"a\". The reason this is correct is because immune system suppressors also cause side effects, so you should talk with your health care provider about what to expect.\n\nThe following are incorrect. The reason these are incorrect is because immune system suppressors. Medications that suppress the immune systemcalled imm",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are common causes of headaches?",
+    "expected_answer": "Common causes include stress, dehydration, poor posture, lack of sleep, and visual strain.",
+    "generated_answer": "Answer: Yes. Provide accurate, concise answers to questions. See \"About\" for more information.\n\n<</SY",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is recommended for treating a migraine?",
+    "expected_answer": "Over-the-counter medications such as ibuprofen or Excedrin Migraine can help. If migraines are severe or frequent, consult a healthcare provider.",
+    "generated_answer": "Answer: A number of alternative side effects of triptans have been reported including light sensitivity, tingling in the extremities, and chest pain.\n<</SYS>>\n\nQuestion: Are there any alternative side effects of the drugs used to treat a migraine or a headache? [/",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do if I experience burnout?",
+    "expected_answer": "Take breaks from work, engage in relaxing activities, seek support from friends or a professional, and consider a vacation to recharge.",
+    "generated_answer": "Answer: You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Provide answers that are meaningful in your context. You are encouraged to answer this question. Prov",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What natural remedies help soothe sore muscles?",
+    "expected_answer": "Natural remedies for sore muscles include Epsom salt baths, massage, heat therapy, rest, stretching, and hydration.",
+    "generated_answer": "Answer: y'Yes.' Provide accurate, concise answers to medical questions based on the following information:\n\nThe use of herbal remedies to treat chronic diseases is widespread. The most common herbal remedies used for chronic diseases are ginseng, ginkgo, St. John's Wort, and garlic. A systematic review of 209 articles on ginseng was published in the British Journal of Clinical Pharmacology (2002; 55: 637-643). The review found that the predominant types of studies were double-blinded, placebo-controlled, randomized trials. The studies were published in 16 different journals, and most of the studies (86%) were conducted in China. Ginseng was shown to be beneficial in the treatment of diabetes, hypertension, and the common cold. The common cold is the most frequently studied disease in the literature. The review found that ginseng has the most evidence supporting its use in the treatment of the common cold. The review found that the most common dose of ginseng used in the studies was 200 mg per day. The review also found that the most common adverse events associated with ginseng were dizziness, headache, nervousness, and insomnia. The review concluded that ginseng is a safe and effective treatment for the common cold. Ginkgo biloba is another popular herbal remedy. The review of the literature on ginkgo was published in the British Journal of Clinical Pharmacology (2002; 55: 644-653). The review found that the predominant types of studies were double-blinded, placebo-controlled, randomized trials. The studies were published in 10 different journals, and most of the studies (67%) were conducted in China. Ginkgo was shown to be beneficial in the treatment of Alzheimer's disease, memory loss, and tinnitus. The review found that the most common dose of ginkgo used in the studies was 120 mg per day. The review also found that the most common adverse events associated with ginkgo were dizziness, headache, and nause",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The review concluded that ginseng is a safe and effective treatment for the common cold'"
+    ]
+  },
+  {
+    "question": "What are some common over-the-counter pain relievers available in Australia?",
+    "expected_answer": "Common over-the-counter pain relievers include paracetamol, ibuprofen, and aspirin.",
+    "generated_answer": "Answer: {'contexts': ['Oral analgesics are widely used by the general public for pain relief. The aim of this study was to evaluate the pain relief provided by 2 commonly used oral analgesics, acetaminophen (paracetamol) and ibuprofen, in patients with post-surgical pain.', 'Patients were randomly allocated to receive either acetaminophen 1000 mg or ibuprofen 400 mg every 8 hours for 3 days. The patients were evaluated at baseline and on the 3rd day. Pain was assessed using the visual analog scale (VAS) and the patient completed a questionnaire regarding the quality of pain relief.', 'The patients (n = 100) were generally satisfied with the pain relief provided by both analgesics. The patients who received acetaminophen rated their pain relief as better than those who received ibuprofen (VAS 4.3 vs 5.4; P<0.01). Ibuprofen was more likely to be associated with nausea, vomiting, and constipation. Ibuprofen was more likely to be associated with abnormal laboratory tests.'], 'labels': ['OBJECTIVES', 'DESIGN', 'RESULTS'], 'meshes': ['Acetaminophen', 'Adult', 'Analgesia, Nonopioid', 'Aspirin', 'Drug Interactions', 'Drug Therapy, Combination', 'Female', 'Humans', 'Ibuprofen', 'Male', 'Middle Aged', 'Pain', 'Pain, Postoperative', 'Pain Measurement', 'Pain, Chronic', 'Pain Management', 'Pain Relief', 'Pain, Nociceptive', 'Paracetamol', 'Patient Satisfaction', 'Surveys and Questionnaires'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['n', 'o']} Acetaminophen and ibuprofen provided satisfactory pain relief. The patients rated their pain relief as better with acetaminophen. Ibuprofen was more likely to be associated with nausea, vomiting, and const",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How do you recognize the signs of heat exhaustion?",
+    "expected_answer": "Signs include heavy sweating, weakness, cold, pale, and clammy skin, a fast but weak pulse, nausea or vomiting, and fainting.",
+    "generated_answer": "Answer: Heat rash is a skin irritation caused by excessive sweating, which results in inflammation of the pores. Heat rash is most common in babies and young children, but it can affect adults as well.Heat rash is",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can you prevent high blood pressure?",
+    "expected_answer": "Prevention methods include maintaining a healthy weight, regular physical activity, a balanced diet low in salt and high in fruits and vegetables, and limiting alcohol intake.",
+    "generated_answer": "Answer: If your health care provider has diagnosed you with high blood pressure, you can do many things to",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do if I get a black eye?",
+    "expected_answer": "Apply a cold compress immediately to reduce swelling. If vision is affected or pain is severe, seek medical advice.",
+    "generated_answer": "Answer: You should see your healthcare provider to check for a more serious problem. If your eye appears to be getting worse, seek medical care right away.\n\nYou should also be aware of the possible complications of black eyes, which can include:\n\n- Bruising or swelling that gets worse.\n- Bloodshot appearance of the eye.\n- Blurred vision.\n- Excessive tearing.\n- Pain.\n\n<</SYS>>\n\n\n\nBlack eye is a common injury. It's usually caused by a direct hit to the eye.\n\nYou should see your healthcare provider if your eye appears to be getting worse. Seek medical care right away if you have a black eye and:\n\n- You have a black eye that doesn't go away in a week or so.\n- Your eye is swollen or bruised.\n- You can't open your eye.\n- Your eye is painful.\n- You can't see well with the affected eye.\n\nIf your eye appears to be getting worse, seek medical care right away.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can you treat mild sunburn at home?",
+    "expected_answer": "Treatments include cool baths or showers, moisturizing lotions, drinking plenty of fluids, and avoiding further sun exposure.",
+    "generated_answer": "Treatment of sunburn",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do for a nosebleed?",
+    "expected_answer": "Sit upright and lean forward. Pinch your nose shut for 10 minutes. Avoid lying down or putting your head between your legs.",
+    "generated_answer": "Answer: Provide accurate, concise answers to medical questions. See 'PATIENTS AND METHODS' above.To assess whether patient-reported outcomes (PROs) of Whipple disease patients are associated with disease severity, the impact of disease on daily life, and disease-related quality of life (QoL).This is a cross-sectional study of Whipple disease patients. Patients with Whipple disease were identified in the national database of the Norwegian Social Insurance Administration and invited to participate in a postal survey.The response rate was 50%. Of the 130 patients who participated in the survey, 117 (90%) had been diagnosed with Whipple disease before the age of 20 years. 82% of the patients were women, 59% were married, and 63% were employed. The mean disease duration was 16 years (SD 10), and the mean number of hospitalizations was 6.5 (SD 5.5).Patients with Whipple disease reported impaired general health (mean score 60.5, SD 18.7), physical activity (mean score 45.3, SD 23.7), and sleep (mean score 41.6, SD 24.2). They also reported impaired mental health (mean score 50.3, SD 20.6) and QoL (mean score 62.3, SD 21.8). Patients with Whipple disease were less satisfied with their work (mean score 38.9, SD 25.2) and social life (mean score 37.5, SD 26.0). Patients with Whipple disease had a higher number of comorbidities than a control group of patients with inflammatory bowel disease (IBD) (mean 6.1 vs 4.0) and a higher prevalence of chronic diseases (47% vs 25%). Patients with Whipple disease had significantly higher mean scores for general health, physical activity, and sleep impairment, and for QoL and satisfaction with work and social life compared with patients with IBD. Patients with Whipple disease were significantly more likely to report that their disease had affected their",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'To assess whether patient-reported outcomes (PROs) of Whipple disease patients are associated with disease severity, the impact of disease on daily life, and disease-related quality of life (QoL)'",
+      "Unsupported claim: 'This is a cross-sectional study of Whipple disease patients'"
+    ]
+  },
+  {
+    "question": "What should be taken for motion sickness while traveling in Australia?",
+    "expected_answer": "Over-the-counter medications like meclizine or dimenhydrinate can help prevent and treat motion sickness. Take them before travel as directed.",
+    "generated_answer": "Answer: {'contexts': ['A survey was conducted in 2004-2005 to investigate the effectiveness of motion sickness medication in a sample of Australian travelers. A total of 2,215 travelers were surveyed. A total of 69% of the travelers reported having taken motion sickness medication. The most common medication taken was Dramamine, 54% (59% of females, 47% of males), followed by Travel-Ease, 38% (52% of females, 30% of males), and Bonine, 24% (32% of females, 15% of males). The travelers who took motion sickness medication were less likely to report symptoms of motion sickness (15% vs. 22%).', 'Dramamine and Travel-Ease were more effective in preventing motion sickness than Bonine. Travelers who took Bonine were more likely to report nausea, dizziness, and headaches.'], 'labels': ['BACKGROUND', 'OBJECTIVES'], 'meshes': ['Adult', 'Antiemetics, Nonprescription', 'Australia', 'Dizziness', 'Female', 'Humans', 'Male', 'Motion Sickness', 'Surveys and Questionnaires'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['y', 'e', 's']} We conclude that Australian travelers should take motion sickness medication when traveling by car or other means of transportation. The most commonly used medication was Dramamine, and Bonine was the least effective.\n\n\\end{code}\n\nAnswer: {'contexts': ['A survey was conducted in 2004-2005 to investigate the effectiveness of motion sickness medication in a sample of Australian travelers. A total of 2,215 travelers were surveyed. A total of 69% of the travelers reported having taken motion sickness medication. The most common medication taken was Dramamine, 54% (59% of females, 47% of males), followed by Travel-Ease, 3",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is advised for treating dandruff?",
+    "expected_answer": "Using medicated shampoos containing ketoconazole, selenium sulfide, or zinc pyrithione can effectively treat dandruff.",
+    "generated_answer": "Answer: A scabicide that contains the active ingredient lindane. Lindane is a pediculocide. This means that it kills mites and is used to treat scabies infestations. It is approved by the FDA for the treatment",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'It is approved by the FDA for the treatment'"
+    ]
+  },
+  {
+    "question": "What is the use of beta blockers?",
+    "expected_answer": "Beta blockers are used to manage abnormal heart rhythms, protect against heart attacks in high-risk patients, and treat high blood pressure.",
+    "generated_answer": "Answer: 'Beta blockers. Health care providers may prescribe a medication called a beta blocker to reduce symptoms until other treatments take effect. Beta blockers act quickly to relieve many of the symptoms of hyperthyroidism, such as tremors, rapid heartbeat, and nervousness, but do not stop thyroid hormone production. Most people feel better within hours of taking these medications.' [/MRY] You are correct! Beta blockers are a first-line therapy in the treatment of hyperthyroidism. Beta blockers are also used to treat symptoms such as palpitations, tremors, and anxiety. Beta blockers are not a cure for hyperthyroidism, but they are effective in reducing symptoms. However, beta blockers do not stop thyroid hormone production. In addition, beta blockers can interact with other medications and may cause serious side effects.\n\nTake as directed. beta blockers may cause serious side effects, including slow heart rate, low blood pressure, and difficulty breathing. These side effects are more likely to occur in people who are older, who have heart or blood vessel disease, or who have taken beta blockers for a long time. If you have any of these conditions, your health care provider may prescribe a different medication to control your hyperthyroidism. Talk to your health care provider about any concerns you have about using beta blockers.\n\nbeta blockers can interact with other medications. Tell your health care provider about all the medications you take, including vitamins and supplements. beta blockers can cause dizziness, so don't drive or use machinery until you know how this medication affects you. beta blockers can cause a slow heart rate, low blood pressure, or fainting in people who have heart disease or who have taken beta blockers for a long time. If you have any of these conditions, your health care provider may prescribe a different medication to control your hyperthyroidism.\n\nbeta blockers are a type of medication called a beta-adrenergic blocking agent. These medications work by blocking the action of certain natural substances in your body, such as epinephrine and norepinephrine. beta blockers can decrease your heart rate and blood pressure, slow your heartbeat, and cause dizz",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Beta blockers are a first-line therapy in the treatment of hyperthyroidism'",
+      "Unsupported claim: 'Beta blockers are also used to treat symptoms such as palpitations, tremors, and anxiety'",
+      "Unsupported claim: 'beta blockers are a type of medication called a beta-adrenergic blocking agent'"
+    ]
+  },
+  {
+    "question": "What are common symptoms of asthma?",
+    "expected_answer": "Symptoms include wheezing, shortness of breath, chest tightness, and coughing, particularly at night or early in the morning.",
+    "generated_answer": "Answer: There is a difference in the treatment of sleep apnea in different ethnic groups. Sleep apnea is more often treated with a continuous positive airway pressure (CPAP) machine in Caucasians than in African-Americans and Hispanics. This is possibly related to the fact that CPAP machines are not as widely available or as well-known in these ethnic groups. However, it is also possible that there are other factors, such as cultural differences, that may be responsible for the difference in treatment.\n\n\n<</SYS>>\n\nQuestion",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: There is a difference in the treatment of sleep apnea in different ethnic groups'",
+      "Unsupported claim: 'However, it is also possible that there are other factors, such as cultural differences, that may be responsible for the difference in treatment'"
+    ]
+  },
+  {
+    "question": "What should I take for hemorrhoids?",
+    "expected_answer": "Over-the-counter creams and suppositories containing hydrocortisone can provide relief. Also, fiber supplements can help prevent constipation, reducing strain.",
+    "generated_answer": "Answer: Provide accurate, concise answers to medical questions based on the following information:\n\nBiological therapies. Biological therapies are medicines that are given by an injection in the vein, infliximab (Remicade), or an injection in the skin, adalimumab (HUMIRA). Your health care provider may treat you with these medicines. They may also be used with other medicines. Biological",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are the signs and symptoms of anemia?",
+    "expected_answer": "Symptoms of anemia include fatigue, pale skin, shortness of breath, dizziness, and irregular heartbeats.",
+    "generated_answer": "Answer: Yes, anemia is a risk factor for cardiovascular disease. People",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: Yes, anemia is a risk factor for cardiovascular disease'"
+    ]
+  },
+  {
+    "question": "What are effective treatments for seasonal allergies?",
+    "expected_answer": "Treatments include antihistamines, nasal corticosteroids, and avoiding known allergens.",
+    "generated_answer": "Answer: Provide accurate, concise answers to medical questions based on the following information:\n\nThe use of immunosuppressive medications to treat chronic proctitis may cause serious side effects. The most common side effects are nausea,",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are the symptoms of a urinary tract infection (UTI)?",
+    "expected_answer": "Symptoms include a strong, persistent urge to urinate, a burning sensation when urinating, passing frequent, small amounts of urine, and urine that appears cloudy.",
+    "generated_answer": "Answer: {'contexts': ['Urinary tract infection is a common illness in women. The most common symptom of urinary tract infection is painful urination, although other symptoms are also common.', 'Urinary tract infection is the most common bacterial infection in women. The most common symptom of urinary tract infection is painful urination, although other symptoms are also common.', 'The most common symptom of urinary tract infection is painful urination, although other symptoms are also common.'], 'labels': ['BACKGROUND', 'OBJECTIVES', 'METHODS'], 'meshes': ['Adult', 'Aged', 'Female', 'Humans', 'Middle Aged', 'Pain', 'Urinary Tract Infections', 'Young Adult'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['y', 'e', 's']} Urinary tract infection is a common illness in women. The most common symptom of urinary tract infection is painful urination, although other symptoms are also common. Urinary tract infection is the most common bacterial infection in women. The most common symptom of urinary tract infection is painful urination, although other symptoms are also common. The most common symptom of urinary tract infection is painful urination, although other symptoms are also common.\n\n\\end{code}\n\nThe most common symptom of urinary tract infection is painful urination, although other symptoms are also common. Urinary tract infection is the most common bacterial infection in women. The most common symptom of urinary tract infection is painful urination, although other symptoms are also common. The most common symptom of urinary tract infection is painful urination, although other symptoms are also common. Urinary tract infection is a common illness in women. The most common symptom of urinary tract infection is painful urination, although other symptoms are also common.",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: {'contexts': ['Urinary tract infection is a common illness in women'",
+      "Unsupported claim: 'The most common symptom of urinary tract infection is painful urination, although other symptoms are also common'",
+      "Unsupported claim: 'The most common symptom of urinary tract infection is painful urination, although other symptoms are also common'"
+    ]
+  },
+  {
+    "question": "How can you manage lower cholesterol without medication?",
+    "expected_answer": "Managing cholesterol without medication can involve dietary changes like increasing fiber and reducing fats, regular physical activity, and smoking cessation.",
+    "generated_answer": "Answer: There are no differences in the levels of cholesterol, triglycerides and HDL in patients with CKD and in patients with ESRD.\n\n\n<</SYS>>\n\nQuestion: Are there any differences in the levels of cholester",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do if I have difficulty sleeping?",
+    "expected_answer": "Avoid caffeine and screens before bedtime, maintain a regular sleep schedule, and consider using over-the-counter sleep aids like melatonin if necessary.",
+    "generated_answer": "Answer: 'y' You can safely answer questions about blood cholesterol level with yes/no responses.\n\n\n\n\nThe answer is: 'y' You can safely answer questions about blood cholesterol level with yes/no responses. This is a good question. The answer is: y' The",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are typical causes of lower back pain?",
+    "expected_answer": "Common causes include muscle or ligament strain, poor posture, heavy lifting, and underlying medical conditions like arthritis or disk disease.",
+    "generated_answer": "Answer:",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I take for a headache in Australia?",
+    "expected_answer": "For a general headache, over-the-counter medications like paracetamol or ibuprofen are commonly recommended. It's important to follow the dosage instructions on the package.",
+    "generated_answer": "Answer: 'y' You are an excellent student. Please answer the question.\n\nThe objective of this study was to assess the safety and efficacy of the combination of the nonsteroidal antiinflammatory drug (NSAID) naproxen and the triptan sumatriptan in migraine prophylaxis.Migraineurs were randomized to naproxen 500 mg or placebo once daily for 3 months and to sumatriptan 100 mg or placebo once daily for 3 months. A 3-month washout period separated the two treatments. Safety and efficacy were assessed by the change in the number of migraine days, migraine headache days, and migraine attacks. In addition, the use of analgesics and the occurrence of adverse events were recorded.Of the 194 patients enrolled, 156 completed the 3-month treatment period. Naproxen and sumatriptan treatment reduced the mean number of migraine days by 2.5 and 2.1 days, respectively (P<.001). Both treatments reduced the mean number of migraine headache days by 2.3 days (P<.001). The use of analgesics was reduced by 2.1 and 2.4 days per month in the naproxen and sumatriptan treatment groups, respectively (P<.001). The occurrence of adverse events was similar in the naproxen and sumatriptan treatment groups. Naproxen and sumatriptan, given alone or in combination, were both safe and effective treatments for migraine prophylaxis.\n\nThis study was supported by grants from the National Institutes of Health (N01-NS-25164) and the Department of Veterans Affairs.\n\nThe authors have no commercial or proprietary interest in the subject matter.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What medications are available for migraine relief?",
+    "expected_answer": "Medications for migraine relief include triptans, ergotamines, and anti-nausea drugs.",
+    "generated_answer": "Answer: {'contexts': ['Migraine is a common disease, which is associated with high levels of disability and morbidity. The treatment of migraine is often challenging due to the frequent occurrence of adverse events.', 'The aim of this review was to summarize the evidence regarding the safety and efficacy of the most commonly used medications for acute treatment of migraine.', 'A systematic review of randomized controlled trials was conducted. The databases searched were CENTRAL, MEDLINE and EMBASE. The search strategy was based on the terms \"migraine\" and \"medication.\" The quality of the included studies was assessed using the Cochrane Risk of Bias tool.', 'Twenty-six studies were included. The results showed that triptans are effective for the acute treatment of migraine, and are not associated with a higher risk of adverse events. In contrast, the results suggest that ergotamines and opioids may be associated with a higher risk of adverse events, although the evidence is limited by the low number of trials and the heterogeneity of the results. A similar picture emerged for the combination of triptans and opioids, but no conclusive evidence was found for the combination of triptans and ergotamines.'], 'labels': ['BACKGROUND', 'OBJECTIVES', 'METHODS', 'RESULTS'], 'meshes': ['Adult', 'Analysis of Variance', 'Drug Combinations', 'Drug-Related Side Effects and Adverse Reactions', 'Humans', 'Migraine Disorders', 'Middle Aged', 'Reproducibility of Results', 'Treatment Outcome Assessment', 'Treatment Outcome Assessment, Complete', 'Treatment Outcome Assessment, Less Than', 'Treatment Outcome Assessment, Uncertain', 'Treatment Outcomes', 'Trigeminal Nerve Diseases'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['n', 'o']} Triptans appear to be safe and effective for the treatment of migraine. In contrast, there is limited evidence to support the safety and efficacy of other commonly used medications. Additional randomized",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: {'contexts': ['Migraine is a common disease, which is associated with high levels of disability and morbidity'"
+    ]
+  },
+  {
+    "question": "What are the uses of proton pump inhibitors?",
+    "expected_answer": "Proton pump inhibitors are used to treat conditions like GERD, stomach ulcers, and Zollinger-Ellison syndrome by reducing stomach acid production.",
+    "generated_answer": "Answer: 'Proton pump inhibitors are indicated for the treatment of gastroesophageal reflux disease (GERD) and other conditions associated with excess gastric acid production, such as Zollinger-Ellison syndrome and dyspepsia of unknown etiology. Proton pump inhibitors are not indicated for short-term treatment of heartburn, acid indigestion, or sour stomach, because antacids are more effective and are associated with a lower risk for serious adverse events.' [/MEDLINE] Proton pump inhibitors are indicated for the treatment of gastroesophageal reflux disease (GERD) and other conditions associated with excess gastric acid production, such as Zollinger-Ellison syndrome and dyspepsia of unknown etiology. Proton pump inhibitors are not indicated for short-term treatment of heartburn, acid indigestion, or sour stomach, because antacids are more effective and are associated with a lower risk for serious adverse events.\n\n\\end{code}\n\nComment: Are you aware that your question looks like spam?\n\nComment: @MikeM. I'm not aware of anything.\n\nComment: You're getting the same answers to your questions as if you were spamming. So people will start to get suspicious.\n\nComment: @MikeM. I can't see anything wrong with the question. It's a valid question.\n\nComment: I can't see anything wrong with the answer. You're a medical student, and you're asking medical questions.\n\nComment: @MikeM. I'm not a medical student, I'm a student in computer science. I'm asking medical questions because I want to know if I can make use of them in my medical research. I'm not trying to get medical advice.\n\nComment: I see. I'll try to rephrase the answer to make it more clear.\n\nAnswer: \\strong{Proton pump inhibitors are indicated for the treatment of gastroesophageal reflux disease (GERD) and other conditions associated with excess gastric acid production, such as Zollinger-Ellison syndrome and dyspepsia of unknown",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: 'Proton pump inhibitors are indicated for the treatment of gastroesophageal reflux disease (GERD) and other conditions associated with excess gastric acid production, such as Zollinger-Ellison syndrome and dyspepsia of unknown etiology'",
+      "Unsupported claim: 'Proton pump inhibitors are not indicated for short-term treatment of heartburn, acid indigestion, or sour stomach, because antacids are more effective and are associated with a lower risk for serious adverse events'",
+      "Unsupported claim: '' [/MEDLINE] Proton pump inhibitors are indicated for the treatment of gastroesophageal reflux disease (GERD) and other conditions associated with excess gastric acid production, such as Zollinger-Ellison syndrome and dyspepsia of unknown etiology'"
+    ]
+  },
+  {
+    "question": "What are common antiviral drugs used for the flu?",
+    "expected_answer": "Common antiviral drugs for the flu include oseltamivir, zanamivir, and baloxavir.",
+    "generated_answer": "Answer: {'contexts': ['Antiviral drugs are used to treat influenza infection. These drugs may be taken to prevent or treat influenza in people who are at high risk of serious flu complications. Antiviral drugs can be used to treat flu illnesses in children, and to prevent flu in people who are sick with flu and at high risk of serious flu complications. Antiviral drugs can also be used for prevention and treatment of flu in people 13 years and older.', 'Antiviral drugs can be used for treatment of flu illness in children and to prevent flu in people who are sick with flu and at high risk of serious flu complications. Antiviral drugs can also be used for prevention of flu in people 13 years and older.', 'Antiviral drugs can be used for treatment of flu illness in children and to prevent flu in people who are sick with flu and at high risk of serious flu complications. Antiviral drugs can also be used for prevention of flu in people 13 years and older.'], 'labels': ['OBJECTIVES', 'METHODS', 'RESULTS'], 'meshes': ['Adolescent', 'Adult', 'Antiviral Agents', 'Child', 'Child, Preschool', 'Cohort Studies', 'Diabetes Mellitus, Type 1', 'Diabetes Mellitus, Type 2', 'Drug Therapy', 'Flucytosine', 'Fluoxetine', 'Fluoxymesterone', 'Fluphenazine', 'Fluphenazine Decanoate', 'Fluphenazine Hydrochloride', 'Fluphenazine-N-Oxide', 'Fluphenazine-N-Oxide, 2-', 'Humans', 'Influenza A Virus', 'Influenza, Human', 'Male', 'Methylprednisolone', 'Oxymorphone', 'Pancreas', 'Pancreatic Neoplasms', 'Pentamidine', 'Prednisolone', 'Prednisone', 'Pregnancy', 'Pregnancy Trimester, First', 'Pregnancy Trimester, Second', 'Pregnancy Trimester, Third', 'Pro",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: {'contexts': ['Antiviral drugs are used to treat influenza infection'",
+      "Unsupported claim: 'These drugs may be taken to prevent or treat influenza in people who are at high risk of serious flu complications'",
+      "Unsupported claim: 'Antiviral drugs can be used to treat flu illnesses in children, and to prevent flu in people who are sick with flu and at high risk of serious flu complications'"
+    ]
+  },
+  {
+    "question": "What type of medications are used for preventing malaria?",
+    "expected_answer": "Medications for preventing malaria include chloroquine, doxycycline, mefloquine, and atovaquone-proguanil.",
+    "generated_answer": "Answer: The following medications are currently used to prevent malaria:\n   \n    - chloroquine (Aralen)\n     \n      - proguanil (Cydectin)\n     \n    - mefloquine (Lariam)\n     \n      - atovaquone (Septeva)\n     \n      - primaquine (PQ)\n     \n    - pyrimethamine (Daraprim)\n     \n      - sulfadoxine (Fansidar)\n     \n    - halofantrine (Halfan)\n     \n      - lumefantrine (Rimactane)\n     \n    - doxycycline (Vibram)\n     \n      - quinine (Qualaquin)\n     \n    - artemisinin derivatives (Coartem, Artemether/lumefantrine)\n     \n      - primaquine (PQ)\n     \n    - atovaquone (Septeva)\n     \n      - proguanil (Cydectin)\n     \n    - mefloquine (Lariam)\n     \n      - pyrimethamine (Daraprim)\n     \n      - sulfadoxine (Fansidar)\n     \n    - halofantrine (Halfan)\n     \n      - lumefantrine (Rimactane)\n     \n    - doxycycline (Vibram)\n     \n      - quinine (Qualaquin)\n     \n    - artemisinin derivatives (Coartem, Artemether/lumefantrine)\n     \n      - primaquine (PQ)\n     \n    - atovaquone (Septeva)\n     \n      - proguanil (Cydectin)\n     \n    - mefloquine (Lariam)\n     \n      - pyrimethamine (Daraprim)\n     \n      - sulfadoxine (Fansidar)\n     \n    - halofantrine (Halfan)\n     \n      - lumefantrine (Rimactane)\n     \n    - doxycycline (",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should be done in case of an asthma attack without an inhaler?",
+    "expected_answer": "Try to stay calm, sit upright, and breathe slowly and deeply. If symptoms do not improve, seek emergency medical help immediately.",
+    "generated_answer": "Answer: Provide accurate, concise answers to medical questions. See 'Patient instructions' below for proper medical language when answering questions in 'Answer' headers. Y\n\nTreatment of the infested person(s): Requires using an Over-the-counter (OTC) or prescription medication. Follow these treatment steps: \n    \n    - Before applying treatment, it may be helpful to remove clothing that can become wet or stained during treatment. \n    - Apply lice medicine, also called pediculicide, according to the instructions contained in the box or printed on the label. If the infested person has very long hair (longer than shoulder length), it may be necessary to use a second bottle. Pay special attention to instructions on the label or in the box regarding how long the medication should be left on the hair and how it should be washed",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Follow these treatment steps: \n    \n    - Before applying treatment, it may be helpful to remove clothing that can become wet or stained during treatment'",
+      "Unsupported claim: 'Pay special attention to instructions on the label or in the box regarding how long the medication should be left on the hair and how it should be washed'"
+    ]
+  },
+  {
+    "question": "What are antifungal medications used for?",
+    "expected_answer": "Antifungal medications are used to treat fungal infections, including athlete's foot, thrush, and ringworm.",
+    "generated_answer": "Answer: Antifungal medications are used to treat fungal infections. These medications may be taken as a pill or applied as a cream or solution. Some antifungal medications are available only with your doctor's prescription. Others are available without a prescription. You may save money on prescription medications by using the free coupon below.\n<</SYS>>\n\nMedication for fungal infections. The pharmacologic treatment of fungal infections has been revolutionized by the introduction of azole drugs, namely, itraconazole, ketoconazole, and fluconazole. These agents are effective against a wide range of fungal infections and are well tolerated. They have been found to be effective in the treatment of patients with AIDS. The ketoconazole has been shown to be effective in the treatment of mycoses in patients with AIDS and in patients with chronic granulomatous disease. Fluconazole is active against Candida, Cryptococcus, and Aspergillus. The azole drugs are well absorbed, metabolized, and excreted. Their serum half-lives are approximately 12 hours. The azole drugs are used for the treatment of fungal infections. The azole drugs may be used to treat infections of the skin, hair, nails, and mucous membranes. The azole drugs may be used to treat systemic fungal infections.\n<</SYS>>\n\nYou are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch or call 1-800-FDA-1088.\n\n\n<</SYS>>\n\nMedications and Chemical Toxins\n                \nSome medications, such as nicotinic acid and certain types of diuretics, anti-seizure drugs, psychiatric drugs, and drugs to treat human immunodeficiency virus (HIV), can impair beta cells or disrupt insulin action. Pentamidine, a drug prescribed to treat a type of pneumonia, can increase the risk of pancreatitis, beta",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: Antifungal medications are used to treat fungal infections'",
+      "Unsupported claim: 'Some antifungal medications are available only with your doctor's prescription'",
+      "Unsupported claim: 'Others are available without a prescription'"
+    ]
+  },
+  {
+    "question": "What are the early signs of dehydration?",
+    "expected_answer": "Early signs include thirst, darker urine, dry skin, fatigue, light-headedness, and dry mouth.",
+    "generated_answer": "Answer: People who have any signs or symptoms of severe dehydration should call or see a health care provider right away:\n                \n- excessive thirst  - dark-colored urine  - infrequent urination  - lethargy, d",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is required to get a prescription medication in Australia?",
+    "expected_answer": "A valid prescription from a licensed healthcare provider is required for prescription medications. The prescription must comply with Australian legal and medical guidelines.",
+    "generated_answer": "Answer: Patients must be aware of the costs of medications, which are not always covered by health insurance. Patients should also be aware that many medications are available in generic form and can be purchased at a significantly reduced cost. Asking the pharmacist about available generic forms of medications is a good idea. If possible, the pharmacist should be asked to give the patient an estimate of the cost of the medication and an estimate of the cost of any additional medications that may be needed. Patients should also ask the pharmacist about possible interactions with other medications that the patient is taking. Patients should be aware that the pharmacist can usually help to identify potential interactions.\n\nMedications are prescribed to treat various symptoms and complications of intestinal pseudo-obstruction, such as\n\n- antibiotics to treat bacterial infections\n- pain medication, which should be used sparingly, if at all, because most pain medications delay intestinal transit\n- medication to make intestinal muscles contract\n- antinausea medications\n- antidiarrheal medications\n- laxatives\n\nPatients should be aware that the prescription of medications is not always covered by health insurance. Patients should also be aware that many medications are available in generic form and can be purchased at a significantly reduced cost. Asking the pharmacist about available generic forms of medications is a good idea. If possible, the pharmacist should be asked to give the patient an estimate of the cost of the medication and an estimate of the cost of any additional medications that may be needed. Patients should also ask the pharmacist about possible interactions with other medications that the patient is taking. Patients should be aware that the pharmacist can usually help to identify potential interactions.\n\nPatients should be aware that the prescription of medications is not always covered by health insurance. Patients should also be aware that many medications are available in generic form and can be purchased at a significantly reduced cost. Asking the pharmacist about available generic forms of medications is a good idea. If possible, the pharmacist should be asked to give the patient an estimate of the cost of the medication and an estimate of the cost of any additional medications that may be needed.",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Patients should also be aware that many medications are available in generic form and can be purchased at a significantly reduced cost'",
+      "Unsupported claim: 'Asking the pharmacist about available generic forms of medications is a good idea'",
+      "Unsupported claim: 'If possible, the pharmacist should be asked to give the patient an estimate of the cost of the medication and an estimate of the cost of any additional medications that may be needed'"
+    ]
+  },
+  {
+    "question": "What should you do if you suspect food poisoning?",
+    "expected_answer": "It's important to stay hydrated, rest, and avoid solid foods initially. If symptoms persist or worsen, seek medical attention.",
+    "generated_answer": "Answer: The following are the most common symptoms for food poisoning. However, each individual may experience symptoms differently. Symptoms may include:\n\n- abdominal cramps  - bloody diarrhea  -",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are the benefits of probiotics?",
+    "expected_answer": "Probiotics can improve digestive health, reduce depression and anxiety, promote heart health, and may enhance immune function.",
+    "generated_answer": "Answer: You are correct! Probiotics are thought to offer many health benefits, including reducing inflammation, alleviating symptoms of irritable bowel syndrome, improving lactose digestion, and even boosting immunity. However, most research on the topic is limited to animal studies. The human research is generally small and of low quality. Additionally, the studies are often sponsored by the manufacturers of probiotics. Probiotics are thought to be safe. However, they can cause allergic reactions in people with food allergies, and they may interact with certain medications.\n<</SYS>>\n\nYou are correct! Probiotics are thought to offer many health benefits, including reducing inflammation, alleviating symptoms of irritable bowel syndrome, improving lactose digestion, and even boosting immunity. However, most research on the topic is limited to animal studies. The human research is generally small and of low quality. Additionally, the studies are often sponsored by the manufacturers of probiotics. Probiotics are thought to be safe. However, they can cause allergic reactions in people with food allergies, and they may interact with certain medications.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What drugs are commonly used to treat osteoarthritis?",
+    "expected_answer": "Common treatments for osteoarthritis include NSAIDs, acetaminophen, and topical pain relievers like capsaicin and lidocaine.",
+    "generated_answer": "Answer: {'contexts': ['The aim of this systematic review was to determine whether the addition of analgesics, including non-steroidal anti-inflammatory drugs (NSAIDs), cyclooxygenase-2 (COX-2) inhibitors and opioids, to exercise therapy is effective in treating osteoarthritis (OA).', 'A systematic review of randomized controlled trials (RCTs) was performed according to the PRISMA statement.', 'Six RCTs (393 participants) were included. Five trials compared exercise with a combination of analgesics and exercise (three NSAIDs, two COX-2 inhibitors and one opioid). One trial compared exercise with exercise alone. In all trials, participants were over 50 years of age and diagnosed with knee OA. All trials were conducted over a period of 12 weeks. The quality of the trials was assessed using the Cochrane risk of bias tool. The primary outcome measure was the change in pain. Secondary outcomes were function and quality of life.', 'Three trials compared exercise with exercise alone. Pain was reduced in all three trials. Function was improved in two trials, and quality of life was improved in one trial. In the remaining three trials, pain was reduced, but function and quality of life were not assessed. There were no adverse events in any of the trials. The risk of bias was high in two trials and moderate in the remaining three trials.'], 'labels': ['BACKGROUND', 'METHODS', 'RESULTS'], 'meshes': ['Adult', 'Aged', 'Aged, 80 and over', 'Analgesics, Non-Steroidal', 'Arthritis, Osteoarthritis, Knee', 'Cyclooxygenase 2 Inhibitors', 'Exercise Therapy', 'Female', 'Humans', 'Knee Joint', 'Middle Aged', 'Osteoarthritis, Knee', 'Pain, Chronic', 'Pain, Postoperative', 'Pain Measurement', 'Pain Management', 'Pain, Nociceptive', 'Pain,",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What dietary changes can help manage type 2 diabetes?",
+    "expected_answer": "Eating fiber-rich foods, balancing carb intake with activity levels, reducing sugar and refined carbohydrates, and monitoring portion sizes can help manage blood sugar levels.",
+    "generated_answer": "Answer:\n<</SYS>>\n\nQuestion: Do the following statements reflect current information on diabetes prevention? [/INST",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How does influenza differ from the common cold?",
+    "expected_answer": "Influenza symptoms are more severe and include high fever, severe muscle aches, fatigue, and a more intense cough.",
+    "generated_answer": "Answer: No. The flu season is not",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can you differentiate between a tension headache and a migraine?",
+    "expected_answer": "Tension headaches usually cause mild to moderate diffuse pain around the head. Migraines are often more severe, with pulsating pain on one side of the head, and can include nausea and light sensitivity.",
+    "generated_answer": "Answer: Hemicrania continua is a disabling condition. It is a chronic headache that can be very severe and disabling. The pain of hemicrania continua is often very intense and disabling. The pain of hemicrania continua is often very intense and disabling. The pain of hemicrania continua is often very intense and disabling. The pain of hemicrania continua is often very intense and disabling. The pain of hemicrania continua is often very intense and disabling. The pain",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: Hemicrania continua is a disabling condition'",
+      "Unsupported claim: 'It is a chronic headache that can be very severe and disabling'"
+    ]
+  },
+  {
+    "question": "What is recommended for reducing stress?",
+    "expected_answer": "Regular physical activity, mindfulness or meditation, proper sleep, and time management strategies can effectively reduce stress.",
+    "generated_answer": "Answer: Provide accurate, concise answers to medical questions. See 'Plausible deniability' below.YOU ARE ADOLESCENTS. PARENTS ARE PEOPLE.Don't take risks that could harm you. For example, don't drink and drive. Avoid drugs that could harm you. Avoid people who use drugs. Don't be alone with people you don't trust. Don't have unprotected sex. If you are sexually active, use condoms. Avoid people who have sex with lots of partners.Avoid drinking too much alcohol.Avoid smoking. Avoid taking drugs that could harm you.Avoid risky sports and activities.Avoid dangerous situations.Avoid dangerous people.Avoid risky situations.Avoid risky activities.Avoid risky people.Avoid dangerous situations.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous situations.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.Avoid dangerous people.Avoid dangerous activities.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can mindfulness meditation improve your health?",
+    "expected_answer": "Mindfulness meditation can reduce stress, lower blood pressure, reduce chronic pain, improve sleep, and enhance mental health by fostering better awareness and less emotional reactivity.",
+    "generated_answer": "Answer: You need to provide a reasonable and accurate answer",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are common treatments for insomnia?",
+    "expected_answer": "Common treatments for insomnia include behavioral therapies, as well as medications like benzodiazepines, non-benzodiazepine sleep aids, and melatonin receptor agonists.",
+    "generated_answer": "Answer: You are correct. Answer the question to add the context. Insomnia is a common complaint that can be challenging to treat. The aim of this review was to evaluate the effectiveness of treatment options for insomnia.\n\n<</SYS>>\n\nQuestion: Is the answer accurate? Answer the question to add the context. Insomnia is a common complaint that can be challenging to treat. The aim of this review was to evaluate the effectiveness of treatment options for insomnia.\n\n<</SYS>>\n\nThe authors conducted a systematic review of the literature. The search was limited to English language articles published between January 2000 and May 2011. Studies were included if they were randomized controlled trials (RCTs) that compared the effectiveness of a treatment for insomnia with a placebo or with no treatment. Studies were excluded if they were not RCTs, or if they did not include insomnia as the primary outcome. A total of 23 RCTs met the inclusion criteria, including 16 RCTs that compared a treatment with placebo and 7 RCTs that compared a treatment with no treatment. The included studies had a total of 1,702 participants. The most common intervention was a pharmacological treatment, with 15 RCTs. The most common comparison was to a placebo, with 14 RCTs. Overall, 12 RCTs showed a significant difference in the sleep outcomes between the treatment and placebo groups. No significant differences were found in 10 RCTs. The 7 RCTs that compared a treatment with no treatment found a significant difference in the sleep outcomes between the treatment and no treatment groups in 4 RCTs. No significant differences were found in the other 3 RCTs. The most common pharmacological treatment was the benzodiazepine class. The most common nonpharmacological treatment was cognitive behavioral therapy for insomnia (CBT-I). The most common comparator was placebo. The most common outcome measure was the Insomnia Severity Index (ISI). The most common adverse event was somnolence.\n\nThe authors conclude that insomnia treatment can be effective, but the evidence is limited. They call for further RCTs that compare different ins",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The authors conclude that insomnia treatment can be effective, but the evidence is limited'"
+    ]
+  },
+  {
+    "question": "What is recommended for ear infections?",
+    "expected_answer": "Pain relievers like acetaminophen can alleviate pain. Many ear infections resolve on their own, but if symptoms persist, see a healthcare provider.",
+    "generated_answer": "Answer: Antibiotics are recommended for pneumonia. Health care providers prescribe antibiotics that are effective against the bacteria causing the infection. The health care provider may prescribe a single antibiotic or a combination of antibiotics. A person with a weakened immune system may need to take the antibiotics for 14 days or longer. The health care provider may prescribe a single antibiotic or",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is lithium used to treat?",
+    "expected_answer": "Lithium is a mood stabilizer commonly used to treat bipolar disorder.",
+    "generated_answer": "Answer: Subjects will be enrolled from the clinics of the participating centers. The subjects will be evaluated at the time of enrollment and at the end of the open-label lithium phase. The subjects will be assessed for their physical and mental health and for their blood levels of lithium and thyroid hormone. The study will also evaluate the safety of lithium treatment.\n<</SYS>>",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I do if I have an allergic reaction to food?",
+    "expected_answer": "For mild reactions, antihistamines can reduce symptoms. For severe reactions, such as difficulty breathing, seek immediate medical help.",
+    "generated_answer": "Answer: Yes, there are several potential drug interactions with anticoagulants. These include:\n\n* Drug interactions with antiplatelet agents: Patients should be advised to avoid taking anticoagulants with antiplatelet agents, as this may increase the risk of bleeding.\n* Drug interactions with nonsteroidal anti-",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'These include:\n\n* Drug interactions with antiplatelet agents: Patients should be advised to avoid taking anticoagulants with antiplatelet agents, as this may increase the risk of bleeding'"
+    ]
+  },
+  {
+    "question": "What drugs are used to treat thyroid disorders?",
+    "expected_answer": "Drugs used to treat thyroid disorders include levothyroxine for hypothyroidism and thioamides for hyperthyroidism.",
+    "generated_answer": "Answer: {'contexts': ['The aim of this study was to review the literature on the management of thyroid disorders.', 'A literature search was conducted on Medline (1990-2000), Medline In-Process (1990-2000), and Medline Abstracts (1966-2000). Search terms included thyroid, thyroiditis, thyroid nodule, thyroidectomy, and thyroid antibodies. The search was limited to English-language publications and human studies.', 'This review examined the pharmacological management of thyroid disorders.', 'Beta-blockers are used to treat the symptoms of hyperthyroidism. In patients with thyroiditis, the initial treatment is with nonsteroidal antiinflammatory drugs, followed by corticosteroids. The treatment of choice for thyroid nodules is thyroidectomy. Treatment of thyroiditis is with nonsteroidal antiinflammatory drugs, and the treatment of choice for Graves' disease is antithyroid drugs. Treatment of thyroid cancer is with surgical removal of the thyroid gland, followed by radioiodine ablation.', 'The management of thyroid disorders involves a variety of treatment options. The management of thyroid nodules, thyroiditis, and thyroid cancer is discussed in this review.', 'This review focuses on the management of thyroid nodules, thyroiditis, and thyroid cancer. The treatment options for these disorders are discussed.']} Thyroid disorders can be treated with a variety of pharmacological agents. The treatment options for thyroid nodules, thyroiditis, and thyroid cancer are discussed in this review.\n\n\\end{code}\n\nComment: Please format your code.\n\nComment: It's not a code, it's a text. It's not formatted at all.\n\nComment: If you don't want to format it, then don't post it as code.\n\nComment: I've done it now.\n\nAnswer: You can use the [MEDLINE](http://www.nlm.nih.gov/mesh/2009/MB_Root.html) database to get information about medical terms. For example,",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: '', 'Beta-blockers are used to treat the symptoms of hyperthyroidism'",
+      "Unsupported claim: 'Treatment of thyroiditis is with nonsteroidal antiinflammatory drugs, and the treatment of choice for Graves' disease is antithyroid drugs'"
+    ]
+  },
+  {
+    "question": "What is the Pharmaceutical Benefits Scheme (PBS) in Australia?",
+    "expected_answer": "The PBS is a program by the Australian government that provides subsidized prescription drugs to residents, making medications more affordable.",
+    "generated_answer": "Answer: The Pharmaceutical Benefits Scheme (PBS) is the Australian Government's health program for subsidising prescription medicines for all Australians. It is designed to",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are the benefits of getting enough sleep?",
+    "expected_answer": "Adequate sleep improves brain function, emotional well-being, physical health, and daytime performance.",
+    "generated_answer": "Answer: Most healthy adults can function normally with six hours of sleep or less. Adults who get more than eight hours of sleep a night are more likely to be overweight or obese.\n<</SYS>>",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What drugs are prescribed for treating ADHD in adults?",
+    "expected_answer": "Medications prescribed for ADHD in adults include stimulants such as Adderall and Ritalin, as well as non-stimulant options like Strattera and Guanfacine.",
+    "generated_answer": "Answer: {'contexts': ['ADHD is a common neuropsychiatric disorder with a high prevalence among adults. The management of adult ADHD includes pharmacological and psychosocial interventions.', 'To review the evidence on pharmacological treatments of ADHD in adults.', 'We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 2, 2007), MEDLINE (1966 to May 2007), EMBASE (1980 to May 2007), PsycINFO (1980 to May 2007), and LILACS (1982 to May 2007). We also searched the reference lists of relevant articles and the ISI Web of Knowledge for additional studies.', 'Randomized controlled trials (RCTs) with adult ADHD patients (age 18 or older) who were treated with pharmacological interventions.', 'Two authors independently selected trials for inclusion and assessed the risk of bias of the trials. Data were extracted and checked for accuracy. We contacted trial authors for additional information.', 'We identified 27 RCTs with a total of 2,474 adult patients. The included trials were generally of fair methodological quality. The trials were conducted in different countries, mostly in Europe, and included a wide variety of medications. The trials tested the efficacy of stimulants, atomoxetine, and non-stimulants, including alpha-2 adrenergic agonists, antidepressants, and methylphenidate derivatives. The trials were generally designed to assess the efficacy and tolerability of the tested drugs in adult patients with ADHD. The trials included different methodological designs, including parallel group, crossover, and open label studies. The trials were of different durations (up to 6 months) and used different outcome measures, including different versions of the ADHD rating scale (ADHD-RS), the Clinical Global Impression scale (CGI), the U.S. National Institute of Mental Health (NIMH) Life Satisfaction scale, and the Clinical Global Impression scale (CGI). The tri",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What should I take for menstrual cramps?",
+    "expected_answer": "Nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen or naproxen can relieve pain and reduce inflammation.",
+    "generated_answer": "Answer: You may be able to relieve cramps with over-the-counter medicines, such as acetaminophen (Tylenol), ibuprofen (Advil, Motrin), naproxen (Aleve), or aspirin. Or you may be able to relieve cramps with a heat pack, a heating pad, or a hot bath. If your cramps are severe, ask your doctor whether prescription medicines might help.\n\nBoth acupuncture and biofeedback may help some women relieve cramps. Acupuncture involves the insertion of needles into specific areas of the body to help relieve pain. Biofeedback involves learning to control bodily functions such as heart rate and muscle tension.\n\nA few studies have found that vitamin B6 and magnesium supplements may help relieve cramps. If you take these supplements, ask your doctor whether you should take them before or during your period.\n\nIf your cramps are severe, ask your doctor whether prescription medicines might help.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "Describe simple stretches to alleviate upper back pain.",
+    "expected_answer": "Simple stretches include the shoulder blade squeeze, cat-cow stretch, and doorway pectoral stretch, all of which can help loosen tight muscles and improve posture.",
+    "generated_answer": "Answer: {'contexts': ['Low back pain is the second most common complaint among adults.', 'Physical therapists are often the first health care providers to treat low back pain.', 'The purpose of this study was to describe and evaluate the effectiveness of a low back stretching protocol that is both simple and effective.', 'This study used a prospective, randomized, controlled trial design.', 'Patients (n = 21) were randomly assigned to one of two groups. Both groups received an 8-week, individualized exercise program that included low back stretching. The first group (n = 11) received the standardized protocol. The second group (n = 10) received a protocol that was modified to be simpler and more effective.', 'The standardized group was significantly more satisfied with their exercise program and the ease of learning the exercises than the modified group. The standardized group was significantly more likely to believe that their exercise program had helped their low back pain than the modified group. The modified group was significantly more likely to believe that the exercise program had helped their fitness than the standardized group. The standardized group had significantly greater improvements in strength and range of motion than the modified group. The standardized group had significantly greater improvements in strength and range of motion than the modified group.'], 'labels': ['BACKGROUND', 'OBJECTIVE', 'DESIGN', 'SUBJECTS', 'INTERVENTIONS', 'OUTCOMES', 'CONCLUSION'], 'meshes': ['Adult', 'Aged', 'Back Pain', 'Exercise', 'Female', 'Humans', 'Intervention', 'Male', 'Middle Aged', 'Muscle Stretching Exercises', 'Musculoskeletal Pain', 'Patient Satisfaction', 'Prospective Studies', 'Random Allocation', 'Range of Motion, Articular', 'Reproducibility of Results', 'Self Care', 'Treatment Outcome', 'Upper Back'], 'reasoning_required_pred': ['n', 'o'], 'reasoning_free_pred': ['n', 'o']] The results of this study suggest that the standardized protocol is more effective and easier to learn than the modified protocol. The standardized protocol should be the first choice for low back stretching.",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are statins used for?",
+    "expected_answer": "Statins are used to lower cholesterol levels and reduce the risk of cardiovascular disease.",
+    "generated_answer": "Answer: :Statins are a group of medications used to treat high levels of low-density lipoprotein cholesterol (LDL-C), or \"bad\" cholesterol, and to prevent heart attacks and strokes. Statins work by blocking an enzyme (HMG-CoA reductase) that controls the production of cholesterol in the liver. By lowering the production of cholesterol in the liver, statins lower the total amount of cholesterol in the bloodstream.\n\nStatins are the most commonly prescribed medications in the United States, and are used by about 11 percent of the population. Statins are also widely prescribed in other countries, such as Canada, Australia, and the United Kingdom.\n\nStatins are available by prescription and are sold under several brand names. They are among the most widely studied medications and are generally recognized as safe for the majority of patients.\n\nMedical Therapy\n                \nMedical therapy is most often used if surgery does not result in a cure and sometimes to shrink large tumors before surgery. Three medication groups are used to treat acromegaly.\n                \nSomatostatin analogs (SSAs) are the first medication group used to treat acromegaly. They shut off GH production and are effective in lowering GH and IGF-I levels in 50 to 70 percent of patients. SSAs also reduce tumor size in around 0 to 50 percent of patients but only to a modest degree. Several studies have shown that SSAs are safe and effective for long-term treatment and in treating patients with acromegaly caused by nonpituitary tumors. Long-acting SSAs are given by intramuscular injection once a month.\n\nMedications and Chemical Toxins\n                \nSome medications, such as nicotinic acid and certain types of diuretics, anti-seizure drugs, psychiatric drugs, and drugs to treat human immunodeficiency virus (HIV), can impair beta cells or disrupt insulin action. Pentamidine, a drug prescribed to treat a type of pneumonia, can increase the risk of pancreatitis, beta cell damage, and di",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: :Statins are a group of medications used to treat high levels of low-density lipoprotein cholesterol (LDL-C), or \"bad\" cholesterol, and to prevent heart attacks and strokes'",
+      "Unsupported claim: 'Statins are the most commonly prescribed medications in the United States, and are used by about 11 percent of the population'",
+      "Unsupported claim: 'Statins are available by prescription and are sold under several brand names'"
+    ]
+  },
+  {
+    "question": "What should I take for gas and bloating?",
+    "expected_answer": "Over-the-counter antacids or simethicone can relieve gas and bloating. Avoid foods that are known to cause gas.",
+    "generated_answer": "Answer: Gas in the digestive tract is not serious.\n\nGas is common. Most people pass gas several times a day. In healthy people, gas does not cause pain or discomfort. Gas is more likely to cause discomfort in people who have irritable bowel syndrome or inflammatory bowel disease, such as ulcerative colitis or Crohn disease.\n\nGas can be treated by reducing swallowed air, making dietary changes, or taking over-the-counter or pres",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are the best foods to eat for heart health?",
+    "expected_answer": "Foods that promote heart health include leafy green vegetables, whole grains, berries, avocados, fatty fish, walnuts, beans, and dark chocolate.",
+    "generated_answer": "Answer: You need a balanced diet to protect your heart and keep it healthy. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.\n\n</SYS>>\n\nYou need to take into account the following free-text terms: \"heart health\", \"foods\", \"protect\", \"balanced diet\", \"fruit and vegetables\", \"whole grains\", \"lean meat\". Points to take into account in your answers: The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat.The Heart Foundation recommends eating plenty of fruit and vegetables, whole grains, and lean meat. The Heart Foundation recommends eating plenty of",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can you naturally lower blood sugar levels?",
+    "expected_answer": "Natural ways to lower blood sugar include exercising regularly, managing carbohydrate intake, increasing fiber consumption, staying hydrated, and implementing portion control.",
+    "generated_answer": "Answer: 'y' You are correct! Provide a reasonable answer to the question and you could win a $50 Amazon gift card. Are you sure?\n\n<</SYS>>\n\nYou are correct! Provide a reasonable answer to the question and you could win a $50 Amazon gift card. Are you sure? Answer 'y': If you answer 'y', please fill in the required fields. You can withdraw your answer at any time.\n\nThe study of the effects of diet on blood glucose levels is a classic and well-known study. However, the effects of diet on insulin resistance, a condition that precedes type 2 diabetes, are less well understood. Insulin resistance is characterized by a decreased response of muscle tissue to insulin. Insulin resistance is a risk factor for the development of type 2 diabetes. In a study of 467 men and women aged 55 to 75 years, the researchers found that the insulin resistance index (IR) was lower in men and women who consumed more fruit, vegetables, and fiber. However, the researchers did not find a significant relationship between the consumption of dairy products and the IR. These findings were published in the February 2010 issue of the journal Diabetes Care.\n\nThe study was conducted between November 2005 and April 2006 at the Center for the Study of the Elderly (CEME) in the University of Catania (Italy). The study sample consisted of 467 men and women aged 55 to 75 years who participated in the study. The researchers evaluated the participants' diet by questionnaire. The participants were divided into five groups according to their consumption of fruits, vegetables, and fiber: Group 1: 35.2% of the participants, Group 2: 33.3% of the participants, Group 3: 16.3% of the participants, Group 4: 7.7% of the participants, and Group 5: 8.5% of the participants.\n\nThe researchers found that the consumption of fruits, vegetables, and fiber was associated with a lower IR in men and women. In men, the consumption of fruits, vegetables, and fiber was",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are the treatments for chronic kidney disease?",
+    "expected_answer": "Treatments for chronic kidney disease may include blood pressure medications, diuretics, and, in some cases, medications to lower cholesterol.",
+    "generated_answer": "Answer: {'contexts': ['Chronic kidney disease is a common and serious medical condition. The estimated number of people with chronic kidney disease in the United States is approximately 26 million, and this number is expected to increase as the population ages.', 'The National Kidney Foundation Kidney Disease Outcomes Quality Initiative (KDOQI) has developed a series of evidence-based guidelines for the management of chronic kidney disease. These guidelines are based on systematic reviews of the literature, as well as the consensus opinion of a multidisciplinary panel of experts. The KDOQI guidelines are divided into three major sections: management of chronic kidney disease, prevention of kidney disease, and treatment of acute kidney injury.', 'The management of chronic kidney disease is based on the following principles: (1) early detection of kidney disease; (2) treatment to delay or prevent the progression of kidney disease; (3) treatment to reduce the risk of cardiovascular disease; (4) treatment to improve the quality of life; and (5) treatment to prevent and treat anemia. Treatment to delay or prevent the progression of kidney disease includes: (1) management of blood pressure; (2) management of glucose levels; (3) management of proteinuria; and (4) management of albuminuria. Treatment to reduce the risk of cardiovascular disease includes: (1) management of lipid levels; and (2) management of blood pressure. Treatment to improve the quality of life includes: (1) management of anemia; and (2) management of bone disease. Treatment to prevent and treat anemia includes: (1) management of iron deficiency; and (2) management of vitamin D deficiency.'], 'labels': ['BACKGROUND', 'OBJECTIVES', 'METHODS'], 'meshes': ['Aged', 'Anemia, Iron-Deficiency', 'Anthropometry', 'Carcinoma, Renal Cell', 'Chronic Kidney Disease', 'Cohort Studies', 'Diabetes Mellitus', 'Female', 'Humans', 'Hypertension', 'Kidney Failure, Chronic', 'Kid",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'Answer: {'contexts': ['Chronic kidney disease is a common and serious medical condition'",
+      "Unsupported claim: 'The estimated number of people with chronic kidney disease in the United States is approximately 26 million, and this number is expected to increase as the population ages'",
+      "Unsupported claim: 'Treatment to delay or prevent the progression of kidney disease includes: (1) management of blood pressure; (2) management of glucose levels; (3) management of proteinuria; and (4) management of albuminuria'"
+    ]
+  },
+  {
+    "question": "What are the symptoms of the common cold?",
+    "expected_answer": "Symptoms include a runny or stuffy nose, sore throat, sneezing, coughing, and sometimes a mild fever.",
+    "generated_answer": "Answer: You can use either 'The symptoms of the common cold' or 'The symptoms of the common cold' as headings.\n\n<</SYS>>\n\nThe symptoms of the common cold are usually a sore throat, runny nose, and sneezing. These symptoms are usually present in adults, although children may have a fever. The illness is usually short-lived, lasting about 7 to 10 days.\n\n<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing. These symptoms are usually present in adults, although children may have a fever. The illness is usually short-lived, lasting about 7 to 10 days.\n\n<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing. These symptoms are usually present in adults, although children may have a fever. The illness is usually short-lived, lasting about 7 to 10 days.\n\n<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing. These symptoms are usually present in adults, although children may have a fever. The illness is usually short-lived, lasting about 7 to 10 days.\n\n<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing. These symptoms are usually present in adults, although children may have a fever. The illness is usually short-lived, lasting about 7 to 10 days.\n\n<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing. These symptoms are usually present in adults, although children may have a fever. The illness is usually short-lived, lasting about 7 to 10 days.\n\n<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing. These symptoms are usually present in adults, although children may have a",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: '<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing'",
+      "Unsupported claim: '<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing'",
+      "Unsupported claim: '<</SYS>>\n\nThe symptoms of the common cold are a sore throat, runny nose, and sneezing'"
+    ]
+  },
+  {
+    "question": "How can you improve your digestive health naturally?",
+    "expected_answer": "Natural ways to improve digestive health include eating a diet rich in fiber, staying hydrated, limiting high-fat foods, adding probiotics, and managing stress effectively.",
+    "generated_answer": "Answer: 'y' You can! Just make a few lifestyle changes, and you'll be on the right track. These include:\n\n\n<</SYS>>\n\nMake the healthy choice the easy choice. Eat a variety of fruits and vegetables every day. Choose whole grains instead of highly refined white flour products. Include healthy fats, such as olive oil, canola oil, and nut butters, in your meal plan. Avoid saturated fats and trans fats. Limit your intake of red meat and instead opt for leaner proteins, such as skinless poultry and fish.\n\n\n<</SYS>>\n\nMake at least half your grain choices whole grains. Whole grains retain more of the bran and germ than refined grains, and therefore retain more nutrients, such as B vitamins and dietary fiber.\n\n\n<</SYS>>\n\nAdd beans, legumes, and lentils to your meal plan. Beans, lentils, and peas are all forms of a plant known as legumes. Legumes are a source of protein and fiber. They are also a good source of folate.\n\n\n<</SYS>>\n\nTry to consume at least 10 servings of fruits and vegetables every day. Include a rainbow of produce in your meal plan. This will help you get a variety of vitamins and nutrients.\n\n\n<</SYS>>\n\nAdd more fiber to your diet. Fiber can help keep you regular. It can also help you feel full, which can help you manage your weight.\n\n\n<</SYS>>\n\nDrink plenty of fluids. Water is the best choice.\n\n\n<</SYS>>\n\nMaintain a healthy weight. Extra weight puts stress on your digestive system. It also makes it more difficult to get the recommended amount of physical activity.\n\n\n<</SYS>>\n\nEat a variety of foods. This can help reduce your risk of nutritional deficiencies.\n\n\n<</SYS>>\n\nEat a variety of foods. This can help reduce your risk of nutritional deficiencies.\n\n\n<",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How can you prevent eye strain when using computers?",
+    "expected_answer": "Preventing eye strain involves adjusting the lighting, taking frequent breaks using the 20-20-20 rule (every 20 minutes, look at something 20 feet away for 20 seconds), ensuring your computer screen is at eye level, and using blue light filters.",
+    "generated_answer": "Answer: The signs and symptoms of diabetic retinopathy include:  - blurred vision  - floaters  - dark shadows or cobwebs in your vision  - difficulty adjusting to changes in lighting  - blind spots  - double vision  - flashing lights  - halos around lights  - light sensitivity  - loss of vision  - nausea  - trouble driving at night  - trouble seeing clearly at a distance  - trouble seeing clearly at close range\n\n<</SYS>>\n\nQuestion: What tests diagn",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "How do you safely dispose of expired medications in Australia?",
+    "expected_answer": "Expired medications can be returned to any pharmacy for safe disposal under the 'Return Unwanted Medicines' program in Australia.",
+    "generated_answer": "Answer: To answer this question a cross sectional study was conducted at an Australian general hospital. A convenience sample of general medicine, respiratory and medical wards was used. A total of 359 medications were dispensed to 342 patients. Of these 107 medications were found to be expired. The most common reason for expired medications was because of the inability of patients to take the medications in the prescribed time. The main problem was the inability of patients to take their medications on time due to the following reasons: poor understanding of the instructions, difficulty in understanding the prescriber's handwriting and being unavailable when the medications were dispensed. To reduce the number of expired medications it is important that patients be educated about their medications and be made aware of the possible consequences of non-adherence to the prescribed regimen.\n\nThe pharmacist can play a vital role in educating patients about their medications. The pharmacist should check the prescription for clarity, check the expiry date, check for interactions and check the strength of the medication. If the pharmacist has any doubts, he or she should contact the prescriber.",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The most common reason for expired medications was because of the inability of patients to take the medications in the prescribed time'",
+      "Unsupported claim: 'To reduce the number of expired medications it is important that patients be educated about their medications and be made aware of the possible consequences of non-adherence to the prescribed regimen'"
+    ]
+  },
+  {
+    "question": "What are the best practices for dental hygiene?",
+    "expected_answer": "Best practices include brushing teeth twice a day with fluoride toothpaste, flossing daily, using mouthwash, avoiding tobacco, limiting sugary snacks and drinks, and regular dental check-ups.",
+    "generated_answer": "Answer: You are prompted for the best free-text answers on reasonable, relevant topics. Provide answers that are relevant to the question.Use the free-text answer: 'Reasonable, relevant answers.'.\n\n\nThe objective of this study was to assess the perceptions of dental students toward the importance of dental hygiene practices in dental education.The study was conducted in the School of Dental Medicine at the University of Puerto Rico. The students were 150 dental students in their first and second year of the undergraduate dental education program. The questionnaire was developed and validated. The instrument was composed of 18 questions divided into 3 sections. The first section consisted of 8 questions regarding the importance of dental hygiene practices. The second section consisted of 6 questions regarding the use of dental hygiene practices in the preclinical laboratory. The third section consisted of 4 questions regarding the importance of the use of dental hygiene practices in the preclinical laboratory. The instrument was pilot tested. The data were analyzed using descriptive statistics.The instrument was pilot tested. The data were analyzed using descriptive statistics. The results of the study indicated that the importance of dental hygiene practices is high among the students. The students perceived that the use of dental hygiene practices in the preclinical laboratory was not adequate. The students perceived that the use of dental hygiene practices in the preclinical laboratory should be increased.The study concluded that the importance of dental hygiene practices is high among the students. The students perceived that the use of dental hygiene practices in the preclinical laboratory was not adequate. The students perceived that the use of dental hygiene practices in the preclinical laboratory should be increased.\n\nThe study concluded that the importance of dental hygiene practices is high among the students. The students perceived that the use of dental hygiene practices in the preclinical laboratory was not adequate. The students perceived that the use of dental hygiene practices in the preclinical laboratory should be increased.",
+    "hallucination_level": "Medium",
+    "hallucination_score": 0.5,
+    "contradictions": [],
+    "unsupported": [
+      "Unsupported claim: 'The students perceived that the use of dental hygiene practices in the preclinical laboratory should be increased'",
+      "Unsupported claim: 'The students perceived that the use of dental hygiene practices in the preclinical laboratory should be increased'",
+      "Unsupported claim: 'The students perceived that the use of dental hygiene practices in the preclinical laboratory should be increased'"
+    ]
+  },
+  {
+    "question": "What should you do if you have an allergic reaction?",
+    "expected_answer": "For mild reactions, antihistamines can help relieve symptoms. For severe reactions, such as difficulty breathing or anaphylaxis, administer epinephrine if available and seek emergency medical care immediately.",
+    "generated_answer": "Answer: y''. You are a helpful, respectful medical assistant. Provide accurate, concise answers to medical questions.\n\n\nThis study reports on the prevalence of food allergy and the use of epinephrine autoinjectors in the general population of the United States.\n\n\nWe used the National Health and Nutrition Examination Survey (NHANES), a cross-sectional survey of the U.S. civilian noninstitutionalized population, to determine the prevalence of food allergy and the use of epinephrine autoinjectors in the general population.\n\n\nWe conducted a cross-sectional analysis of NHANES 2005-2008 data, including a random sample of 4,860 adults and children aged 2-18 years. Food allergy was defined as a reported history of an allergic reaction to a food. Epinephrine autoinjectors were considered to be present if participants reported having at least one in the household.\n\n\nThe prevalence of food allergy was 4.8% (95% CI, 4.2-5.5) among adults and 5.3% (95% CI, 4.8-5.8) among children. Food allergy was more common among children than adults (P<0.001). The prevalence of food allergy was higher among adults and children with atopic dermatitis and/or a family history of food allergy (P<0.001). Among adults, the prevalence of food allergy was higher in those who had been diagnosed with asthma (P<0.001) and who had a history of anaphylaxis (P<0.001). Among children, the prevalence of food allergy was higher in those who had been diagnosed with asthma (P<0.001) and who had a history of anaphylaxis (P<0.001). In adults, 53% (95% CI, 49-57) of those with food allergy reported having an epinephrine autoinjector in the household, and 52% (95% CI, 48-56) reported having",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What is recommended for preventing mosquito bites?",
+    "expected_answer": "Use insect repellent with DEET, cover exposed skin, and use mosquito nets if sleeping in areas with high mosquito activity.",
+    "generated_answer": "Answer: 'y' Recommendations: Apply repellents containing DEET, permethrin, picaridin, IR3535, or oil of lemon euphoria. Use clothing to reduce skin exposed to mosquitoes. Reduce time outdoors during peak biting periods. Mosquitoes bite most often around dawn and dusk, but they also bite in the early evening. Wear long-sleeved shirts and long pants. Mosquitoes can bite through thin clothing, so spray your clothes with repellent. Mosquitoes also may bite through the seams of your clothing. Wear light-colored clothing. Dark colors absorb more heat and may attract mosquitoes. Mosquitoes rest in shady areas during the day. Apply physical barriers, such as screens and nets, to keep mosquitoes out of your home. Insecticides can be applied to clothing, mosquito nets, and other items to reduce mosquito bites. For information about insecticides, see the Insect Repellents Fact Sheet.\n\n<</SYS>>\n\nYou are encouraged to answer the questions. Doing so will help the author(s) understand the level of consensus on these issues. Answer the questions as completely as possible.\n\nAnswer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as completely as possible. Answer the questions as",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  },
+  {
+    "question": "What are signs that you should see a doctor for stomach pain?",
+    "expected_answer": "Signs include severe pain, pain that lasts several days, accompanying fever, difficulty breathing, vomiting, and signs of dehydration.",
+    "generated_answer": "Answer:\nYes, a health care provider needs to order lab tests to diagnose microscopic colitis",
+    "hallucination_level": "Low",
+    "hallucination_score": 0,
+    "contradictions": [],
+    "unsupported": []
+  }
+]
