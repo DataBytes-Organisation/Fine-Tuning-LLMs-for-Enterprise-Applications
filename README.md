@@ -6,7 +6,7 @@
 * **Student ID :** s224008582  
 * **Date Submitted:** 
 
-![Shape][image1] 
+
 
 **2\. Project Introduction** 
 
@@ -26,8 +26,10 @@
 * Machine \= Free colab
 
 At first, I  have applied access for LLAMA2 7B in hugging face. Then imported that model using notebook login of hugging face   
-![][image2]  
+  ![image](https://github.com/user-attachments/assets/0cda2923-f7db-47c5-843b-f2711fb80d2f)
+
 This is how i access by using access token.
+
 
 # Model and Dataset 
 
