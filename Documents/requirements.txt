@@ -1,0 +1,15 @@
+bitsandbytes==0.45.5
+datasets==3.6.0
+gradio==5.29.0
+gradio_client==1.10.0
+peft==0.15.2
+scikit-learn==1.6.1
+sentence-transformers==3.4.1
+tensorflow-datasets==4.9.8
+torch @ https://download.pytorch.org/whl/cu124/torch-2.6.0%2Bcu124-cp311-cp311-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu124/torchaudio-2.6.0%2Bcu124-cp311-cp311-linux_x86_64.whl
+torchsummary==1.5.1
+torchvision @ https://download.pytorch.org/whl/cu124/torchvision-0.21.0%2Bcu124-cp311-cp311-linux_x86_64.whl
+transformers==4.48.3
+vega-datasets==0.9.0
+lime==0.2.0.1
