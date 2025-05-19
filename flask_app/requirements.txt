@@ -1,0 +1,6 @@
+flask
+llama-index
+psutil
+pandas
+matplotlib
+scikit-learn

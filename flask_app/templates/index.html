@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gemma Chat</title>
+    <link rel="stylesheet" href="/static/css/style.css" />
+  </head>
+  <body class="light-mode">
+    <div class="theme-toggle-container">
+      <button id="toggle-mode">Switch to Dark Mode</button>
+    </div>
+    <div class="chat-container">
+      <div class="chat-header">
+        <div class="chat-title">Sentimental Analysis in Healthcare</div>
+      </div>
+      <div id="chat-window"></div>
+      <div class="input-area">
+        <div class="button-group">
+          <button id="search-btn">🌐</button>
+          <button id="file-btn">🔗</button>
+        </div>
+        <textarea id="user-text" placeholder="Type your message..."></textarea>
+        <button id="send-btn">Send</button>
+      </div>
+    </div>
+    <script src="/static/js/app.js"></script>
+  </body>
+</html>
