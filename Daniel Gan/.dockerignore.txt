@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.idea/
+.git/
+.gitignore
+# 🚫 DO NOT include this:
+# mistral-combined-finetuned-weights/

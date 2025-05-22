@@ -1,0 +1,9 @@
+{
+  "task_type": "CAUSAL_LM",
+  "peft_type": "LORA",
+  "auto_mapping": null,
+  "base_model_name_or_path": "./Mistral-7B-v0.1",
+  "revision": null,
+  "inference_mode": false,
+  "r": 16,
+  "target_modules": 

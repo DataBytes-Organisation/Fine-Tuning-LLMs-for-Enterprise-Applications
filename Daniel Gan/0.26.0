@@ -1,0 +1,29 @@
+Collecting accelerate
+  Downloading accelerate-1.6.0-py3-none-any.whl.metadata (19 kB)
+Requirement already satisfied: numpy<3.0.0,>=1.17 in c:\users\danie\anaconda5\lib\site-packages (from accelerate) (1.26.4)
+Requirement already satisfied: packaging>=20.0 in c:\users\danie\anaconda5\lib\site-packages (from accelerate) (23.2)
+Requirement already satisfied: psutil in c:\users\danie\anaconda5\lib\site-packages (from accelerate) (5.9.0)
+Requirement already satisfied: pyyaml in c:\users\danie\anaconda5\lib\site-packages (from accelerate) (6.0.1)
+Requirement already satisfied: torch>=2.0.0 in c:\users\danie\anaconda5\lib\site-packages (from accelerate) (2.4.1)
+Requirement already satisfied: huggingface-hub>=0.21.0 in c:\users\danie\anaconda5\lib\site-packages (from accelerate) (0.30.2)
+Requirement already satisfied: safetensors>=0.4.3 in c:\users\danie\anaconda5\lib\site-packages (from accelerate) (0.5.3)
+Requirement already satisfied: filelock in c:\users\danie\anaconda5\lib\site-packages (from huggingface-hub>=0.21.0->accelerate) (3.13.1)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\danie\anaconda5\lib\site-packages (from huggingface-hub>=0.21.0->accelerate) (2024.3.1)
+Requirement already satisfied: requests in c:\users\danie\anaconda5\lib\site-packages (from huggingface-hub>=0.21.0->accelerate) (2.32.2)
+Requirement already satisfied: tqdm>=4.42.1 in c:\users\danie\anaconda5\lib\site-packages (from huggingface-hub>=0.21.0->accelerate) (4.66.4)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\danie\anaconda5\lib\site-packages (from huggingface-hub>=0.21.0->accelerate) (4.11.0)
+Requirement already satisfied: sympy in c:\users\danie\anaconda5\lib\site-packages (from torch>=2.0.0->accelerate) (1.12)
+Requirement already satisfied: networkx in c:\users\danie\anaconda5\lib\site-packages (from torch>=2.0.0->accelerate) (3.2.1)
+Requirement already satisfied: jinja2 in c:\users\danie\anaconda5\lib\site-packages (from torch>=2.0.0->accelerate) (3.1.4)
+Requirement already satisfied: setuptools in c:\users\danie\anaconda5\lib\site-packages (from torch>=2.0.0->accelerate) (69.5.1)
+Requirement already satisfied: colorama in c:\users\danie\anaconda5\lib\site-packages (from tqdm>=4.42.1->huggingface-hub>=0.21.0->accelerate) (0.4.6)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\danie\anaconda5\lib\site-packages (from jinja2->torch>=2.0.0->accelerate) (2.1.3)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\danie\anaconda5\lib\site-packages (from requests->huggingface-hub>=0.21.0->accelerate) (2.0.4)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\danie\anaconda5\lib\site-packages (from requests->huggingface-hub>=0.21.0->accelerate) (3.7)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\danie\anaconda5\lib\site-packages (from requests->huggingface-hub>=0.21.0->accelerate) (2.2.2)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\danie\anaconda5\lib\site-packages (from requests->huggingface-hub>=0.21.0->accelerate) (2024.8.30)
+Requirement already satisfied: mpmath>=0.19 in c:\users\danie\anaconda5\lib\site-packages (from sympy->torch>=2.0.0->accelerate) (1.3.0)
+Downloading accelerate-1.6.0-py3-none-any.whl (354 kB)
+   ---------------------------------------- 0.0/354.7 kB ? eta -:--:--   --- ------------------------------------ 30.7/354.7 kB 1.3 MB/s eta 0:00:01   ---------------------------------------  348.2/354.7 kB 5.5 MB/s eta 0:00:01   ---------------------------------------- 354.7/354.7 kB 4.4 MB/s eta 0:00:00
+Installing collected packages: accelerate
+Successfully installed accelerate-1.6.0
