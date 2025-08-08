@@ -1,0 +1,124 @@
+{
+  "add_prefix_space": false,
+  "added_tokens_decoder": {
+    "0": {
+      "content": ">>TITLE<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "1": {
+      "content": ">>ABSTRACT<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "2": {
+      "content": ">>INTRODUCTION<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "3": {
+      "content": ">>SUMMARY<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "4": {
+      "content": ">>COMMENT<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "5": {
+      "content": ">>ANSWER<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "6": {
+      "content": ">>QUESTION<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "7": {
+      "content": ">>DOMAIN<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "8": {
+      "content": ">>PREFIX<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "9": {
+      "content": ">>SUFFIX<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "10": {
+      "content": ">>MIDDLE<<",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "11": {
+      "content": "<|endoftext|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    }
+  },
+  "additional_special_tokens": [
+    ">>TITLE<<",
+    ">>ABSTRACT<<",
+    ">>INTRODUCTION<<",
+    ">>SUMMARY<<",
+    ">>COMMENT<<",
+    ">>ANSWER<<",
+    ">>QUESTION<<",
+    ">>DOMAIN<<",
+    ">>PREFIX<<",
+    ">>SUFFIX<<",
+    ">>MIDDLE<<"
+  ],
+  "clean_up_tokenization_spaces": false,
+  "eos_token": "<|endoftext|>",
+  "extra_special_tokens": {},
+  "model_input_names": [
+    "input_ids",
+    "attention_mask"
+  ],
+  "model_max_length": 2048,
+  "pad_token": "<|endoftext|>",
+  "tokenizer_class": "PreTrainedTokenizer"
+}
