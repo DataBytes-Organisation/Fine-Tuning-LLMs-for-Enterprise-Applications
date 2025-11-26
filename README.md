@@ -122,5 +122,4 @@ The project includes comprehensive visualizations comparing:
 ---
 
 **Author:** Krystal Nguyen  
-**Affiliation:** Deakin University - Applied Artificial Intelligence Institute (A2I2)  
 **Date:** May 2025
